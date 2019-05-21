@@ -1,0 +1,486 @@
+<?php $val = array (
+  'css' => '.module-newsletter-113 {
+	background: rgba(238, 238, 238, 1); 
+	padding: 25px; 
+	text-align:left; justify-content: flex-start
+}
+.module-newsletter-113 .module-body > div {
+	align-self:flex-start
+}
+.module-newsletter-113 .title::after {
+	left:0; right:auto; transform: none
+}
+.module-newsletter-113 .module-body {
+	flex-direction:column
+}
+.module-newsletter-113 .newsletter-text {
+	color: rgba(105, 105, 115, 1); 
+	line-height: 1.3; 
+	padding-bottom: 10px
+}
+.module-newsletter-113 .module-body .input-group {
+	height:40px
+}
+.module-newsletter-113 .module-body .newsletter-form .input-group input {
+	width:300px; max-width:100%
+}
+.module-newsletter-113 .btn::before {
+	content: \'\\eb79\' !important; 
+	font-family: icomoon !important; 
+	top: 1px; 
+	margin-right: 5px
+}
+.module-newsletter-113 .input-group .input-group-btn .btn, .module-newsletter-113 .input-group .input-group-btn .btn:visited {
+	font-size: 12px; 
+	font-weight: 400; 
+	text-transform: none
+}
+.module-newsletter-113 .input-group .input-group-btn .btn {
+	padding: 2px; 
+	padding-right: 6px; 
+	padding-left: 6px; 
+	min-width:20px; 
+	min-height:20px; 
+	padding-right: 10px; 
+	padding-bottom: 5px; 
+	padding-left: 10px; 
+	min-height:30px; height:30px
+}
+.desktop .module-newsletter-113 .input-group .input-group-btn .btn:hover {
+	box-shadow: 0 5px 30px -5px rgba(0, 0, 0, 0.25)
+}
+.module-newsletter-113 .input-group .input-group-btn .btn:active, .module-newsletter-113 .input-group .input-group-btn .btn:hover:active, .module-newsletter-113 .input-group .input-group-btn .btn:focus:active {
+	box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.25)
+}
+.module-newsletter-113 .input-group .input-group-btn .btn:focus {
+	box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.25)
+}
+.module-newsletter-113 .input-group-btn .btn {
+	transform: translateX(-5px); 
+	margin-top: 5px
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'text' => 'Stay up to date with our latest news and promotions by signing up for our newsletter',
+    'placeholder' => 'Your email',
+    'buttonType' => 'both',
+    'buttonText' => 'Send',
+    'tooltipStatus' => true,
+    'tooltipText' => 'Subscribe',
+    'tooltipPosition' => 'top',
+    'subscribedMessage' => 'You have been subscribed to our newsletter.',
+    'subscribedEmail' => true,
+    'subscribedEmailMessage' => 'Thank you for subscribing to our newsletter.',
+    'unsubscribeMessage' => 'You are already subscribed. Do you want to unsubscribe?',
+    'unsubscribedMessage' => 'You have been unsubscribed from our newsletter.',
+    'unsubscribedEmail' => true,
+    'unsubscribedEmailMessage' => 'We\'re sorry to see you go.',
+    'adminAlerts' => true,
+    'agree' => '',
+    'status' => true,
+    'id' => 'newsletter-5ce3d3ac22cac',
+    'module_id' => 113,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-newsletter',
+      2 => 'module-newsletter-113',
+    ),
+    'action' => 'http://local.shopoes/index.php?route=journal3/newsletter/newsletter&amp;module_id=113',
+    'agree_data' => NULL,
+    'items' => 
+    array (
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'shadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'titleDivider' => '',
+      'buttonFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'subscribedEmail' => 'true',
+      'textPadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '10',
+        'padding-left' => '',
+      ),
+      'buttonRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'subscribedEmailMessage' => 
+      array (
+        'lang_1' => 'Thank you for subscribing to our newsletter.',
+        'lang_2' => 'Thank you for subscribing to our newsletter.',
+      ),
+      'buttonOffset' => 
+      array (
+        'first' => '-5',
+        'second' => '5',
+      ),
+      'agreePadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'agreeLink' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'adminAlerts' => 'true',
+      'titleFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'position' => 'column',
+      'unsubscribedEmail' => 'true',
+      'name' => 'Popup Newsletter',
+      'buttonIcon' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '1',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '5',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => 'eb79',
+          'name' => 'mail',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'border' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'placeholderColorHover' => '',
+      'buttonType' => 'both',
+      'tooltipPosition' => 'top',
+      'agree' => '',
+      'moduleTitle' => '',
+      'text' => 
+      array (
+        'lang_1' => 'Stay up to date with our latest news and promotions by signing up for our newsletter',
+        'lang_2' => '',
+      ),
+      'subscribedMessage' => 
+      array (
+        'lang_1' => 'You have been subscribed to our newsletter.',
+        'lang_2' => 'You have been subscribed to our newsletter.',
+      ),
+      'titleAlign' => '',
+      'background' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '__VAR__Background Darker',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'tooltipStyle' => '',
+      'placeholderColor' => '',
+      'tooltipText' => 
+      array (
+        'lang_1' => 'Subscribe',
+        'lang_2' => 'Subscribe',
+      ),
+      'padding' => 
+      array (
+        'padding' => '25',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'inputHeight' => '40',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'placeholder' => 
+      array (
+        'lang_1' => 'Your email',
+        'lang_2' => 'Your email',
+      ),
+      'unsubscribedMessage' => 
+      array (
+        'lang_1' => 'You have been unsubscribed from our newsletter.',
+        'lang_2' => 'You have been unsubscribed from our newsletter.',
+      ),
+      'tooltipStatus' => 'true',
+      'agreeLinkHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'unsubscribeMessage' => 
+      array (
+        'lang_1' => 'You are already subscribed. Do you want to unsubscribe?',
+        'lang_2' => 'You are already subscribed. Do you want to unsubscribe?',
+      ),
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'title' => 
+      array (
+        'lang_1' => '',
+        'lang_2' => '',
+      ),
+      'buttonHeight' => '30',
+      'moduleAlign' => 'left',
+      'agreeFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'textMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'textBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'buttonFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'inputWidth' => '300',
+      'textFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '1.3',
+        'font-family' => '',
+        'color' => '__VAR__Gray',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'unsubscribedEmailMessage' => 
+      array (
+        'lang_1' => 'We\'re sorry to see you go.',
+        'lang_2' => 'We\'re sorry to see you go.',
+      ),
+      'moduleInput' => '',
+      'borderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'buttonPadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '10',
+        'padding-bottom' => '5',
+        'padding-left' => '10',
+      ),
+      'buttonStyle' => '__VAR__Small',
+      'buttonText' => 
+      array (
+        'lang_1' => 'Send',
+        'lang_2' => 'Send',
+      ),
+    ),
+  ),
+);

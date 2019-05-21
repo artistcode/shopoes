@@ -1,0 +1,2816 @@
+<?php $val = array (
+  'css' => '.links-menu-208 .title.module-title {
+	font-size: 15px; 
+	border-width: 0px; 
+	padding: 0px; 
+	white-space: normal; overflow: visible; text-overflow: initial
+}
+.links-menu-208 .title.module-title::after {
+	display:none
+}
+.links-menu-208 .title.module-title.page-title > span::after {
+	display:none
+}
+.links-menu-208 .module-body {
+	display:block; 
+	justify-content: flex-start;; 
+	-webkit-overflow-scrolling:touch;; 
+	column-count:initial; 
+	column-gap:20px; 
+	column-rule-style: none
+}
+.links-menu-208 .menu-item {
+	border-width: 1px 0 0 0; 
+	flex-grow:0; 
+	justify-content:flex-start; 
+	width:auto
+}
+.links-menu-208 .menu-item a .links-text {
+	white-space:normal; 
+	color: rgba(105, 105, 115, 1)
+}
+.links-menu-208 .menu-item a {
+	justify-content:flex-start; 
+	width:auto; 
+	padding-bottom: 4px
+}
+.links-menu-208 .menu-item a:hover .links-text {
+	color: rgba(233, 102, 49, 1); 
+	text-decoration: underline
+}
+.links-menu-208 .count-badge {
+	display: none
+}
+.phone footer .links-menu .module-title::before {
+	display: block
+}
+.phone footer .links-menu .module-title.closed + .module-body {
+	display:none
+}
+.phone footer .links-menu .module-title.closed {
+	margin:0
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'title' => 'Top Brands',
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'status' => true,
+    'id' => 'links-menu-5ce3d3ac9679c',
+    'module_id' => 208,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-208',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Apple',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '8',
+          'href' => 'http://local.shopoes/index.php?route=product/manufacturer/info&amp;manufacturer_id=8',
+          'name' => 'Apple',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Awesome Brand',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '12',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Chic D\'or',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '13',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Ericksson',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '15',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Fort Cane',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '17',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Hipster',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '14',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-6',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      7 => 
+      array (
+        'title' => 'Melissa Johnson',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '18',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-7',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      8 => 
+      array (
+        'title' => 'NY Fashion',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '16',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-8',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      9 => 
+      array (
+        'title' => 'Olivia Smith',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '19',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-9',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      10 => 
+      array (
+        'title' => 'NY Fashion',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '16',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-10',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      11 => 
+      array (
+        'title' => 'Ericksson',
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '15',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-11',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'itemBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'titleDivider' => '',
+      'itemFull' => 'auto',
+      'itemFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '__VAR__Gray',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'linksPlusMobileClose' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'linksColumns' => 'initial',
+      'align' => 'start',
+      'itemDivider' => 
+      array (
+        'width' => '',
+        'style' => '',
+        'color' => '',
+      ),
+      'countBadgeVisibility' => 'false',
+      'linksColumnDividerStyle' => 'none',
+      'countBadgeOffset' => 
+      array (
+        'first' => '',
+        'second' => '',
+      ),
+      'titleFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'linksColumnGap' => '20',
+      'layout' => 'start',
+      'Layout' => 'default',
+      'name' => 'Custom Links - Top Brands - Flyout Menu',
+      'itemIcon' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'moduleTitle' => '__VAR__Small',
+      'Scroll' => 'false',
+      'titleAlign' => '',
+      'Background' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'itemIconHover' => '',
+      'Padding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'ScrollTouch' => 'true',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'itemWidth' => 'auto',
+      'countBadge' => '',
+      'itemDividerHover' => '',
+      'ScrollColor' => '',
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'TrackColor' => '',
+      'title' => 
+      array (
+        'lang_1' => 'Top Brands',
+        'lang_2' => 'Top Brands',
+      ),
+      'linksPlusButtonMobileStatus' => 'true',
+      'linksColumnDividerColor' => '',
+      'itemFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '__VAR__Fire',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => 'underline',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'itemBackgroundHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'linksColumnDividerWidth' => '',
+      'itemPadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '4',
+        'padding-left' => '',
+      ),
+      'MaxHeight-Removed' => '',
+      'Direction' => 'vertical',
+      'linksPlusMobileOpen' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Apple',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Apple',
+          'lang_2' => 'Apple',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '8',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'cc6f4b90-4a74-4d7a-bdee-82fa00589b52',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      1 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Awesome Brand',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Awesome Brand',
+          'lang_2' => 'Awesome Brand',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '12',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '3d96001e-f0f2-44c4-a162-3c83815130ce',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      2 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Chic D\'or',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Chic D\'or',
+          'lang_2' => 'Chic D\'or',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '13',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'e58648b8-a645-4146-a923-cc4951af4c2c',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      3 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Ericksson',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Ericksson',
+          'lang_2' => 'Ericksson',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '15',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '981d09ca-5358-4648-966f-1cd871aebb72',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      4 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Fort Cane',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Fort Cane',
+          'lang_2' => 'Fort Cane',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '17',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '670c0f47-bba1-4207-a3b6-4b3776783a5f',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      5 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Hipster',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Hipster',
+          'lang_2' => 'Hipster',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '14',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'a37121dd-1811-483f-8565-cd80c24602d1',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      6 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Melissa Johnson',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Melissa Johnson',
+          'lang_2' => 'Melissa Johnson',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '18',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '3d9064c9-989a-45c3-82b0-e1f8b3225735',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      7 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'NY Fashion',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'NY Fashion',
+          'lang_2' => 'NY Fashion',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '16',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '6534901b-ec60-4408-94eb-f30180b53f31',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      8 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Olivia Smith',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Olivia Smith',
+          'lang_2' => 'Olivia Smith',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '19',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'c0f49c81-5a01-490a-ab6c-90ebccc34895',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      9 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'NY Fashion',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'NY Fashion',
+          'lang_2' => 'NY Fashion',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '16',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '19b70bf5-7005-4d6a-8d8e-6048a04e308d',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      10 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Ericksson',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Ericksson',
+          'lang_2' => 'Ericksson',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'manufacturer',
+          'id' => '15',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '4b0544a1-ea5e-4026-84e2-a118a36b25be',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+    ),
+  ),
+);

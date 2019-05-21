@@ -1,0 +1,1266 @@
+<?php $val = array (
+  'css' => '.bottom-menu-266 > ul > li > a {
+	height: 50px; 
+	min-width: 50px; 
+	font-size: 10px; 
+	color: rgba(139, 145, 152, 1)
+}
+.has-bottom-menu .site-wrapper {
+	padding-bottom: 50px
+}
+.has-bottom-menu .scroll-top {
+	bottom: calc(50px + 10px)
+}
+.bottom-menu-266 li > a::before {
+	font-size:20px
+}
+.bottom-menu-266 > ul > li + li {
+	border-style: solid; 
+	border-color: rgba(226, 226, 226, 1)
+}
+.bottom-menu-266 {
+	border-style: solid; 
+	border-color: rgba(226, 226, 226, 1); 
+	background: rgba(240, 242, 245, 1); 
+	box-shadow: 0 -10px 30px -5px rgba(0, 0, 0, 0.15)
+}
+.bottom-menu-266 > ul > li > a::before {
+	color: rgba(105, 105, 115, 1)
+}
+.bottom-menu-266 > ul > li > a .count-badge {
+	margin-top:-7px; 
+	display: inline-flex
+}
+.bottom-menu-266 .bottom-menu-item-1 > a::before {
+	content: \'\\eb69\' !important; 
+	font-family: icomoon !important
+}
+.bottom-menu-266 .bottom-menu-item-2 > a::before {
+	content: \'\\eaa7\' !important; 
+	font-family: icomoon !important
+}
+.bottom-menu-266 .bottom-menu-item-3 > a::before {
+	content: \'\\eab6\' !important; 
+	font-family: icomoon !important
+}
+.bottom-menu-266 .bottom-menu-item-4 > a::before {
+	content: \'\\f003\' !important; 
+	font-family: icomoon !important
+}
+.bottom-menu-266 .bottom-menu-item-5 > a::before {
+	content: \'\\eaac\' !important; 
+	font-family: icomoon !important
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => false,
+    'id' => 'bottom-menu-5ce3d3ac2fe7f',
+    'module_id' => 266,
+    'classes' => 
+    array (
+      0 => 'bottom-menu',
+      1 => 'bottom-menu-266',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Home',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://local.shopoes/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'bottom-menu-item',
+          2 => 'bottom-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Wishlist',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '22',
+          'href' => 'http://local.shopoes/index.php?route=account/wishlist',
+          'name' => '',
+          'total' => '{{ $wishlist }}',
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'wishlist-badge',
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'bottom-menu-item',
+          2 => 'bottom-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Compare',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '22',
+          'href' => 'http://local.shopoes/index.php?route=product/compare',
+          'name' => '',
+          'total' => '{{ $compare }}',
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'compare-badge',
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'bottom-menu-item',
+          2 => 'bottom-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Email',
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '257',
+          'href' => 'javascript:open_popup(257)',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'bottom-menu-item',
+          2 => 'bottom-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Call us',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '22',
+          'href' => 'tel:18005559090',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'bottom-menu-item',
+          2 => 'bottom-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'Shadow' => '__VAR__Upward',
+      'iconsActive' => '',
+      'iconsHover' => '',
+      'width' => '50',
+      'countBadgeVisibility' => 'true',
+      'barDivider' => 
+      array (
+        'width' => '',
+        'style' => 'solid',
+        'color' => '__VAR__Border',
+      ),
+      'height' => '50',
+      'countBadgeOffset' => 
+      array (
+        'first' => '',
+        'second' => '-7',
+      ),
+      'name' => 'Bottom Menu',
+      'fontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'backgroundHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'background' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '__VAR__Background Shade',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'font' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '__VAR__Neutral',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '__VAR__XXXS',
+      ),
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'backgroundActive' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'countBadge' => '',
+      'fontActive' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'divider' => 
+      array (
+        'width' => '',
+        'style' => 'solid',
+        'color' => '__VAR__Border',
+      ),
+      'iconSize' => '20',
+      'icons' => '__VAR__Gray',
+      'borderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'name' => 'Home',
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'backgroundActive' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontActive' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Home',
+          'lang_2' => 'Home',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'eb69',
+            'name' => 'home3',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'common/home',
+        ),
+        'id' => 'cb503c6d-e00a-4ccb-aa3c-dd95d9efc373',
+      ),
+      1 => 
+      array (
+        'name' => 'Wishlist',
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'backgroundActive' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontActive' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Wishlist',
+          'lang_2' => 'Wishlist',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'eaa7',
+            'name' => 'iconmonstr-favorite-2',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '22',
+          'url' => 'tel:18005559090',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'account/wishlist',
+        ),
+        'id' => '73368f0a-c47e-4220-8492-1b3d88b3dd30',
+      ),
+      2 => 
+      array (
+        'name' => 'Compare',
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'backgroundActive' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontActive' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Compare',
+          'lang_2' => 'Compare',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'eab6',
+            'name' => 'iconmonstr-compare',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '22',
+          'url' => 'tel:18005559090',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'product/compare',
+        ),
+        'id' => 'f95a2aac-7c00-4903-967b-bcca39f734fb',
+      ),
+      3 => 
+      array (
+        'name' => 'Email',
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'backgroundActive' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontActive' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Email',
+          'lang_2' => 'Email',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'f003',
+            'name' => 'envelope-o',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '257',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '0a9ee6e7-1266-42f6-acda-68385c0e77f3',
+      ),
+      4 => 
+      array (
+        'name' => 'Call us',
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'backgroundActive' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontActive' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Call us',
+          'lang_2' => 'Call us',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'eaac',
+            'name' => 'iconmonstr-phone-9',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '22',
+          'url' => 'tel:18005559090',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'd25c48a1-8a23-4ce6-ad86-24c9ff35dc8c',
+      ),
+    ),
+  ),
+);

@@ -1,0 +1,2361 @@
+<?php $val = array (
+  'css' => '.links-menu-205 ul.module-body {
+	padding: 7px
+}
+.links-menu-205 .module-body {
+	display:flex; align-items:center; flex-direction:row; 
+	justify-content: flex-start;; 
+	flex-wrap: nowrap; overflow-x: auto; overflow-y: hidden; 
+	-webkit-overflow-scrolling:touch;; 
+	column-count:initial; 
+	column-gap:30px; 
+	column-rule-width:1px; 
+	column-rule-style: solid
+}
+.links-menu-205 .menu-item {
+	border-width: 0 0 0 1px; 
+	flex-grow:0; 
+	justify-content:flex-start; 
+	width:auto; 
+	white-space:nowrap
+}
+.links-menu-205 .menu-item a .links-text {
+	white-space:nowrap; 
+	font-size: 13px
+}
+.links-menu-205 .menu-item a {
+	justify-content:flex-start; 
+	width:auto; 
+	padding-left: 7px
+}
+.links-menu-205 .menu-item a::before {
+	content: \'\\f111\' !important; 
+	font-family: icomoon !important; 
+	font-size: 3px; 
+	margin-right: 7px
+}
+.mobile.touchevents .links-menu-205 .module-body {
+	overflow-x: scroll
+}
+.links-menu-205 .module-body::-webkit-scrollbar {
+	-webkit-appearance: none; height: 3px
+}
+.links-menu-205 .module-body::-webkit-scrollbar-track {
+	background-color: white
+}
+.links-menu-205 .module-body::-webkit-scrollbar-thumb {
+	background-color: #999
+}
+.links-menu-205 .count-badge {
+	display: none
+}
+.phone footer .links-menu .module-title::before {
+	display: block
+}
+.phone footer .links-menu .module-title.closed + .module-body {
+	display:none
+}
+.phone footer .links-menu .module-title.closed {
+	margin:0
+}
+.links-menu-205 .links-menu-item-1 > a::before {
+	content: none !important
+}
+.links-menu-205 .links-menu-item-1 a {
+	padding-right: 3px
+}
+.links-menu-205 .links-menu-item-1 a .links-text {
+	color: rgba(105, 105, 115, 1); 
+	font-weight: 700; 
+	text-decoration: none
+}
+.links-menu-205 .links-menu-item-1:hover a .links-text {
+	text-decoration: none
+}
+.links-menu-205 .links-menu-item-2 > a::before {
+	content: none !important
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'title' => '',
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'status' => true,
+    'id' => 'links-menu-5ce3d3acb57e8',
+    'module_id' => 205,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-205',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Don\'t Miss:',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Create',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => '#',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Any Links',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => '#',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Vertical',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => '#',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Horizontal',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => '#',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Fashion',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => 'http://local.shopoes/index.php?route=product/category&amp;path=59',
+          'name' => 'Cellphone',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-6',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      7 => 
+      array (
+        'title' => 'Electronics',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '69',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-7',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      8 => 
+      array (
+        'title' => 'Custom Popups',
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '22',
+          'href' => 'javascript:open_popup(22)',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-8',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'itemBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'titleDivider' => '',
+      'itemFull' => 'auto',
+      'itemFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '__VAR__Small',
+      ),
+      'linksPlusMobileClose' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'linksColumns' => 'initial',
+      'align' => 'start',
+      'itemDivider' => 
+      array (
+        'width' => '',
+        'style' => '',
+        'color' => '',
+      ),
+      'countBadgeVisibility' => 'false',
+      'linksColumnDividerStyle' => 'solid',
+      'countBadgeOffset' => 
+      array (
+        'first' => '',
+        'second' => '',
+      ),
+      'titleFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'linksColumnGap' => '30',
+      'layout' => 'start',
+      'Layout' => 'default',
+      'name' => 'Custom Links Horizontal - Flyout Menu',
+      'itemIcon' => 
+      array (
+        'size' => '3',
+        'color' => '__VAR__ACCENT_2',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '7',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => 'f111',
+          'name' => 'circle',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'moduleTitle' => '',
+      'Scroll' => 'true',
+      'titleAlign' => '',
+      'Background' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '__VAR__COLOR_4',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'itemIconHover' => '',
+      'Padding' => 
+      array (
+        'padding' => '7',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'ScrollTouch' => 'true',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'itemWidth' => 'auto',
+      'countBadge' => '',
+      'itemDividerHover' => '',
+      'ScrollColor' => '',
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'TrackColor' => '',
+      'title' => 
+      array (
+        'lang_1' => '',
+        'lang_2' => '',
+      ),
+      'linksPlusButtonMobileStatus' => 'true',
+      'linksColumnDividerColor' => '',
+      'itemFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'itemBackgroundHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'linksColumnDividerWidth' => '1',
+      'itemPadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '7',
+      ),
+      'MaxHeight-Removed' => '',
+      'Direction' => 'horizontal',
+      'linksPlusMobileOpen' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '__VAR__Gray',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => 'none',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '700',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Links Title',
+        'itemIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemIconHover' => '',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Don\'t Miss:',
+          'lang_2' => 'Horizontal Links:',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'true',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '__VAR__ACCENT_3',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => 'none',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'b0274447-e7f3-440c-9e3f-b9b2dd6fd67b',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '3',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      1 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Create',
+        'itemIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemIconHover' => '',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Create',
+          'lang_2' => 'Define',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'true',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'url' => '#',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '4a4cfe22-efee-4342-b213-01230af8cc87',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      2 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Any Links',
+        'itemIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemIconHover' => '',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Any Links',
+          'lang_2' => 'Your Own',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'url' => '#',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '327a42e7-ff01-4ff4-a29f-455801a8106a',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      3 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Vertical',
+        'itemIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemIconHover' => '',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Vertical',
+          'lang_2' => 'Vertical',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'url' => '#',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '31031093-0788-40eb-828d-c7f768b4d940',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      4 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Horizontal',
+        'itemIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemIconHover' => '',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Horizontal',
+          'lang_2' => 'Horizontal',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'url' => '#',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '09881be9-ba6d-4c1e-9f12-a0bcd2b84f23',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      5 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Fashion',
+        'itemIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemIconHover' => '',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Fashion',
+          'lang_2' => 'Fashion',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '860ff872-d5d8-4194-a692-ed32d8ce70fb',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      6 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Electronics',
+        'itemIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemIconHover' => '',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Electronics',
+          'lang_2' => 'Electronics',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '69',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '3034344a-b124-4353-8e37-ccd31e991716',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+      7 => 
+      array (
+        'itemBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '__VAR__COLOR_7',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'name' => 'Popup',
+        'itemIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemIconHover' => '',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Custom Popups',
+          'lang_2' => 'Custom Popups',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'itemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '22',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '4794d924-11fe-4f36-8ff9-aebd5bde0873',
+        'itemBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'subcategories' => 'true',
+        'labelStyle' => '',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'itemPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+      ),
+    ),
+  ),
+);

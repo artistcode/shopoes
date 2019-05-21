@@ -1,0 +1,1812 @@
+<?php $val = array (
+  'css' => 'footer .grid-row-1 {
+	background: rgba(58, 71, 84, 1); 
+	padding: 30px
+}
+footer .grid-row-1::before {
+	display: block; 
+	left: 0; width:100vw
+}
+
+@media (max-width: 1300px) {
+	footer .grid-row-1 {
+	padding: 20px
+	}
+}
+footer .grid-row-1 .grid-col-1 {
+	width: 100%
+}
+footer .grid-row-1 .grid-col-1 .grid-items {
+	justify-content: flex-start
+}
+footer .grid-row-2 {
+	background: rgba(238, 238, 238, 1); 
+	padding: 15px; 
+	padding-right: 5px; 
+	padding-left: 5px
+}
+footer .grid-row-2::before {
+	display: block; 
+	left: 0; width:100vw
+}
+footer .grid-row-2 .grid-col-1 {
+	width: 100%
+}
+footer .grid-row-2 .grid-col-1 .grid-items {
+	justify-content: flex-start
+}
+footer .grid-row-3 {
+	padding: 20px; 
+	padding-right: 0px; 
+	padding-left: 0px
+}
+footer .grid-row-3::before {
+	display: block; 
+	left: 0; width:100vw
+}
+footer .grid-row-3 .grid-col-1 {
+	width: 25%; 
+	border-width: 0; 
+	border-right-width: 1px; 
+	border-style: solid; 
+	border-color: rgba(226, 226, 226, 1); 
+	padding: 20px; 
+	padding-top: 0px
+}
+footer .grid-row-3 .grid-col-1 .grid-items {
+	justify-content: flex-start
+}
+
+@media (max-width: 1024px) {
+	footer .grid-row-3 .grid-col-1 {
+	width: 50%
+	}
+}
+
+@media (max-width: 760px) {
+	footer .grid-row-3 .grid-col-1 {
+	width: 100%
+	}
+}
+footer .grid-row-3 .grid-col-2 {
+	width: 25%; 
+	border-width: 0; 
+	border-right-width: 1px; 
+	border-style: solid; 
+	border-color: rgba(226, 226, 226, 1); 
+	padding: 20px; 
+	padding-top: 0px
+}
+footer .grid-row-3 .grid-col-2 .grid-items {
+	justify-content: flex-start
+}
+
+@media (max-width: 1024px) {
+	footer .grid-row-3 .grid-col-2 {
+	width: 50%
+	}
+}
+
+@media (max-width: 760px) {
+	footer .grid-row-3 .grid-col-2 {
+	width: 100%
+	}
+}
+footer .grid-row-3 .grid-col-3 {
+	width: 25%; 
+	border-width: 0; 
+	border-right-width: 1px; 
+	border-style: solid; 
+	border-color: rgba(226, 226, 226, 1); 
+	padding: 20px; 
+	padding-top: 0px
+}
+footer .grid-row-3 .grid-col-3 .grid-items {
+	justify-content: flex-start
+}
+
+@media (max-width: 1024px) {
+	footer .grid-row-3 .grid-col-3 {
+	width: 50%
+	}
+}
+
+@media (max-width: 760px) {
+	footer .grid-row-3 .grid-col-3 {
+	width: 100%
+	}
+}
+footer .grid-row-3 .grid-col-4 {
+	width: 25%; 
+	padding: 20px; 
+	padding-top: 0px
+}
+footer .grid-row-3 .grid-col-4 .grid-items {
+	justify-content: flex-start
+}
+
+@media (max-width: 1024px) {
+	footer .grid-row-3 .grid-col-4 {
+	width: 50%
+	}
+}
+
+@media (max-width: 760px) {
+	footer .grid-row-3 .grid-col-4 {
+	width: 100%
+	}
+}
+footer .grid-row-4 {
+	background: rgba(58, 71, 84, 1); 
+	padding: 20px; 
+	padding-bottom: 15px
+}
+footer .grid-row-4::before {
+	display: block; 
+	left: 0; width:100vw
+}
+footer .grid-row-4 .grid-col-1 {
+	width: 33.33333333333333%
+}
+footer .grid-row-4 .grid-col-1 .grid-items {
+	justify-content: center
+}
+
+@media (max-width: 980px) {
+	footer .grid-row-4 .grid-col-1 {
+	width: 100%; 
+	margin-bottom:10px
+	}
+}
+footer .grid-row-4 .grid-col-2 {
+	width: 66.66666666666666%
+}
+footer .grid-row-4 .grid-col-2 .grid-items {
+	justify-content: center
+}
+
+@media (max-width: 980px) {
+	footer .grid-row-4 .grid-col-2 {
+	width: 100%
+	}
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'grid_classes' => 
+    array (
+      0 => 'grid-rows',
+    ),
+    'rows' => 
+    array (
+      1 => 
+      array (
+        'classes' => 
+        array (
+          0 => 'grid-row',
+          1 => 'grid-row-1',
+        ),
+        'columns' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-1',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '39',
+                  'name' => 'Footer Products',
+                  'type' => 'side_products',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      2 => 
+      array (
+        'classes' => 
+        array (
+          0 => 'grid-row',
+          1 => 'grid-row-2',
+        ),
+        'columns' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-1',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '61',
+                  'name' => 'Social Icons',
+                  'type' => 'icons_menu',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      3 => 
+      array (
+        'classes' => 
+        array (
+          0 => 'grid-row',
+          1 => 'grid-row-3',
+        ),
+        'columns' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-1',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '72',
+                  'name' => 'About Us - Footer',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          2 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-2',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '75',
+                  'name' => 'Customer Service',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          3 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-3',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '76',
+                  'name' => 'My Account',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          4 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-4',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '67',
+                  'name' => 'New Newsletter ',
+                  'type' => 'newsletter',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      4 => 
+      array (
+        'classes' => 
+        array (
+          0 => 'grid-row',
+          1 => 'grid-row-4',
+        ),
+        'columns' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-1',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '77',
+                  'name' => 'Copyright',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          2 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-2',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '228',
+                  'name' => 'Payments',
+                  'type' => 'icons_menu',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'name' => 'Footer',
+      'margin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'background' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'pad' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'border' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'width' => '',
+      'padding' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+    ),
+    'rows' => 
+    array (
+      0 => 
+      array (
+        'id' => '58610474-8656-4991-bcb4-601cfe48716c',
+        'options' => 
+        array (
+          'shadow' => 
+          array (
+            'offsetX' => '',
+            'offsetY' => '',
+            'blur' => '',
+            'spread' => '',
+            'color' => '',
+            'inner' => 'false',
+            'none' => 'false',
+          ),
+          'overlayStatus' => 'false',
+          'overlayVisibility' => 'true',
+          'overlayTop' => '',
+          'marginTop' => '',
+          'overlayRotate' => '',
+          'padding_multi' => 
+          array (
+            0 => 
+            array (
+              'min' => '',
+              'max' => '__VAR__Laptop',
+              'value' => 
+              array (
+                'padding-left' => '',
+                'padding-top' => '',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding' => '20',
+              ),
+            ),
+          ),
+          'border' => 
+          array (
+            'border-width' => '',
+            'border-top-width' => '',
+            'border-right-width' => '',
+            'border-bottom-width' => '',
+            'border-left-width' => '',
+            'border-style' => '',
+            'border-color' => '',
+          ),
+          'background' => 
+          array (
+            'background-size' => 'cover',
+            'backgroundPositionX' => '',
+            'backgroundPositionY' => '',
+            'background-attachment' => 'fixed',
+            'background-color' => '__VAR__Dark 2',
+            'background-origin' => '',
+            'background-position' => 'center center',
+            'backgroundSizeW' => '',
+            'overlay' => '',
+            'gradient' => '',
+            'backgroundSizeUnit' => 'px',
+            'none' => 'false',
+            'backgroundSizeH' => '',
+            'background-repeat' => '',
+            'backgroundPositionUnit' => 'px',
+            'background-image' => '',
+          ),
+          'margin' => '',
+          'overlay' => '',
+          'padding' => 
+          array (
+            'padding' => '30',
+            'padding-top' => '',
+            'padding-right' => '',
+            'padding-bottom' => '',
+            'padding-left' => '',
+          ),
+          'status' => 
+          array (
+            'status' => 'true',
+            'device' => 
+            array (
+              0 => 'phone',
+              1 => 'tablet',
+              2 => 'desktop',
+            ),
+            'customer' => '',
+            'admin' => 'false',
+            'customer_group_1' => 'true',
+            'store_0' => 'true',
+            'store_1' => 'true',
+            'customer_groups' => 
+            array (
+              0 => '1',
+            ),
+          ),
+          'overlayAlign' => 'center',
+          'fullwidth' => 'false',
+          'overlayHeight' => '',
+          'overlayBorder' => 
+          array (
+            'border-width' => '',
+            'border-top-width' => '',
+            'border-right-width' => '',
+            'border-bottom-width' => '',
+            'border-left-width' => '',
+            'border-style' => '',
+            'border-color' => '',
+          ),
+          'overlayBackground' => 
+          array (
+            'backgroundPositionX' => '',
+            'backgroundPositionY' => '',
+            'background-attachment' => '',
+            'background-color' => '',
+            'background-origin' => '',
+            'background-position' => '',
+            'backgroundSizeW' => '',
+            'overlay' => '',
+            'gradient' => '',
+            'backgroundSizeUnit' => 'px',
+            'none' => 'false',
+            'backgroundSizeH' => '',
+            'background-repeat' => '',
+            'backgroundPositionUnit' => 'px',
+            'background-image' => '',
+          ),
+        ),
+        'columns' => 
+        array (
+          0 => 
+          array (
+            'id' => '574301f3-2155-47fe-8c55-e834e83afd30',
+            'options' => 
+            array (
+              'alignH' => '',
+              'align' => 'top',
+              'width' => '100',
+              'marginTop' => '',
+              'name' => 
+              array (
+                'lang_1' => 'New Column',
+                'lang_2' => 'New Column',
+              ),
+              'border' => 
+              array (
+                'border-width' => '',
+                'border-top-width' => '',
+                'border-right-width' => '',
+                'border-bottom-width' => '',
+                'border-left-width' => '',
+                'border-style' => '',
+                'border-color' => '',
+              ),
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'overlay' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'margin' => '',
+              'padding' => 
+              array (
+                'padding' => '',
+                'padding-top' => '',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'status' => 
+              array (
+                'status' => 'true',
+                'device' => 
+                array (
+                  0 => 'phone',
+                  1 => 'tablet',
+                  2 => 'desktop',
+                ),
+                'customer' => '',
+                'admin' => 'false',
+                'customer_group_1' => 'true',
+                'store_0' => 'true',
+                'store_1' => 'true',
+                'customer_groups' => 
+                array (
+                  0 => '1',
+                ),
+              ),
+            ),
+            'items' => 
+            array (
+              0 => 
+              array (
+                'id' => 'f6461049-b0fd-4e1f-97ef-0caa0d4387ca',
+                'item' => 
+                array (
+                  'id' => '39',
+                  'name' => 'Footer Products',
+                  'type' => 'side_products',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      1 => 
+      array (
+        'id' => '28480327-acc3-4186-be71-896b2fea8865',
+        'options' => 
+        array (
+          'shadow' => 
+          array (
+            'offsetX' => '',
+            'offsetY' => '',
+            'blur' => '',
+            'spread' => '',
+            'color' => '',
+            'inner' => 'false',
+            'none' => 'false',
+          ),
+          'overlayStatus' => 'false',
+          'overlayVisibility' => 'true',
+          'overlayTop' => '',
+          'marginTop' => '',
+          'overlayRotate' => '',
+          'border' => 
+          array (
+            'border-width' => '',
+            'border-top-width' => '',
+            'border-right-width' => '',
+            'border-bottom-width' => '',
+            'border-left-width' => '',
+            'border-style' => '',
+            'border-color' => '',
+          ),
+          'background' => 
+          array (
+            'background-size' => 'cover',
+            'backgroundPositionX' => '',
+            'backgroundPositionY' => '',
+            'background-attachment' => '',
+            'background-color' => '__VAR__Background Darker',
+            'background-origin' => '',
+            'background-position' => '',
+            'backgroundSizeW' => '',
+            'overlay' => '',
+            'gradient' => '',
+            'backgroundSizeUnit' => 'px',
+            'none' => 'false',
+            'backgroundSizeH' => '',
+            'background-repeat' => '',
+            'backgroundPositionUnit' => 'px',
+            'background-image' => '',
+          ),
+          'margin' => '',
+          'overlay' => '',
+          'padding' => 
+          array (
+            'padding' => '15',
+            'padding-top' => '',
+            'padding-right' => '5',
+            'padding-bottom' => '',
+            'padding-left' => '5',
+          ),
+          'status' => 
+          array (
+            'status' => 'true',
+            'device' => 
+            array (
+              0 => 'phone',
+              1 => 'tablet',
+              2 => 'desktop',
+            ),
+            'customer' => '',
+            'admin' => 'false',
+            'customer_group_1' => 'true',
+            'store_0' => 'true',
+            'store_1' => 'true',
+            'customer_groups' => 
+            array (
+              0 => '1',
+            ),
+          ),
+          'overlayAlign' => 'center',
+          'fullwidth' => 'false',
+          'overlayHeight' => '',
+          'overlayBorder' => 
+          array (
+            'border-width' => '',
+            'border-top-width' => '',
+            'border-right-width' => '',
+            'border-bottom-width' => '',
+            'border-left-width' => '',
+            'border-style' => '',
+            'border-color' => '',
+          ),
+          'overlayBackground' => 
+          array (
+            'backgroundPositionX' => '',
+            'backgroundPositionY' => '',
+            'background-attachment' => '',
+            'background-color' => '',
+            'background-origin' => '',
+            'background-position' => '',
+            'backgroundSizeW' => '',
+            'overlay' => '',
+            'gradient' => '',
+            'backgroundSizeUnit' => 'px',
+            'none' => 'false',
+            'backgroundSizeH' => '',
+            'background-repeat' => '',
+            'backgroundPositionUnit' => 'px',
+            'background-image' => '',
+          ),
+        ),
+        'columns' => 
+        array (
+          0 => 
+          array (
+            'id' => '574301f3-2155-47fe-8c55-e834e83afd30',
+            'options' => 
+            array (
+              'alignH' => '',
+              'align' => 'top',
+              'width' => '100',
+              'marginTop' => '',
+              'name' => 
+              array (
+                'lang_1' => 'New Column',
+                'lang_2' => 'New Column',
+              ),
+              'border' => 
+              array (
+                'border-width' => '',
+                'border-top-width' => '',
+                'border-right-width' => '',
+                'border-bottom-width' => '',
+                'border-left-width' => '',
+                'border-style' => '',
+                'border-color' => '',
+              ),
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'overlay' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'margin' => '',
+              'padding' => 
+              array (
+                'padding' => '',
+                'padding-top' => '',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'status' => 
+              array (
+                'status' => 'true',
+                'device' => 
+                array (
+                  0 => 'phone',
+                  1 => 'tablet',
+                  2 => 'desktop',
+                ),
+                'customer' => '',
+                'admin' => 'false',
+                'customer_group_1' => 'true',
+                'store_0' => 'true',
+                'store_1' => 'true',
+                'customer_groups' => 
+                array (
+                  0 => '1',
+                ),
+              ),
+            ),
+            'items' => 
+            array (
+              0 => 
+              array (
+                'id' => 'f6461049-b0fd-4e1f-97ef-0caa0d4387ca',
+                'item' => 
+                array (
+                  'id' => '61',
+                  'name' => 'Social Icons',
+                  'type' => 'icons_menu',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      2 => 
+      array (
+        'id' => '69c9487b-a60a-4cc7-a351-9c202309671a',
+        'options' => 
+        array (
+          'shadow' => 
+          array (
+            'offsetX' => '',
+            'offsetY' => '',
+            'blur' => '',
+            'spread' => '',
+            'color' => '',
+            'inner' => 'false',
+            'none' => 'false',
+          ),
+          'overlayStatus' => 'false',
+          'overlayVisibility' => 'true',
+          'overlayTop' => '',
+          'marginTop' => '',
+          'overlayRotate' => '',
+          'padding_multi' => 
+          array (
+          ),
+          'border' => 
+          array (
+            'border-width' => '',
+            'border-top-width' => '',
+            'border-right-width' => '',
+            'border-bottom-width' => '',
+            'border-left-width' => '',
+            'border-style' => '',
+            'border-color' => '',
+          ),
+          'background' => 
+          array (
+            'backgroundPositionX' => '',
+            'backgroundPositionY' => '',
+            'background-attachment' => '',
+            'background-color' => '',
+            'background-origin' => '',
+            'background-position' => '',
+            'backgroundSizeW' => '',
+            'overlay' => '',
+            'gradient' => '',
+            'backgroundSizeUnit' => 'px',
+            'none' => 'false',
+            'backgroundSizeH' => '',
+            'background-repeat' => '',
+            'backgroundPositionUnit' => 'px',
+            'background-image' => '',
+          ),
+          'margin' => '',
+          'overlay' => '',
+          'padding' => 
+          array (
+            'padding' => '20',
+            'padding-top' => '',
+            'padding-right' => '0',
+            'padding-bottom' => '',
+            'padding-left' => '0',
+          ),
+          'status' => 
+          array (
+            'status' => 'true',
+            'device' => 
+            array (
+              0 => 'phone',
+              1 => 'tablet',
+              2 => 'desktop',
+            ),
+            'customer' => '',
+            'admin' => 'false',
+            'customer_group_1' => 'true',
+            'store_0' => 'true',
+            'store_1' => 'true',
+            'customer_groups' => 
+            array (
+              0 => '1',
+            ),
+          ),
+          'overlayAlign' => 'center',
+          'fullwidth' => 'false',
+          'overlayHeight' => '',
+          'overlayBorder' => 
+          array (
+            'border-width' => '',
+            'border-top-width' => '',
+            'border-right-width' => '',
+            'border-bottom-width' => '',
+            'border-left-width' => '',
+            'border-style' => '',
+            'border-color' => '',
+          ),
+          'overlayBackground' => 
+          array (
+            'backgroundPositionX' => '',
+            'backgroundPositionY' => '',
+            'background-attachment' => '',
+            'background-color' => '',
+            'background-origin' => '',
+            'background-position' => '',
+            'backgroundSizeW' => '',
+            'overlay' => '',
+            'gradient' => '',
+            'backgroundSizeUnit' => 'px',
+            'none' => 'false',
+            'backgroundSizeH' => '',
+            'background-repeat' => '',
+            'backgroundPositionUnit' => 'px',
+            'background-image' => '',
+          ),
+        ),
+        'columns' => 
+        array (
+          0 => 
+          array (
+            'id' => 'cf75ef91-2307-4406-88e7-e8b1d10ebfef',
+            'options' => 
+            array (
+              'width_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Tablet',
+                  'value' => '50',
+                ),
+                1 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Phone Landscape',
+                  'value' => '100',
+                ),
+              ),
+              'alignH' => '',
+              'align' => 'top',
+              'width' => '25',
+              'border_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__PHONE',
+                  'value' => 
+                  array (
+                    'border-width' => '',
+                    'border-top-width' => '',
+                    'border-right-width' => '0',
+                    'border-bottom-width' => '',
+                    'border-left-width' => '',
+                  ),
+                ),
+              ),
+              'marginTop' => '',
+              'name' => 
+              array (
+                'lang_1' => 'New Column',
+                'lang_2' => 'New Column',
+              ),
+              'border' => 
+              array (
+                'border-width' => '',
+                'border-top-width' => '',
+                'border-right-width' => '1',
+                'border-bottom-width' => '',
+                'border-left-width' => '',
+                'border-style' => 'solid',
+                'border-color' => '__VAR__Border',
+              ),
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'overlay' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'margin' => '',
+              'padding' => 
+              array (
+                'padding' => '20',
+                'padding-top' => '0',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'status' => 
+              array (
+                'status' => 'true',
+                'device' => 
+                array (
+                  0 => 'phone',
+                  1 => 'tablet',
+                  2 => 'desktop',
+                ),
+                'customer' => '',
+                'admin' => 'false',
+                'customer_group_1' => 'true',
+                'store_0' => 'true',
+                'store_1' => 'true',
+                'customer_groups' => 
+                array (
+                  0 => '1',
+                ),
+              ),
+            ),
+            'items' => 
+            array (
+              0 => 
+              array (
+                'id' => 'c5dee172-3079-4a84-a777-fdf74a85e8b9',
+                'item' => 
+                array (
+                  'id' => '72',
+                  'name' => 'About Us - Footer',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          1 => 
+          array (
+            'id' => 'e1222450-64bb-43a6-b5df-90143606a57d',
+            'options' => 
+            array (
+              'width_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Tablet',
+                  'value' => '50',
+                ),
+                1 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Phone Landscape',
+                  'value' => '100',
+                ),
+              ),
+              'alignH' => '',
+              'align' => 'top',
+              'width' => '25',
+              'border_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__PHONE',
+                  'value' => 
+                  array (
+                    'border-width' => '',
+                    'border-right-width' => '0',
+                    'border-left-width' => '',
+                    'border-bottom-width' => '',
+                  ),
+                ),
+              ),
+              'marginTop' => '',
+              'name' => 
+              array (
+                'lang_1' => 'New Column',
+                'lang_2' => 'New Column',
+              ),
+              'border' => 
+              array (
+                'border-width' => '',
+                'border-top-width' => '',
+                'border-right-width' => '1',
+                'border-bottom-width' => '',
+                'border-left-width' => '',
+                'border-style' => 'solid',
+                'border-color' => '__VAR__Border',
+              ),
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'overlay' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'margin' => '',
+              'padding' => 
+              array (
+                'padding' => '20',
+                'padding-top' => '0',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'status' => 
+              array (
+                'status' => 'true',
+                'device' => 
+                array (
+                  0 => 'phone',
+                  1 => 'tablet',
+                  2 => 'desktop',
+                ),
+                'customer' => '',
+                'admin' => 'false',
+                'customer_group_1' => 'true',
+                'store_0' => 'true',
+                'store_1' => 'true',
+                'customer_groups' => 
+                array (
+                  0 => '1',
+                ),
+              ),
+            ),
+            'items' => 
+            array (
+              0 => 
+              array (
+                'id' => 'c5dee172-3079-4a84-a777-fdf74a85e8b9',
+                'item' => 
+                array (
+                  'id' => '75',
+                  'name' => 'Customer Service',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          2 => 
+          array (
+            'id' => 'daccc1ed-5a2c-4893-bc42-643cae60064f',
+            'options' => 
+            array (
+              'width_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Tablet',
+                  'value' => '50',
+                ),
+                1 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Phone Landscape',
+                  'value' => '100',
+                ),
+              ),
+              'alignH' => '',
+              'align' => 'top',
+              'width' => '25',
+              'border_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__PHONE',
+                  'value' => 
+                  array (
+                    'border-width' => '',
+                    'border-top-width' => '',
+                    'border-left-width' => '',
+                    'border-bottom-width' => '',
+                    'border-right-width' => '0',
+                  ),
+                ),
+              ),
+              'marginTop' => '',
+              'name' => 
+              array (
+                'lang_1' => 'New Column',
+                'lang_2' => 'New Column',
+              ),
+              'border' => 
+              array (
+                'border-width' => '',
+                'border-top-width' => '',
+                'border-right-width' => '1',
+                'border-bottom-width' => '',
+                'border-left-width' => '',
+                'border-style' => 'solid',
+                'border-color' => '__VAR__Border',
+              ),
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'overlay' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'margin' => '',
+              'padding' => 
+              array (
+                'padding' => '20',
+                'padding-top' => '0',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'status' => 
+              array (
+                'status' => 'true',
+                'device' => 
+                array (
+                  0 => 'phone',
+                  1 => 'tablet',
+                  2 => 'desktop',
+                ),
+                'customer' => '',
+                'admin' => 'false',
+                'customer_group_1' => 'true',
+                'store_0' => 'true',
+                'store_1' => 'true',
+                'customer_groups' => 
+                array (
+                  0 => '1',
+                ),
+              ),
+            ),
+            'items' => 
+            array (
+              0 => 
+              array (
+                'id' => 'c5dee172-3079-4a84-a777-fdf74a85e8b9',
+                'item' => 
+                array (
+                  'id' => '76',
+                  'name' => 'My Account',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          3 => 
+          array (
+            'id' => '1c807016-5216-4746-979a-a3b20df68a52',
+            'options' => 
+            array (
+              'width_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Tablet',
+                  'value' => '50',
+                ),
+                1 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Phone Landscape',
+                  'value' => '100',
+                ),
+              ),
+              'alignH' => '',
+              'align' => 'top',
+              'width' => '25',
+              'border_multi' => 
+              array (
+              ),
+              'marginTop' => '',
+              'name' => 
+              array (
+                'lang_1' => 'New Column',
+                'lang_2' => 'New Column',
+              ),
+              'padding_multi' => 
+              array (
+              ),
+              'border' => 
+              array (
+                'border-width' => '',
+                'border-top-width' => '',
+                'border-right-width' => '',
+                'border-bottom-width' => '',
+                'border-left-width' => '',
+                'border-style' => '',
+                'border-color' => '',
+              ),
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'overlay' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'margin' => '',
+              'padding' => 
+              array (
+                'padding' => '20',
+                'padding-top' => '0',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'status' => 
+              array (
+                'status' => 'true',
+                'device' => 
+                array (
+                  0 => 'phone',
+                  1 => 'tablet',
+                  2 => 'desktop',
+                ),
+                'customer' => '',
+                'admin' => 'false',
+                'customer_group_1' => 'true',
+                'store_0' => 'true',
+                'store_1' => 'true',
+                'customer_groups' => 
+                array (
+                  0 => '1',
+                ),
+              ),
+            ),
+            'items' => 
+            array (
+              0 => 
+              array (
+                'id' => 'c5dee172-3079-4a84-a777-fdf74a85e8b9',
+                'item' => 
+                array (
+                  'id' => '67',
+                  'name' => 'New Newsletter ',
+                  'type' => 'newsletter',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      3 => 
+      array (
+        'id' => '54efd7b7-bf53-4e11-b93c-302466157b03',
+        'options' => 
+        array (
+          'shadow' => 
+          array (
+            'offsetX' => '',
+            'offsetY' => '',
+            'blur' => '',
+            'spread' => '',
+            'color' => '',
+            'inner' => 'false',
+            'none' => 'false',
+          ),
+          'overlayStatus' => 'false',
+          'overlayVisibility' => 'true',
+          'overlayTop' => '',
+          'marginTop' => '',
+          'overlayRotate' => '',
+          'border' => 
+          array (
+            'border-width' => '',
+            'border-top-width' => '',
+            'border-right-width' => '',
+            'border-bottom-width' => '',
+            'border-left-width' => '',
+            'border-style' => '',
+            'border-color' => '',
+          ),
+          'background' => 
+          array (
+            'backgroundPositionX' => '',
+            'backgroundPositionY' => '',
+            'background-attachment' => '',
+            'background-color' => '__VAR__Dark 2',
+            'background-origin' => '',
+            'background-position' => '',
+            'backgroundSizeW' => '',
+            'overlay' => '',
+            'gradient' => '',
+            'backgroundSizeUnit' => 'px',
+            'none' => 'false',
+            'backgroundSizeH' => '',
+            'background-repeat' => '',
+            'backgroundPositionUnit' => 'px',
+            'background-image' => '',
+          ),
+          'margin' => '',
+          'overlay' => '',
+          'padding' => 
+          array (
+            'padding' => '20',
+            'padding-top' => '',
+            'padding-right' => '',
+            'padding-bottom' => '15',
+            'padding-left' => '',
+          ),
+          'status' => 
+          array (
+            'status' => 'true',
+            'device' => 
+            array (
+              0 => 'phone',
+              1 => 'tablet',
+              2 => 'desktop',
+            ),
+            'customer' => '',
+            'admin' => 'false',
+            'customer_group_1' => 'true',
+            'store_0' => 'true',
+            'store_1' => 'true',
+            'customer_groups' => 
+            array (
+              0 => '1',
+            ),
+          ),
+          'overlayAlign' => 'center',
+          'fullwidth' => 'false',
+          'overlayHeight' => '',
+          'overlayBorder' => 
+          array (
+            'border-width' => '',
+            'border-top-width' => '',
+            'border-right-width' => '',
+            'border-bottom-width' => '',
+            'border-left-width' => '',
+            'border-style' => '',
+            'border-color' => '',
+          ),
+          'overlayBackground' => 
+          array (
+            'backgroundPositionX' => '',
+            'backgroundPositionY' => '',
+            'background-attachment' => '',
+            'background-color' => '',
+            'background-origin' => '',
+            'background-position' => '',
+            'backgroundSizeW' => '',
+            'overlay' => '',
+            'gradient' => '',
+            'backgroundSizeUnit' => 'px',
+            'none' => 'false',
+            'backgroundSizeH' => '',
+            'background-repeat' => '',
+            'backgroundPositionUnit' => 'px',
+            'background-image' => '',
+          ),
+        ),
+        'columns' => 
+        array (
+          0 => 
+          array (
+            'id' => 'f3844a78-c01d-4255-a3ff-62be7d89eb50',
+            'options' => 
+            array (
+              'width_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Tablet Portrait',
+                  'value' => '100',
+                ),
+              ),
+              'alignH' => '',
+              'align' => 'middle',
+              'width' => '33.33333333333333',
+              'marginTop' => '',
+              'margin_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Tablet Portrait',
+                  'value' => '10',
+                ),
+              ),
+              'name' => 
+              array (
+                'lang_1' => 'New Column',
+                'lang_2' => 'New Column',
+              ),
+              'border' => 
+              array (
+                'border-width' => '',
+                'border-top-width' => '',
+                'border-right-width' => '',
+                'border-bottom-width' => '',
+                'border-left-width' => '',
+                'border-style' => '',
+                'border-color' => '',
+              ),
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'overlay' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'margin' => '',
+              'padding' => 
+              array (
+                'padding' => '',
+                'padding-top' => '',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'status' => 
+              array (
+                'status' => 'true',
+                'device' => 
+                array (
+                  0 => 'phone',
+                  1 => 'tablet',
+                  2 => 'desktop',
+                ),
+                'customer' => '',
+                'admin' => 'false',
+                'customer_group_1' => 'true',
+                'store_0' => 'true',
+                'store_1' => 'true',
+                'customer_groups' => 
+                array (
+                  0 => '1',
+                ),
+              ),
+            ),
+            'items' => 
+            array (
+              0 => 
+              array (
+                'id' => '1a50d2f1-24fe-4ffb-b1dc-70e290cc1685',
+                'item' => 
+                array (
+                  'id' => '77',
+                  'name' => 'Copyright',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          1 => 
+          array (
+            'id' => '41243a85-b601-4bc7-9a46-8b0f4381487d',
+            'options' => 
+            array (
+              'width_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Tablet Portrait',
+                  'value' => '100',
+                ),
+              ),
+              'alignH' => '',
+              'align' => 'middle',
+              'width' => '66.66666666666666',
+              'marginTop' => '',
+              'name' => 
+              array (
+                'lang_1' => 'New Column',
+                'lang_2' => 'New Column',
+              ),
+              'padding_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__PHONE',
+                  'value' => 
+                  array (
+                    'padding' => '',
+                    'padding-left' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '10',
+                    'padding-top' => '10',
+                  ),
+                ),
+              ),
+              'border' => 
+              array (
+                'border-width' => '',
+                'border-top-width' => '',
+                'border-right-width' => '',
+                'border-bottom-width' => '',
+                'border-left-width' => '',
+                'border-style' => '',
+                'border-color' => '',
+              ),
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'overlay' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'margin' => '',
+              'padding' => 
+              array (
+                'padding' => '',
+                'padding-top' => '',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'status' => 
+              array (
+                'status' => 'true',
+                'device' => 
+                array (
+                  0 => 'phone',
+                  1 => 'tablet',
+                  2 => 'desktop',
+                ),
+                'customer' => '',
+                'admin' => 'false',
+                'customer_group_1' => 'true',
+                'store_0' => 'true',
+                'store_1' => 'true',
+                'customer_groups' => 
+                array (
+                  0 => '1',
+                ),
+              ),
+            ),
+            'items' => 
+            array (
+              0 => 
+              array (
+                'id' => '1a50d2f1-24fe-4ffb-b1dc-70e290cc1685',
+                'item' => 
+                array (
+                  'id' => '228',
+                  'name' => 'Payments',
+                  'type' => 'icons_menu',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+);

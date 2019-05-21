@@ -1,0 +1,783 @@
+<?php $val = array (
+  'css' => 'div.main-menu.main-menu-64 > .j-menu .menu-item.main-menu-item-1 > a::before {
+	content: \'\\eb97\' !important; 
+	font-family: icomoon !important; 
+	font-size: 20px
+}
+div.main-menu.main-menu-64 > .j-menu li.main-menu-item-1 > a {
+	font-size: 15px !important
+}
+div.main-menu.main-menu-64 > .j-menu > .main-menu-item-1 > a {
+	padding-right: 20px !important
+}
+.desktop-main-menu-wrapper .main-menu-64 .mega-custom.main-menu-item-1 .mega-menu-content {
+	width:500px; 
+	position:relative; left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-64 .mega-custom.main-menu-item-1 > .dropdown-menu::before {
+	 left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-64 > .j-menu li.main-menu-item-1:not(.mega-fullwidth) > .dropdown-menu::before {
+	display: block; 
+	margin-top:-10px
+}
+.desktop-main-menu-wrapper .main-menu-64 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu {
+	left:100%
+}
+div.main-menu.main-menu-64 > .j-menu .menu-item.main-menu-item-2 > a::before {
+	content: \'\\e946\' !important; 
+	font-family: icomoon !important; 
+	margin-right: 7px
+}
+div.main-menu.main-menu-64 > .j-menu li.main-menu-item-2 > a {
+	color: rgba(51, 51, 51, 1) !important; 
+	background: rgba(254, 212, 48, 1)
+}
+.desktop div.main-menu.main-menu-64 > .j-menu li.main-menu-item-2:hover > a {
+	background: rgba(255, 255, 255, 1)
+}
+div.main-menu.main-menu-64 > .j-menu > .main-menu-item-2 > a {
+	padding: 15px !important
+}
+.desktop-main-menu-wrapper .main-menu-64 .mega-custom.main-menu-item-2 .mega-menu-content {
+	width:500px; 
+	position:relative; left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-64 .mega-custom.main-menu-item-2 > .dropdown-menu::before {
+	 left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-64 > .j-menu li.main-menu-item-2:not(.mega-fullwidth) > .dropdown-menu::before {
+	display: block; 
+	margin-top:-10px
+}
+.desktop-main-menu-wrapper .main-menu-64 > .j-menu li.main-menu-item-2.multi-level .dropdown-menu ul li .dropdown-menu {
+	left:100%
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu-2',
+    'module_id' => 64,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-64',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => '1.800.555.6789',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => 'tel:18005556787',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      2 => 
+      array (
+        'title' => 'Blog',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'blog_home',
+          'id' => '',
+          'href' => 'http://local.shopoes/index.php?route=journal3/blog',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-2',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'name' => 'Blog-Phone - Desktop',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'mainMenuItemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'textPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'megaMenuBGFull' => 'false',
+        'iconOnly' => 'false',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'itemMinWidth' => '',
+        'homeOpen' => 'false',
+        'multiLevelDropdownWidth' => '',
+        'megaMenuTriangleColor' => '',
+        'name' => 'Call',
+        'border' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'mobileOpen' => 'false',
+        'mainMenuItemBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '__VAR__Medium 1',
+        ),
+        'borderHover' => '',
+        'customWidthAlign' => 'default',
+        'mainMenuItemBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'padding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '20',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'multiLevelPosition' => 'right',
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'dropdownWidth' => '',
+        'megaMenuWidth' => '500',
+        'megaMenuCustomTriangleMargin' => '-10',
+        'title' => 
+        array (
+          'lang_1' => '1.800.555.6789',
+          'lang_2' => 'Menu Item',
+        ),
+        'icon' => 
+        array (
+          'size' => '20',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'eb97',
+            'name' => 'phone-call',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'megaMenuCustomTriangleColor' => '',
+        'megaMenuTriangle' => 'true',
+        'mainMenuItemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'type' => '',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'url' => 'tel:18005556787',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'a6be9806-5257-4f24-ac3b-5a8af05dd1ea',
+        'flyout' => '',
+        'megaMenuLayout' => 'full',
+        'subcategories' => 'true',
+        'megaMenuCustomTriangleStatus' => 'true',
+        'megaMenuBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'megaMenuCustomTriangleOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'labelStyle' => '',
+        'multiLevelOffset' => '',
+        'borderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'megaStyle' => '',
+      ),
+      1 => 
+      array (
+        'items' => 
+        array (
+        ),
+        'mainMenuItemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'textPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'megaMenuBGFull' => 'false',
+        'iconOnly' => 'false',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'itemMinWidth' => '',
+        'homeOpen' => 'false',
+        'multiLevelDropdownWidth' => '',
+        'megaMenuTriangleColor' => '',
+        'name' => 'Blog',
+        'border' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'mobileOpen' => 'false',
+        'mainMenuItemBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '__VAR__COLOR_1',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '__VAR__Background',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '__VAR__Gold',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '__VAR__Foreground',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'borderHover' => '',
+        'customWidthAlign' => 'default',
+        'mainMenuItemBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'padding' => 
+        array (
+          'padding' => '15',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'multiLevelPosition' => 'right',
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'dropdownWidth' => '',
+        'megaMenuWidth' => '500',
+        'megaMenuCustomTriangleMargin' => '-10',
+        'title' => 
+        array (
+          'lang_1' => 'Blog',
+          'lang_2' => 'Blog',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '7',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'e946',
+            'name' => 'noun_888682-blog',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'megaMenuCustomTriangleColor' => '',
+        'megaMenuTriangle' => 'true',
+        'mainMenuItemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'type' => '',
+        'link' => 
+        array (
+          'type' => 'blog_home',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'information/contact',
+        ),
+        'id' => '0fed7269-8ac4-42fe-8df7-3f759f11de18',
+        'flyout' => '',
+        'megaMenuLayout' => 'full',
+        'subcategories' => 'true',
+        'megaMenuCustomTriangleStatus' => 'true',
+        'megaMenuBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'megaMenuCustomTriangleOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'labelStyle' => '',
+        'multiLevelOffset' => '',
+        'borderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'megaStyle' => '',
+      ),
+    ),
+  ),
+);

@@ -1,0 +1,2373 @@
+<?php $val = array (
+  'css' => '.module-gallery-45 .swiper-container {
+	overflow: hidden
+}
+.module-gallery-45 .swiper-buttons {
+	display:none; 
+	top:50%; 
+	width:calc(100% - (-15px * 2)); 
+	margin-top:-10px
+}
+.module-gallery-45:hover .swiper-buttons {
+	display:block
+}
+.module-gallery-45 .swiper-button-prev {
+	left:0; right:auto; transform: translate(0, -50%)
+}
+.module-gallery-45 .swiper-button-next {
+	left:auto; right:0; transform: translate(0, -50%)
+}
+.module-gallery-45 .swiper-buttons div {
+	width:35px; 
+	height:35px; 
+	background: rgba(44, 54, 64, 1); 
+	border-width: 4px; 
+	border-style: solid; 
+	border-color: rgba(255, 255, 255, 1); 
+	border-radius: 50%
+}
+.module-gallery-45 .swiper-button-disabled {
+	opacity:0
+}
+.module-gallery-45 .swiper-buttons div::before {
+	content: \'\\e408\' !important; 
+	font-family: icomoon !important; 
+	color: rgba(255, 255, 255, 1)
+}
+.module-gallery-45 .swiper-buttons .swiper-button-next::before {
+	content: \'\\e409\' !important; 
+	font-family: icomoon !important; 
+	color: rgba(255, 255, 255, 1)
+}
+.module-gallery-45 .swiper-buttons div:not(.swiper-button-disabled):hover {
+	background: rgba(221, 14, 28, 1)
+}
+.module-gallery-45 .swiper-pagination {
+	display:block; 
+	margin-bottom:-10px; 
+	left:50%; right:auto; transform: translateX(-50%);
+}
+.module-gallery-45 .swiper {
+	padding-bottom:15px
+}
+.module-gallery-45 .swiper-pagination-bullet {
+	width:8px; 
+	height:8px; 
+	background-color: rgba(226, 226, 226, 1)
+}
+.module-gallery-45 .swiper-pagination > span + span {
+	margin-left:8px
+}
+.desktop .module-gallery-45 .swiper-pagination-bullet:hover {
+	background-color: rgba(219, 232, 240, 1)
+}
+.module-gallery-45 .swiper-pagination-bullet.swiper-pagination-bullet-active {
+	background-color: rgba(233, 102, 49, 1)
+}
+.module-gallery-45 .swiper-pagination > span {
+	border-radius: 50px
+}
+.module-gallery-45 .module-item.swiper-slide {
+	margin-right: 20px; 
+	width: calc((100% - 8 * 20px) / 9 - 0.01px)
+}
+.module-gallery-45 .module-item:not(.swiper-slide) {
+	padding: 10px; 
+	width: calc(100% / 9 - 0.01px)
+}
+.one-column #content .module-gallery-45 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.one-column #content .module-gallery-45 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.two-column #content .module-gallery-45 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.two-column #content .module-gallery-45 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.side-column .module-gallery-45 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 2 * 0px) / 3 - 0.01px)
+}
+.side-column .module-gallery-45 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 3 - 0.01px)
+}
+.module-gallery-45 .module-item > a::after {
+	display:block; 
+	content: \'\\eba0\' !important; 
+	font-family: icomoon !important; 
+	color: rgba(255, 255, 255, 1)
+}
+.module-gallery-45 .module-item > a > span::before {
+	display:none
+}
+.module-gallery-45 .module-item > a::before {
+	background-color: rgba(52, 59, 151, 0.4)
+}
+.module-gallery-45 .module-item > a {
+	border-radius: 7px
+}
+.module-gallery-45 .module-item > a:hover img {
+	transform:scale(1.16)
+}
+.lg-45.lg-backdrop {
+	background: rgba(0, 0, 0, 0.85)
+}
+.lg-45 .lg-image {
+	border-radius: 3px; 
+	max-height:calc(100% - 100px)
+}
+.lg-45 .lg-actions .lg-prev::before {
+	content: \'\\e93e\' !important; 
+	font-family: icomoon !important; 
+	font-size: 45px; 
+	color: rgba(230, 230, 230, 1); 
+	left: -10px
+}
+.desktop .lg-45 .lg-actions .lg-prev:hover::before {
+	color: rgba(233, 102, 49, 1)
+}
+.lg-45 .lg-actions .lg-next::before {
+	content: \'\\e93f\' !important; 
+	font-family: icomoon !important; 
+	font-size: 45px; 
+	color: rgba(230, 230, 230, 1); 
+	left: 10px
+}
+.desktop .lg-45 .lg-actions .lg-next:hover::before {
+	color: rgba(233, 102, 49, 1)
+}
+.lg-45 .lg-actions .lg-icon {
+	background: none
+}
+.lg-45 .lg-toolbar {
+	color: rgba(230, 230, 230, 1)
+}
+.lg-45 #lg-counter {
+	display: inline-block
+}
+.lg-45 #lg-zoom-in {
+	display: block
+}
+.lg-45 #lg-actual-size {
+	display: block
+}
+.lg-45 #lg-zoom-in::after {
+	content: \'\\ebef\' !important; 
+	font-family: icomoon !important
+}
+.lg-45 #lg-zoom-in:hover::after {
+	color: rgba(233, 102, 49, 1)
+}
+.lg-45 #lg-actual-size::after {
+	content: \'\\ebf0\' !important; 
+	font-family: icomoon !important
+}
+.lg-45 #lg-actual-size:hover::after {
+	color: rgba(233, 102, 49, 1)
+}
+.lg-45 .lg-close::after {
+	content: \'\\ebeb\' !important; 
+	font-family: icomoon !important
+}
+.desktop .lg-45 .lg-close:hover::after {
+	color: rgba(233, 102, 49, 1)
+}
+.lg-45 .lg-sub-html {
+	font-size: 18px; 
+	color: rgba(230, 230, 230, 1); 
+	background: rgba(0, 0, 0, 0.6); 
+	white-space: nowrap; overflow: hidden; text-overflow: ellipsis; 
+	top:auto; 
+	display: none
+}
+.lg-45.lg-thumb-open .lg-sub-html {
+	bottom:90px !important
+}
+.lg-45 .lg-thumb-item {
+	margin-top:10px; 
+	padding-right:10px
+}
+.lg-45 .lg-thumb-item img {
+	margin-bottom:10px; 
+	border-width: 1px; 
+	border-style: solid; 
+	border-color: rgba(0, 0, 0, 0); 
+	border-radius: 3px
+}
+.lg-45 .lg-thumb-outer {
+	padding-left:10px; 
+	background: rgba(17, 17, 17, 1)
+}
+.desktop .lg-45 .lg-thumb-item img:hover, .lg-45 .lg-thumb-item.active img {
+	border-color: rgba(233, 102, 49, 1)
+}
+.lg-45 div.lg-thumb-item.active img {
+	border-color: rgba(233, 102, 49, 1)
+}
+.lg-45 .lg-toogle-thumb::after {
+	color: rgba(230, 230, 230, 1)
+}
+.desktop .lg-45 .lg-toogle-thumb:hover::after {
+	color: rgba(233, 102, 49, 1)
+}
+.lg-45 .lg-toogle-thumb {
+	background: rgba(17, 17, 17, 1); 
+	left:auto; right:20px; transform: translateX(0);
+}
+.module-gallery-45 .module-body {
+	justify-content:flex-start
+}
+.module-gallery-45 .open-btn {
+	transform: scale(calc(100 / 100)); 
+	transform-origin: top left
+}
+
+@media (max-width: 1024px) {
+	.module-gallery-45 .swiper-buttons {
+	display:none !important
+	}
+}
+
+@media (max-width: 980px) {
+	.module-gallery-45 .module-item.swiper-slide {
+	margin-right: 20px; 
+	width: calc((100% - 5 * 20px) / 6 - 0.01px)
+	}	.module-gallery-45 .module-item:not(.swiper-slide) {
+	padding: 10px; 
+	width: calc(100% / 6 - 0.01px)
+	}
+}
+
+@media (max-width: 760px) {
+	.module-gallery-45 .swiper-container {
+	overflow: visible
+	}
+}
+
+@media (max-width: 470px) {
+	.module-gallery-45 .module-item.swiper-slide {
+	margin-right: 20px; 
+	width: calc((100% - 2 * 20px) / 3 - 0.01px)
+	}	.module-gallery-45 .module-item:not(.swiper-slide) {
+	padding: 10px; 
+	width: calc(100% / 3 - 0.01px)
+	}
+}
+.module-gallery-45 .module-item-1 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-2 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-4 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-5 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-6 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-8 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-9 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-10 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-11 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-12 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-13 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-14 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-15 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-16 > a > span::before {
+	content:\'Image Caption\'
+}
+.module-gallery-45 .module-item-17 > a > span::before {
+	content:\'Image Caption\'
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 9,
+          'spacing' => 20,
+        ),
+        980 => 
+        array (
+          'items' => 6,
+          'spacing' => 20,
+        ),
+        470 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+        '' => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'source' => 'local',
+    'instagramPage' => '',
+    'thumbsLimit' => '9',
+    'thumbDimensions' => 
+    array (
+      'width' => 150,
+      'height' => 150,
+      'resize' => 'fill',
+    ),
+    'popupThumbDimensions' => 
+    array (
+      'width' => 80,
+      'height' => 80,
+      'resize' => 'fill',
+    ),
+    'button' => false,
+    'buttonText' => 'Open Gallery',
+    'status' => true,
+    'id' => 'gallery-5ce3d3abcb79f',
+    'module_id' => 45,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-gallery',
+      2 => 'module-gallery-45',
+      'carousel-mode' => false,
+    ),
+    'images' => 
+    array (
+      0 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/233H-2000x1333.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/233H-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      1 => 
+      array (
+        'src' => 'https://www.youtube.com/watch?v=Bey4XXJAqS8',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/misc/4k-80x80h.png',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      2 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/beauty-1000x1503.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/beauty-80x80w.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      3 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo06-1500x737.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo06-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      4 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop031-1500x1000.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop031-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      5 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop036-2000x1420.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop036-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      6 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop023-1607x1072.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop023-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      7 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop008-1606x1072.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop008-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      8 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop006b-2000x1333.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop006b-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      9 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop020-1606x1072.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop020-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      10 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop021-2000x1333.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop021-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      11 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop038-1500x1000.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop038-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      12 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/wing-1500x1000.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/wing-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      13 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo19-1500x1001.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo19-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+      14 => 
+      array (
+        'src' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo26-1606x1072.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo26-80x80h.jpg',
+        'html' => NULL,
+        'subHtml' => 'Image Caption',
+      ),
+    ),
+    'options' => 
+    array (
+      'thumbWidth' => 80,
+      'thumbContHeight' => 80,
+      'addClass' => 'lg-45',
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/233H-2000x1333.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/233H-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/233H-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/233H-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'video',
+        'videoType' => 'youtube',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'https://www.youtube.com/watch?v=Bey4XXJAqS8',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/misc/4k-150x150h.png',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/misc/4k-80x80h.png',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => '',
+        'type' => 'link',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '107',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'swiper-slide' => false,
+        ),
+        'alt' => '',
+        'popup' => '',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/banners/0015-150x150.jpg',
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/beauty-1000x1503.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/beauty-150x150w.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/beauty-300x300w.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/beauty-80x80w.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-5',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo06-1500x737.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo06-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo06-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo06-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-6',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-6',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop031-1500x1000.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop031-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop031-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop031-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      7 => 
+      array (
+        'title' => '',
+        'type' => 'link',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://local.shopoes/index.php?route=product/special',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-7',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-7',
+          'swiper-slide' => false,
+        ),
+        'alt' => '',
+        'popup' => 'http://local.shopoes/index.php?route=product/special',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/banners/18-150x150.jpg',
+        'items' => 
+        array (
+        ),
+      ),
+      8 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-8',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-8',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop036-2000x1420.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop036-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop036-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop036-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      9 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-9',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-9',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop023-1607x1072.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop023-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop023-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop023-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      10 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-10',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-10',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop008-1606x1072.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop008-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop008-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop008-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      11 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-11',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-11',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop006b-2000x1333.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop006b-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop006b-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop006b-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      12 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-12',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-12',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop020-1606x1072.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop020-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop020-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop020-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      13 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-13',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-13',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop021-2000x1333.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop021-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop021-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop021-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      14 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-14',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-14',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop038-1500x1000.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop038-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop038-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/backdrop038-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      15 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-15',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-15',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/wing-1500x1000.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/wing-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/wing-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/wing-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      16 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-16',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-16',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo19-1500x1001.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo19-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo19-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo19-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      17 => 
+      array (
+        'title' => 'Image Caption',
+        'type' => 'image',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '45-17',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-17',
+          'swiper-slide' => false,
+        ),
+        'alt' => 'Image Caption',
+        'popup' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo26-1606x1072.jpg',
+        'thumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo26-150x150h.jpg',
+        'thumb2x' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo26-300x300h.jpg',
+        'popupThumb' => 'http://local.shopoes/image/cache/catalog/journal3/gallery/demo26-80x80h.jpg',
+        'html' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'iconLeft' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'carousel' => 'false',
+      'moduleContainerBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'instagramPage' => '',
+      'thumbBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'iconRight' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'moduleContainerMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'thumbDimensions' => 
+      array (
+        'tablet_height' => '',
+        'phone_resize' => 'crop',
+        'width' => '150',
+        'height' => '150',
+        'tablet_resize' => 'crop',
+        'tablet_width' => '',
+        'resize' => 'fill',
+        'phone_width' => '',
+        'phone_height' => '',
+      ),
+      'moduleContainerBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'moduleContainerFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'thumbBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'thumbShadowHover' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'moduleGallery' => '__VAR__DEFAULT',
+      'grayscale' => '',
+      'titleFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'moduleContainerOffset' => 
+      array (
+        'first' => '',
+        'second' => '',
+      ),
+      'scale' => '100',
+      'name' => 'Gallery Home Page',
+      'moduleTitle' => '',
+      'moduleContainerDisplay' => '',
+      'background' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'margin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'ImageScale' => 'true',
+      'containerMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'scaleOrigin' => 'tl',
+      'padding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'carouselStyle' => '__VAR__SIDE_ARROWS',
+      'button' => 'false',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'buttonAlign' => 'left',
+      'moduleContainerBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'thumbBorderRadius' => 
+      array (
+        'border-radius' => '__VAR__Medium',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'hoverOverlay' => 'rgba(52, 59, 151, 0.4)',
+      'moduleContainerShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'hoverIcon' => 
+      array (
+        'size' => '',
+        'color' => '__VAR__Background',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => 'eba0',
+          'name' => 'plus2',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'moduleContainerSize' => 
+      array (
+        'first' => '',
+        'second' => '',
+      ),
+      'hoverType' => 'icon',
+      'thumbShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'popupThumbDimensions' => 
+      array (
+        'tablet_height' => '',
+        'phone_resize' => 'crop',
+        'width' => '80',
+        'height' => '80',
+        'tablet_resize' => 'crop',
+        'tablet_width' => '',
+        'resize' => 'fill',
+        'phone_width' => '',
+        'phone_height' => '',
+      ),
+      'title' => 
+      array (
+        'lang_1' => '',
+        'lang_2' => '',
+      ),
+      'thumbBackgroundHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'iconRightHover' => '',
+      'thumbBorderHover' => '',
+      'source' => 'local',
+      'thumbPadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'carouselGutter' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'iconLeftHover' => '',
+      'moduleContainerPadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'itemsPerRow' => 
+      array (
+        'variable' => '__VAR__Gallery 9-6-3',
+        'c0' => 
+        array (
+          'items' => '9',
+          'spacing' => '__VAR__DEFAULT',
+        ),
+        'c1' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'c2' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'sc' => 
+        array (
+          'items' => '3',
+          'spacing' => '',
+        ),
+        'c0_multi' => 
+        array (
+          0 => 
+          array (
+            'min' => '',
+            'max' => '__VAR__Tablet Portrait',
+            'value' => 
+            array (
+              'items' => '6',
+              'spacing' => '__VAR__DEFAULT',
+            ),
+          ),
+          1 => 
+          array (
+            'min' => '',
+            'max' => '__VAR__Phone Portrait',
+            'value' => 
+            array (
+              'items' => '3',
+              'spacing' => '__VAR__DEFAULT',
+            ),
+          ),
+        ),
+        'c1_multi' => 
+        array (
+          0 => 
+          array (
+            'min' => '',
+            'max' => '',
+            'value' => 
+            array (
+              'items' => '1',
+              'spacing' => '',
+            ),
+          ),
+        ),
+      ),
+      'thumbsLimit' => '9',
+      'borderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'buttonStyle' => '',
+      'buttonText' => 
+      array (
+        'lang_1' => 'Open Gallery',
+        'lang_2' => 'Open Gallery',
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 1',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '4080aeb7-2c6a-42ba-a77d-6a83fad27994',
+        'image' => 'catalog/journal3/gallery/233H.jpg',
+      ),
+      1 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => 'catalog/journal3/misc/4k.png',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => 'https://www.youtube.com/watch?v=Bey4XXJAqS8',
+        'name' => 'Video',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'youtube',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'video',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'e1fef862-a055-43a8-90a4-87fc3954c2a9',
+        'image' => 'catalog/journal3/backdrops/backdrop031.jpg',
+      ),
+      2 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Banner',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'type' => 'link',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '107',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'product/catalog',
+        ),
+        'id' => '1317aeae-bff0-4e40-8f1f-02e5e4c3caa4',
+        'image' => 'catalog/journal3/banners/0015.jpg',
+      ),
+      3 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 3',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'eacdda10-6b66-4325-ba93-4274b6217da8',
+        'image' => 'catalog/journal3/gallery/beauty.jpg',
+      ),
+      4 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 4',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '5ca9e0e5-297c-42c5-bae5-00b6eeead81a',
+        'image' => 'catalog/journal3/gallery/demo06.jpg',
+      ),
+      5 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 5',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '0807e92b-44da-4a66-aeb3-c8db92d0ae5f',
+        'image' => 'catalog/journal3/gallery/backdrop031.jpg',
+      ),
+      6 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Banner',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'type' => 'link',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'product/special',
+        ),
+        'id' => 'd6be8ab4-d5bf-470c-9089-41c6cd9ef3c3',
+        'image' => 'catalog/journal3/banners/18.jpg',
+      ),
+      7 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 7',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'b5117f56-41db-40ba-a1c0-7f55a1929c3c',
+        'image' => 'catalog/journal3/gallery/backdrop036.jpg',
+      ),
+      8 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 8',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '49ab3017-cc84-4141-ba8d-542a4d14c610',
+        'image' => 'catalog/journal3/gallery/backdrop023.jpg',
+      ),
+      9 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 9',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '5789d03d-4268-4ef9-a205-22b51af3defa',
+        'image' => 'catalog/journal3/gallery/backdrop008.jpg',
+      ),
+      10 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 10',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'bd45ab26-5497-450b-a61e-a72da1d7b564',
+        'image' => 'catalog/journal3/gallery/backdrop006b.jpg',
+      ),
+      11 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 11',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '70624631-da32-4289-ab40-984bb364fa27',
+        'image' => 'catalog/journal3/gallery/backdrop020.jpg',
+      ),
+      12 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 12',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'ec6c6f84-55ab-4d1b-996a-6109d1f86725',
+        'image' => 'catalog/journal3/gallery/backdrop021.jpg',
+      ),
+      13 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 13',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'f11f2bf9-7ce3-4797-8f7e-6f29938cef4f',
+        'image' => 'catalog/journal3/gallery/backdrop038.jpg',
+      ),
+      14 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 14',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => 'Image Caption',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'c1cc4401-eca4-4081-8c65-7a7b89a4d577',
+        'image' => 'catalog/journal3/gallery/wing.jpg',
+      ),
+      15 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 15',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => '',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'd50e28bb-235e-49b0-b4f6-4676e45d2242',
+        'image' => 'catalog/journal3/gallery/demo19.jpg',
+      ),
+      16 => 
+      array (
+        'videoHtml5Url' => '',
+        'videoImage' => '',
+        'videoVimeoUrl' => '',
+        'videoYoutubeUrl' => '',
+        'name' => 'Image 16',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'videoType' => 'html5',
+        'title' => 
+        array (
+          'lang_1' => 'Image Caption',
+          'lang_2' => '',
+        ),
+        'type' => 'image',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'b7423f0e-aef4-41fc-b5a7-1df2c3e64ce8',
+        'image' => 'catalog/journal3/gallery/demo26.jpg',
+      ),
+    ),
+  ),
+);

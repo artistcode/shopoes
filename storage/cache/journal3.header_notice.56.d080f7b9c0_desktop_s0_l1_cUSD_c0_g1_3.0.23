@@ -1,0 +1,410 @@
+<?php $val = array (
+  'css' => '.module-header_notice-56 .hn-close::before {
+	content: \'\\e5cd\' !important; 
+	font-family: icomoon !important; 
+	font-size: 22px
+}
+.module-header_notice-56 .hn-close.btn, .module-header_notice-56 .hn-close.btn:visited {
+	font-size: 12px; 
+	color: rgba(105, 105, 115, 1); 
+	text-transform: none
+}
+.module-header_notice-56 .hn-close.btn:hover {
+	color: rgba(233, 102, 49, 1) !important; 
+	background: none !important
+}
+.module-header_notice-56 .hn-close.btn:active, .module-header_notice-56 .hn-close.btn:hover:active, .module-header_notice-56 .hn-close.btn:focus:active {
+	color: rgba(233, 102, 49, 1) !important; 
+	background: none !important; 
+	box-shadow: none
+}
+.module-header_notice-56 .hn-close.btn:focus {
+	color: rgba(233, 102, 49, 1) !important; 
+	background: none; 
+	box-shadow: none
+}
+.module-header_notice-56 .hn-close.btn {
+	background: none; 
+	border-style: none; 
+	padding: 3px; 
+	box-shadow: none
+}
+.desktop .module-header_notice-56 .hn-close.btn:hover {
+	box-shadow: none
+}
+.module-header_notice-56 .hn-close {
+	margin-left: 5px
+}
+.module-header_notice-56 .module-body p {
+	margin-bottom:7px
+}
+.module-header_notice-56 .module-body {
+	height: auto; 
+	flex-direction:row; 
+	background: rgba(223, 231, 246, 1); 
+	padding: 5px; 
+	padding-top: 7px; 
+	padding-bottom: 7px
+}
+.module-header_notice-56 .header-notice-close-button {
+	position:relative; top:auto; right:auto; bottom:auto; left:auto; transform: none
+}
+.module-header_notice-56 .hn-content {
+	line-height: 1.4
+}
+.module-header_notice-56 .hn-content a {
+	text-decoration: underline
+}
+.module-header_notice-56 .hn-body::before {
+	content: \'\\eafa\' !important; 
+	font-family: icomoon !important; 
+	font-size: 20px; 
+	color: rgba(233, 102, 49, 1); 
+	margin-right: 5px; 
+	margin-left: 5px; 
+	float:none
+}
+.module-header_notice-56 .hn-body {
+	display:flex
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'cookie' => '9e4f882c',
+    'closeButton' => true,
+    'closeText' => '',
+    'content' => 'This is the <b>Header Notice </b>module, use it for promotional or other important messages.',
+    'status' => true,
+    'id' => 'header_notice-5ce3d3ac2c2ca',
+    'module_id' => 56,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-header_notice',
+      2 => 'module-header_notice-56',
+    ),
+    'options' => 
+    array (
+      'cookie' => '9e4f882c',
+      'ease' => 'easeOutQuart',
+      'duration' => '700',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'shadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'closePosition' => 'inline',
+      'contentLinkFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '__VAR__COLOR_5',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => 'underline',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'closeBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'cookie' => '9e4f882c',
+      'contentBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'closeText' => 
+      array (
+        'lang_1' => '',
+        'lang_2' => '',
+      ),
+      'closeMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '5',
+      ),
+      'height' => '',
+      'contentBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'iconMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'contentFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '1.4',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'closeButton' => 'true',
+      'closeIconHover' => '__VAR__COLOR_9',
+      'name' => 'Header Notice',
+      'padding_multi' => 
+      array (
+      ),
+      'background' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '__VAR__Pastel 2',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'ease' => 'easeOutQuart',
+      'fullHeight_multi' => 
+      array (
+      ),
+      'p' => '7',
+      'padding' => 
+      array (
+        'padding' => '5',
+        'padding-top' => '7',
+        'padding-right' => '',
+        'padding-bottom' => '7',
+        'padding-left' => '',
+      ),
+      'closeIcon' => 
+      array (
+        'size' => '22',
+        'color' => '__VAR__COLOR_14',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => 'e5cd',
+          'name' => 'close2',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'contentIcon' => 
+      array (
+        'size' => '20',
+        'color' => '__VAR__Fire',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '5',
+          'margin-bottom' => '',
+          'margin-left' => '5',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => 'eafa',
+          'name' => 'alert-circle',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'closeLink' => 
+      array (
+        'type' => '',
+        'id' => '',
+        'url' => '',
+        'scroll' => '',
+        'target' => 'false',
+        'rel' => '',
+      ),
+      'Visibility' => 'true',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'duration' => '700',
+      'floatIcon' => 'false',
+      'fullHeight' => 'false',
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'contentBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'contentPadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'content' => 
+      array (
+        'lang_1' => 'This is the <b>Header Notice </b>module, use it for promotional or other important messages.',
+        'lang_2' => 'This is the Header Notice module, use it for quick important messages such as promotions or cookie notices.',
+      ),
+      'closeSize' => 
+      array (
+        'first' => '',
+        'second' => '',
+      ),
+      'closeStyle' => '__VAR__Link',
+      'contentShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'closePadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'contentLinkFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '__VAR__COLOR_14',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+    ),
+  ),
+);

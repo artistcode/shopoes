@@ -1,0 +1,895 @@
+<?php $val = array (
+  'css' => '.module-banners-201 .swiper-container {
+	overflow: hidden
+}
+.module-banners-201 .swiper-buttons {
+	display:none; 
+	top:50%; 
+	width:calc(100% - (-15px * 2)); 
+	margin-top:-10px
+}
+.module-banners-201:hover .swiper-buttons {
+	display:block
+}
+.module-banners-201 .swiper-button-prev {
+	left:0; right:auto; transform: translate(0, -50%)
+}
+.module-banners-201 .swiper-button-next {
+	left:auto; right:0; transform: translate(0, -50%)
+}
+.module-banners-201 .swiper-buttons div {
+	width:35px; 
+	height:35px; 
+	background: rgba(44, 54, 64, 1); 
+	border-width: 4px; 
+	border-style: solid; 
+	border-color: rgba(255, 255, 255, 1); 
+	border-radius: 50%
+}
+.module-banners-201 .swiper-button-disabled {
+	opacity:0
+}
+.module-banners-201 .swiper-buttons div::before {
+	content: \'\\e408\' !important; 
+	font-family: icomoon !important; 
+	color: rgba(255, 255, 255, 1)
+}
+.module-banners-201 .swiper-buttons .swiper-button-next::before {
+	content: \'\\e409\' !important; 
+	font-family: icomoon !important; 
+	color: rgba(255, 255, 255, 1)
+}
+.module-banners-201 .swiper-buttons div:not(.swiper-button-disabled):hover {
+	background: rgba(221, 14, 28, 1)
+}
+.module-banners-201 .swiper-pagination {
+	display:block; 
+	margin-bottom:-10px; 
+	left:50%; right:auto; transform: translateX(-50%);
+}
+.module-banners-201 .swiper {
+	padding-bottom:15px
+}
+.module-banners-201 .swiper-pagination-bullet {
+	width:8px; 
+	height:8px; 
+	background-color: rgba(226, 226, 226, 1)
+}
+.module-banners-201 .swiper-pagination > span + span {
+	margin-left:8px
+}
+.desktop .module-banners-201 .swiper-pagination-bullet:hover {
+	background-color: rgba(219, 232, 240, 1)
+}
+.module-banners-201 .swiper-pagination-bullet.swiper-pagination-bullet-active {
+	background-color: rgba(233, 102, 49, 1)
+}
+.module-banners-201 .swiper-pagination > span {
+	border-radius: 50px
+}
+.module-banners-201 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.module-banners-201 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.one-column #content .module-banners-201 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.one-column #content .module-banners-201 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.two-column #content .module-banners-201 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.two-column #content .module-banners-201 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.side-column .module-banners-201 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.side-column .module-banners-201 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.module-banners-201 a img {
+	transform: scale(1);
+}
+.module-banners-201 .module-item > a::before {
+	background: rgba(52, 59, 151, 0.2)
+}
+.module-banners-201 a::before {
+	opacity:0
+}
+.desktop .module-banners-201 a:hover::before {
+	opacity:1
+}
+.module-banners-201 a::after {
+	opacity:0
+}
+.desktop .module-banners-201 a:hover::after {
+	opacity:1
+}
+.module-banners-201 .module-item > a::after {
+	top:50%; left:50%; right:auto; bottom: auto; transform: translate3d(-50%, -50%, 0)
+}
+.module-banners-201 .banner-caption {
+	top:auto; left:50%; right:auto; bottom: 0; transform: translate3d(-50%, 0, 0); 
+	visibility:hidden; opacity:0; display:block
+}
+.module-banners-201 .banner-caption span {
+	transform:scale(calc(100 / 100)); 
+	transform-origin: center; 
+	text-align: center; 
+	background: rgba(13, 82, 214, 1); 
+	margin: 15px; 
+	padding: 10px; 
+	padding-bottom: 12px
+}
+.module-banners-201 .banner-caption-2 span {
+	transform:scale(calc(100 / 100)); 
+	transform-origin: center; 
+	padding: 10px
+}
+.desktop .module-banners-201 a:hover .banner-caption {
+	visibility:visible; opacity:1
+}
+.module-banners-201 a .banner-caption {
+	width:100%
+}
+.module-banners-201 .banner-caption span::after {
+	content: \'\\e5c8\' !important; 
+	font-family: icomoon !important; 
+	top: 1px; 
+	margin-left: 5px
+}
+.module-banners-201 .banner-caption-2 {
+	top:auto; left:50%; right:auto; bottom: 0; transform: translate3d(-50%, 0, 0); 
+	visibility:hidden; opacity:0; display:block
+}
+.desktop .module-banners-201 a:hover .banner-caption-2 {
+	visibility:visible; opacity:1
+}
+.module-banners-201 a .banner-caption-2 {
+	width:100%
+}
+
+@media (max-width: 1024px) {
+	.module-banners-201 .swiper-buttons {
+	display:none !important
+	}
+}
+
+@media (max-width: 760px) {
+	.module-banners-201 .swiper-container {
+	overflow: visible
+	}
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'imageDimensions' => 
+    array (
+      'width' => 240,
+      'height' => 375,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'banners-5ce3d3ac5fef8',
+    'module_id' => 201,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-banners',
+      2 => 'module-banners-201',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'See all specials',
+        'title2' => '',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://local.shopoes/index.php?route=product/special',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '201-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'image' => 'http://local.shopoes/image/cache/catalog/journal3/banners/sale-240x375h.jpg',
+        'image2x' => 'http://local.shopoes/image/cache/catalog/journal3/banners/sale-480x750h.jpg',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'carousel' => 'false',
+      'imageShadowHover' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'titlePosition' => 'bc',
+      'title2Position' => 'bc',
+      'titleBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'titleBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '__VAR__Accent 2',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'title2Border' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'titleMargin' => 
+      array (
+        'margin' => '15',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'grayscale' => '',
+      'imageBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'titleFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => 'center',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'iconMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'title2Background' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'title2Display' => 'hover',
+      'title2Margin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'imageDimensions' => 
+      array (
+        'tablet_height' => '',
+        'phone_resize' => 'fill',
+        'width' => '240',
+        'height' => '375',
+        'tablet_resize' => 'fill',
+        'tablet_width' => '',
+        'resize' => 'fill',
+        'phone_width' => '',
+        'phone_height' => '',
+      ),
+      'title2Font' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'title2IconHover' => '',
+      'iconDisplay' => 'hover',
+      'titleDisplay' => 'hover',
+      'hoverBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => 'rgba(52, 59, 151, 0.2)',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'titleIconHover' => '',
+      'name' => 'Specials Banner',
+      'title2Width' => 'full',
+      'moduleTitle' => '',
+      'background' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'titleWidth' => 'full',
+      'containerMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'title2Scale' => '100',
+      'carouselStyle' => '__VAR__SIDE_ARROWS',
+      'titleIcon' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '1',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '5',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => 'e5c8',
+          'name' => 'arrow_forward',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'titleScale' => '100',
+      'scaleHover' => 'false',
+      'overlayDisplay' => 'hover',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'title2Icon' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'title2FontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'title2BackgroundHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'title2MarginHover' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'hoverOverlay' => 'rgba(0, 138, 221, 0.52)',
+      'imageBorderHover' => '',
+      'iconMarginHover' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'titleFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'bannerTitleContainer' => '',
+      'hoverIcon' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'titleBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'titleMarginHover' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'titleBackgroundHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'title2ScaleOrigin' => 'center',
+      'title2Padding' => 
+      array (
+        'padding' => '10',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'title2BorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'title' => 
+      array (
+        'lang_1' => '',
+        'lang_2' => '',
+      ),
+      'titleScaleOrigin' => 'center',
+      'imageBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'hoverBackgroundAlways' => 
+      array (
+        'background-color' => 'rgba(255, 214, 0, 0.27)',
+      ),
+      'titlePadding' => 
+      array (
+        'padding' => '10',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '12',
+        'padding-left' => '',
+      ),
+      'textMargin' => 
+      array (
+        'margin' => '20',
+      ),
+      'imageShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'carouselGutter' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'bannerTitle2Container' => '',
+      'itemsPerRow' => 
+      array (
+        'c0' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'c1' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'c2' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'sc' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'name' => 'Banner',
+        'itemIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'See all specials',
+          'lang_2' => 'See all specials',
+        ),
+        'title2' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'product/special',
+        ),
+        'id' => 'e77b9a2f-9833-4b04-bb1a-f18c8e01c03b',
+        'image' => 
+        array (
+          'lang_1' => 'catalog/journal3/banners/sale.jpg',
+          'lang_2' => '',
+        ),
+      ),
+    ),
+  ),
+);

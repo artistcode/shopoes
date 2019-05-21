@@ -1,0 +1,1461 @@
+<?php $val = array (
+  'css' => '.module-blocks-111.blocks-grid .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.module-blocks-111.blocks-grid .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.one-column #content .module-blocks-111.blocks-grid .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.one-column #content .module-blocks-111.blocks-grid .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.two-column #content .module-blocks-111.blocks-grid .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.two-column #content .module-blocks-111.blocks-grid .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.side-column .module-blocks-111.blocks-grid .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.side-column .module-blocks-111.blocks-grid .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.module-blocks-111 .block-body {
+	padding: 25px; 
+	display:flex; flex-direction: column
+}
+.module-blocks-111 .block-title {
+	order:-2
+}
+.module-blocks-111 .block-header {
+	display: flex; float:none; order:-1; 
+	justify-content:flex-start; align-items:flex-start
+}
+.module-blocks-111 .block-header img {
+	display: flex
+}
+.module-blocks-111 .block-wrapper {
+	display: flex
+}
+.module-blocks-111 .block-header i {
+	float:none; display: flex
+}
+.module-blocks-111 .module-item-1 .block-body {
+	padding-bottom: 20px; 
+	display:flex; flex-direction: column
+}
+.module-blocks-111 .module-item-1 .block-header {
+	display: flex; float:none; order:-1; 
+	justify-content:flex-start; align-items:flex-start
+}
+.module-blocks-111 .module-item-1 .block-header img {
+	display: flex
+}
+.module-blocks-111 .module-item-1 .block-wrapper {
+	display: flex
+}
+.module-blocks-111 .module-item-1 .block-header i {
+	float:none; display: flex
+}
+.module-blocks-111 .module-item-1 .block-content {
+	text-align:left; 
+	column-count:initial; 
+	column-gap:20px; 
+	column-rule-width:1px; 
+	column-rule-style: solid
+}
+.module-blocks-111 .module-item-1 .expand-content {
+	max-height:100%; overflow:visible
+}
+.module-blocks-111 .module-item-1 .block-footer .btn {
+	width:auto; 
+	transform: scale(calc(100 / 100)); 
+	transform-origin: center
+}
+.module-blocks-111 .module-item-1 .block-footer {
+	text-align:center
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => '',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'blocks-5ce3d3ac1aff3',
+    'module_id' => 111,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blocks',
+      2 => 'module-blocks-111',
+      3 => 'blocks-grid',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'header' => 'none',
+        'contentType' => 'html',
+        'shortDescriptionLimit' => '150',
+        'dynamic' => 'journal3/blocks_example',
+        'expandButton' => false,
+        'footer' => 'none',
+        'footerText' => '',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '111-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://local.shopoes/image/cache/placeholder-1000x1000.png',
+        'image2x' => 'http://local.shopoes/image/cache/placeholder-1000x1000.png',
+        'title' => '',
+        'content' => '<h3>Join our community</h3><p>The new popup uses the <b>page builder</b> so you have total freedom to create popups with any modules at any size, even fullscreen.</p>',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'carousel' => 'false',
+      'itemsBoxStylesFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'itemsBoxStylesBackgroundHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'default' => '',
+      'imageShadowHover' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'titlePosition' => 'before',
+      'display' => 'grid',
+      'typographyStyle' => '',
+      'iconHover' => '',
+      'iconShadowHover' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'itemsBoxStylesBorderHover' => '',
+      'itemsBoxStylesPadding' => 
+      array (
+        'padding' => '25',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'imagePosition' => 'top',
+      'iconBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'itemTitle' => '',
+      'titleMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'imageBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'iconMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'imageDimensions' => 
+      array (
+        'tablet_height' => '',
+        'phone_resize' => 'fill',
+        'width' => '',
+        'height' => '',
+        'tablet_resize' => 'fill',
+        'tablet_width' => '',
+        'resize' => 'fill',
+        'phone_width' => '',
+        'phone_height' => '',
+      ),
+      'accordionStyle' => '',
+      'imageMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'imageAlign' => 'left',
+      'contentAlignV' => '',
+      'name' => 'Popup Text',
+      'itemsBoxStylesBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'contentAlign' => '',
+      'moduleTitle' => '',
+      'itemsContentWidth' => '',
+      'itemsBoxStylesShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'containerMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'itemsBoxStylesShadowHover' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'carouselStyle' => '',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'tabsStyle' => '',
+      'blocksTitleAlign' => '',
+      'imageBorderHover' => '',
+      'iconBorderHover' => '',
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'iconBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'title' => 
+      array (
+        'lang_1' => '',
+        'lang_2' => '',
+      ),
+      'icon' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'imageBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'itemsBoxStylesBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'iconShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'iconSize' => 
+      array (
+        'first' => '',
+        'second' => '',
+      ),
+      'moduleBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'moduleBackground_removed' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'imageShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'itemsBoxStylesMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'itemsBoxStylesBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'itemsBoxStylesFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'containerGutter' => '',
+      'itemsPerRow' => 
+      array (
+        'c0' => 
+        array (
+          'items' => '1',
+          'spacing' => '0',
+        ),
+        'c1' => 
+        array (
+          'items' => '1',
+          'spacing' => '0',
+        ),
+        'c2' => 
+        array (
+          'items' => '1',
+          'spacing' => '0',
+        ),
+        'sc' => 
+        array (
+          'items' => '1',
+          'spacing' => '0',
+        ),
+      ),
+      'iconBGHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'iconBG' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'footerBoxStylesBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'footerBoxStylesMargin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'itemContentWidth' => '',
+        'expandHeight' => '',
+        'footerBoxStylesFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'imageShadowHover' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'itemBoxStylesShadowHover' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'iconHover' => '',
+        'iconShadowHover' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'contentShadowHover' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'itemTypographyStyles' => '',
+        'footerButtonStyle' => '',
+        'tabIconHover2' => '',
+        'expandIconHoverUp' => '',
+        'imagePosition' => 'top',
+        'contentWidgetHeight' => '',
+        'footerTextFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'contentBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'iconBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'footerBoxStylesOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'expandButtonStyle' => '',
+        'itemBoxStylesBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'blocksColumnDividerColor' => '',
+        'imageBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'titleFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconMargin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'footerText' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'itemBoxStylesBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'contentTypography' => '',
+        'itemBoxStylesMargin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'itemBoxStylesFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'blocksColumnDividerWidth' => '1',
+        'expandIconHover' => '',
+        'imageMargin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'scale' => '100',
+        'imageAlign' => 'left',
+        'name' => 'New Block',
+        'buttonIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'buttonIconHoverRight' => '',
+        'contentAlign' => 'left',
+        'expandButton' => 'false',
+        'expandOverlayColor' => '',
+        'footerButton' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'header' => 'none',
+        'expandIconUp' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'tabIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'tabType' => 'content',
+        'footerBoxStylesBorderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'scaleOrigin' => 'center',
+        'footerBoxStylesDisplay' => '',
+        'buttonIconHover' => '',
+        'buttonIconRight' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'expandButtonTextLess' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'footerBoxStylesShadow' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'expandIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'footerBoxStylesSize' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'itemBoxStylesFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'contentType' => 'html',
+        'itemBoxStylesBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'blocksColumnDividerStyle' => 'solid',
+        'imageBorderHover' => '',
+        'itemBoxStylesBorderHover' => '',
+        'footerTextFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'itemBoxStylesPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '20',
+          'padding-left' => '',
+        ),
+        'iconBorderHover' => '',
+        'contentBorderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'iconBorderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'blocksColumns' => 'initial',
+        'contentPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'itemBoxStylesBorderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'content' => 
+        array (
+          'lang_1' => '<h3>Join our community</h3><p>The new popup uses the <b>page builder</b> so you have total freedom to create popups with any modules at any size, even fullscreen.</p>',
+          'lang_2' => 'code',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'imageBorderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'footerButtonWidth' => 'auto',
+        'expandButtonText' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'itemFormStyles' => '',
+        'contentShadow' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'iconShadow' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'iconSize' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'blocksColumnGap' => '20',
+        'itemBoxStylesShadow' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'contentBorderHover2' => '',
+        'id' => '5b3a2625-3cec-40c9-8665-7c03c3c9f787',
+        'image' => '',
+        'footer' => 'none',
+        'shortDescriptionLimit' => '150',
+        'imageShadow' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'itemTableStyles' => '',
+        'footerTextAlign' => 'center',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'contentBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'footerBoxStylesBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'contentBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'borderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'dynamic' => 'journal3/blocks_example',
+        'footerBoxStylesPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+      ),
+    ),
+  ),
+);

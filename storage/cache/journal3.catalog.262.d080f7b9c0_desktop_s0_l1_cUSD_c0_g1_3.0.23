@@ -1,0 +1,889 @@
+<?php $val = array (
+  'css' => '.module-catalog-262 .module-item.swiper-slide {
+	margin-right: 20px; 
+	width: calc((100% - 2 * 20px) / 3 - 0.01px)
+}
+.module-catalog-262 .module-item:not(.swiper-slide) {
+	padding: 10px; 
+	width: calc(100% / 3 - 0.01px)
+}
+.one-column #content .module-catalog-262 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.one-column #content .module-catalog-262 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.two-column #content .module-catalog-262 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.two-column #content .module-catalog-262 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.side-column .module-catalog-262 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.side-column .module-catalog-262 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.module-catalog-262 .swiper-container {
+	overflow: hidden
+}
+.module-catalog-262 .swiper-buttons {
+	display:none; 
+	top:50%; 
+	width:calc(100% - (-15px * 2)); 
+	margin-top:-10px
+}
+.module-catalog-262:hover .swiper-buttons {
+	display:block
+}
+.module-catalog-262 .swiper-button-prev {
+	left:0; right:auto; transform: translate(0, -50%)
+}
+.module-catalog-262 .swiper-button-next {
+	left:auto; right:0; transform: translate(0, -50%)
+}
+.module-catalog-262 .swiper-buttons div {
+	width:35px; 
+	height:35px; 
+	background: rgba(44, 54, 64, 1); 
+	border-width: 4px; 
+	border-style: solid; 
+	border-color: rgba(255, 255, 255, 1); 
+	border-radius: 50%
+}
+.module-catalog-262 .swiper-button-disabled {
+	opacity:0
+}
+.module-catalog-262 .swiper-buttons div::before {
+	content: \'\\e408\' !important; 
+	font-family: icomoon !important; 
+	color: rgba(255, 255, 255, 1)
+}
+.module-catalog-262 .swiper-buttons .swiper-button-next::before {
+	content: \'\\e409\' !important; 
+	font-family: icomoon !important; 
+	color: rgba(255, 255, 255, 1)
+}
+.module-catalog-262 .swiper-buttons div:not(.swiper-button-disabled):hover {
+	background: rgba(221, 14, 28, 1)
+}
+.module-catalog-262 .swiper-pagination {
+	display:block; 
+	margin-bottom:-10px; 
+	left:50%; right:auto; transform: translateX(-50%);
+}
+.module-catalog-262 .swiper {
+	padding-bottom:15px
+}
+.module-catalog-262 .swiper-pagination-bullet {
+	width:8px; 
+	height:8px; 
+	background-color: rgba(226, 226, 226, 1)
+}
+.module-catalog-262 .swiper-pagination > span + span {
+	margin-left:8px
+}
+.desktop .module-catalog-262 .swiper-pagination-bullet:hover {
+	background-color: rgba(219, 232, 240, 1)
+}
+.module-catalog-262 .swiper-pagination-bullet.swiper-pagination-bullet-active {
+	background-color: rgba(233, 102, 49, 1)
+}
+.module-catalog-262 .swiper-pagination > span {
+	border-radius: 50px
+}
+.module-catalog-262 .catalog-title {
+	margin-bottom:8px; 
+	display: flex; 
+	font-family: \'Montserrat\'; 
+	font-weight: 700; 
+	font-size: 13px; 
+	color: rgba(51, 51, 51, 1); 
+	text-transform: uppercase; 
+	width:auto; 
+	margin-left:0; margin-right:auto; justify-content:flex-start; 
+	white-space: normal; overflow: visible; text-overflow: initial
+}
+.module-catalog-262 .subitems {
+	align-items:flex-start
+}
+.module-catalog-262 .subitem > a span {
+	font-size: 13px; 
+	color: rgba(105, 105, 115, 1)
+}
+.module-catalog-262 .subitem > a:hover span {
+	color: rgba(13, 82, 214, 1); 
+	text-decoration: underline
+}
+.module-catalog-262 .subitem.view-more a span {
+	font-size: 12px; 
+	color: rgba(105, 105, 115, 1); 
+	font-weight: 700; 
+	text-decoration: underline
+}
+.module-catalog-262 .subitem.view-more a:hover span {
+	color: rgba(15, 58, 141, 1)
+}
+.module-catalog-262 .subitem > a {
+	white-space: nowrap; overflow: hidden; text-overflow: ellipsis; 
+	padding-bottom:7px
+}
+.module-catalog-262 .catalog-image img {
+	border-width: 1px; 
+	border-style: solid; 
+	border-color: rgba(226, 226, 226, 1); 
+	border-radius: 3px
+}
+.module-catalog-262 .catalog-image {
+	margin-right: 10px
+}
+.module-catalog-262 .item-assets {
+	flex-direction:row
+}
+.module-catalog-262 .item-assets > a {
+	max-width: 40%; order:0
+}
+.module-catalog-262 .item-assets .subitems {
+	width:60%
+}
+.module-catalog-262 .item-assets .catalog-image {
+	display:block
+}
+
+@media (max-width: 1024px) {
+	.module-catalog-262 .module-item.swiper-slide {
+	margin-right: 20px; 
+	width: calc((100% - 1 * 20px) / 2 - 0.01px)
+	}	.module-catalog-262 .module-item:not(.swiper-slide) {
+	padding: 10px; 
+	width: calc(100% / 2 - 0.01px)
+	}	.module-catalog-262 .swiper-buttons {
+	display:none !important
+	}
+}
+
+@media (max-width: 760px) {
+	.module-catalog-262 .swiper-container {
+	overflow: visible
+	}
+}
+',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Montserrat' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'images' => false,
+    'imageDimensions' => 
+    array (
+      'width' => 200,
+      'height' => 200,
+      'resize' => 'fit',
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+        1024 => 
+        array (
+          'items' => 2,
+          'spacing' => 20,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'carousel' => false,
+    'viewMoreText' => 'See all products',
+    'status' => true,
+    'id' => 'catalog-5ce3d3ac57125',
+    'module_id' => 262,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-catalog',
+      2 => 'module-catalog-262',
+      'carousel-mode' => false,
+      'image-on-hover' => true,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'limit' => '4',
+        'id' => '262-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => '1\\/12 RC Car 4 Motors 4WD Stunt Drift Climbing Car',
+            'href' => 'http://local.shopoes/index.php?route=product/product&amp;manufacturer_id=8&amp;product_id=42',
+            'image' => 'http://local.shopoes/image/cache/placeholder-200x200.png',
+            'image2x' => 'http://local.shopoes/image/cache/placeholder-400x400.png',
+          ),
+          1 => 
+          array (
+            'name' => '2pcs AUSTAR 165mm 3.8 Inch Rim Rubber Tyre Tire Wheel',
+            'href' => 'http://local.shopoes/index.php?route=product/product&amp;manufacturer_id=8&amp;product_id=47',
+            'image' => 'http://local.shopoes/image/cache/placeholder-200x200.png',
+            'image2x' => 'http://local.shopoes/image/cache/placeholder-400x400.png',
+          ),
+          2 => 
+          array (
+            'name' => '4Pcs 1.7 Inch Metal Wheel Rim Beadlock',
+            'href' => 'http://local.shopoes/index.php?route=product/product&amp;manufacturer_id=8&amp;product_id=46',
+            'image' => 'http://local.shopoes/image/cache/placeholder-200x200.png',
+            'image2x' => 'http://local.shopoes/image/cache/placeholder-400x400.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Flytec V003 2.4GHz 2CH 30KM\\/h RC Boat',
+            'href' => 'http://local.shopoes/index.php?route=product/product&amp;manufacturer_id=8&amp;product_id=36',
+            'image' => 'http://local.shopoes/image/cache/placeholder-200x200.png',
+            'image2x' => 'http://local.shopoes/image/cache/placeholder-400x400.png',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Apple',
+        'href' => 'http://local.shopoes/index.php?route=product/manufacturer/info&amp;manufacturer_id=8',
+        'total' => '19',
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'itemViewMoreFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'carousel' => 'false',
+      'itemLinkFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'itemsBoxFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'itemsBoxBackgroundHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'imagePosition' => 'top',
+      'itemsBoxBorderHover' => '',
+      'moduleStyle' => '__VAR__No Image',
+      'itemTitle' => '__VAR__CATALOG_MODULE',
+      'itemsBoxPadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'imageBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'viewMoreText' => 
+      array (
+        'lang_1' => 'See all products',
+        'lang_2' => 'See all products',
+      ),
+      'imageDimensions' => 
+      array (
+        'tablet_height' => '',
+        'phone_resize' => 'crop',
+        'width' => '200',
+        'height' => '200',
+        'tablet_resize' => 'crop',
+        'tablet_width' => '',
+        'resize' => 'fit',
+        'phone_width' => '',
+        'phone_height' => '',
+      ),
+      'itemsBoxBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+      ),
+      'imageMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '10',
+        'margin-left' => '',
+      ),
+      'name' => 'Catalog Brands',
+      'itemsBoxShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'itemIcon' => 
+      array (
+        'size' => '12',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '2',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => 'e409',
+          'name' => 'navigate_next',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'moduleTitle' => '',
+      'containerMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'itemIconHover' => '',
+      'carouselStyle' => '__VAR__TOP_ARROWS',
+      'itemsBoxShadowHover' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'changeImageOnHover' => 'true',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'textTruncate' => 'true',
+      'PositionOverride' => '',
+      'itemsBoxBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'title' => 
+      array (
+        'lang_1' => '',
+        'lang_2' => '',
+      ),
+      'images' => 'false',
+      'imageBorderRadius' => 
+      array (
+        'border-radius' => '5',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+      ),
+      'itemsBoxBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'itemLinkSpace' => '3',
+      'itemsBoxMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'itemsBoxFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'MarginOverride' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'imageShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'itemViewMoreFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '__VAR__COLOR_14',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '700',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '12',
+      ),
+      'itemLinkFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '__VAR__SMALL',
+      ),
+      'itemsPerRow' => 
+      array (
+        'variable' => '',
+        'c0' => 
+        array (
+          'items' => '3',
+          'spacing' => '__VAR__DEFAULT',
+        ),
+        'c1' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'c2' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'sc' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'c0_multi' => 
+        array (
+          0 => 
+          array (
+            'min' => '',
+            'max' => '__VAR__Tablet',
+            'value' => 
+            array (
+              'items' => '2',
+              'spacing' => '__VAR__DEFAULT',
+            ),
+          ),
+        ),
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'name' => 'Apple',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'type' => 'manufacturer',
+        'subtype' => 'category',
+        'category' => '',
+        'manufacturer' => '8',
+        'limit' => '4',
+        'id' => '63039bcd-a201-47e9-96fc-b2984f3e094b',
+      ),
+      1 => 
+      array (
+        'name' => 'Awesome Brand',
+        'manufacturer' => '12',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Electronics',
+          'lang_2' => 'Electronics',
+        ),
+        'subtype' => 'category',
+        'type' => 'manufacturer',
+        'id' => 'b1863ae8-ee42-4d77-881b-f3662344e4a6',
+        'limit' => '4',
+        'category' => '69',
+      ),
+      2 => 
+      array (
+        'name' => 'Chic D\'or',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'type' => 'manufacturer',
+        'subtype' => 'category',
+        'category' => '',
+        'manufacturer' => '13',
+        'limit' => '4',
+        'id' => '08ee792f-3dbe-4c2f-ac24-91779fda7e28',
+      ),
+      3 => 
+      array (
+        'name' => 'Errickson',
+        'manufacturer' => '15',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Fashion',
+          'lang_2' => 'Fashion',
+        ),
+        'subtype' => 'category',
+        'type' => 'manufacturer',
+        'id' => 'a15ddfef-2f1e-4a5c-b541-c8e7e7bb6620',
+        'limit' => '4',
+        'category' => '59',
+      ),
+      4 => 
+      array (
+        'name' => 'Melissa',
+        'manufacturer' => '18',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Health & Beauty',
+          'lang_2' => 'Health & Beauty',
+        ),
+        'subtype' => 'category',
+        'type' => 'manufacturer',
+        'id' => '7e478bd0-78bb-479e-81ca-313c004a0955',
+        'limit' => '4',
+        'category' => '109',
+      ),
+      5 => 
+      array (
+        'name' => 'Hipser',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+        ),
+        'type' => 'manufacturer',
+        'subtype' => 'product',
+        'category' => '',
+        'manufacturer' => '14',
+        'limit' => '4',
+        'id' => 'e4c853e1-b94b-472b-b3b4-e1fdba7a9ca6',
+      ),
+    ),
+  ),
+);

@@ -1,0 +1,183 @@
+<?php $val = array (
+  'css' => '.module-button-263 .btn {
+	transform: scale(calc(100 / 100)); 
+	transform-origin: center; 
+	width:auto; 
+	background: rgba(13, 82, 214, 1)
+}
+.module-button-263 {
+	display:flex; justify-content:center
+}
+.module-button-263 .btn:hover {
+	background: rgba(15, 58, 141, 1) !important
+}
+.module-button-263 .btn::after {
+	content: \'\\e9b1\' !important; 
+	font-family: icomoon !important; 
+	margin-left: 7px
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'See all products',
+    'link' => 
+    array (
+      'type' => 'page',
+      'id' => '',
+      'href' => 'http://local.shopoes/index.php?route=product/catalog',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'status' => true,
+    'id' => 'button-5ce3d3ab709cd',
+    'module_id' => 263,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-button',
+      2 => 'module-button-263',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'iconLeft' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'iconRight' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '7',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'name' => 'noun_Arrow_1803897_0000001',
+          'code' => 'e9b1',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'align' => 'center',
+      'width' => 'auto',
+      'scale' => '100',
+      'name' => 'See all products',
+      'margin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'scaleOrigin' => 'center',
+      'padding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'style' => '__VAR__Secondary',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+      ),
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'title' => 
+      array (
+        'lang_1' => 'See all products',
+        'lang_2' => '',
+      ),
+      'iconRightHover' => '',
+      'link' => 
+      array (
+        'type' => 'page',
+        'id' => '',
+        'url' => '',
+        'scroll' => '',
+        'target' => 'false',
+        'rel' => '',
+        'page' => 'product/catalog',
+      ),
+      'iconLeftHover' => '',
+      'borderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+    ),
+  ),
+);

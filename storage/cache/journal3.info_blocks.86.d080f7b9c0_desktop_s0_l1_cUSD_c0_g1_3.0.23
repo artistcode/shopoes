@@ -1,0 +1,1118 @@
+<?php $val = array (
+  'css' => '.module-info_blocks-86 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 3 * 0px) / 4 - 0.01px)
+}
+.module-info_blocks-86 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 4 - 0.01px)
+}
+.one-column #content .module-info_blocks-86 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.one-column #content .module-info_blocks-86 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.two-column #content .module-info_blocks-86 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.two-column #content .module-info_blocks-86 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.side-column .module-info_blocks-86 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.side-column .module-info_blocks-86 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.module-info_blocks-86 .info-block .info-block-title {
+	font-family: \'Montserrat\'; 
+	font-weight: 700; 
+	font-size: 15px; 
+	color: rgba(230, 230, 230, 1); 
+	display: block
+}
+.module-info_blocks-86 .info-block .info-block-text {
+	font-size: 14px; 
+	color: rgba(139, 145, 152, 1); 
+	font-weight: 400; 
+	line-height: 1.3; 
+	display: block
+}
+.module-info_blocks-86 .info-block {
+	padding: 25px; 
+	display:flex; flex-direction: row; justify-content: flex-start; text-align:left
+}
+.module-info_blocks-86 .info-block-content {
+	display:flex
+}
+.module-info_blocks-86 .info-block::before {
+	align-self:center; 
+	width:60px; 
+	height:60px; 
+	font-size:30px; 
+	color: rgba(233, 102, 49, 1)
+}
+.module-info_blocks-86 .info-block-img {
+	align-self:center
+}
+.module-info_blocks-86 .info-block::before, .module-info_blocks-86 .info-block-img {
+	margin-right: 15px; 
+	border-width: 2px; 
+	border-style: solid; 
+	border-color: rgba(13, 82, 214, 1); 
+	border-radius: 50%
+}
+.module-info_blocks-86 .info-block .count-badge {
+	display: none
+}
+
+@media (max-width: 1024px) {
+	.module-info_blocks-86 .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 1 * 0px) / 2 - 0.01px)
+	}	.module-info_blocks-86 .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 2 - 0.01px)
+	}
+}
+
+@media (max-width: 980px) {
+	.module-info_blocks-86 .info-block {
+	padding: 15px
+	}
+}
+
+@media (max-width: 470px) {
+	.module-info_blocks-86 .info-block .info-block-title {
+	font-size: 13px
+	}	.module-info_blocks-86 .info-block .info-block-text {
+	font-size: 11px; 
+	display: block
+	}	.module-info_blocks-86 .info-block::before {
+	width:35px; 
+	height:35px; 
+	font-size:17px
+	}	.module-info_blocks-86 .info-block::before, .module-info_blocks-86 .info-block-img {
+	margin-right: 8px
+	}
+}
+.module-info_blocks-86 .module-item-1 .info-block::before {
+	content: \'\\eab9\' !important; 
+	font-family: icomoon !important
+}
+.module-info_blocks-86 .module-item-2 .info-block::before {
+	content: \'\\f112\' !important; 
+	font-family: icomoon !important
+}
+.module-info_blocks-86 .module-item-3 .info-block::before {
+	content: \'\\e980\' !important; 
+	font-family: icomoon !important
+}
+.module-info_blocks-86 .module-item-4 .info-block::before {
+	content: \'\\eb15\' !important; 
+	font-family: icomoon !important
+}
+',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Montserrat' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 0,
+        ),
+        1024 => 
+        array (
+          'items' => 2,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'info_blocks-5ce3d3ab31095',
+    'module_id' => 86,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-info_blocks',
+      2 => 'module-info_blocks-86',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Free Shipping',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'content' => 'Free delivery over $100',
+        'button' => false,
+        'id' => '86-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          2 => 'info-blocks',
+          3 => 'info-blocks-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Free Returns',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'content' => 'Hassle free returns',
+        'button' => false,
+        'id' => '86-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          2 => 'info-blocks',
+          3 => 'info-blocks-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Secure Shopping',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'content' => 'Best security features',
+        'button' => false,
+        'id' => '86-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          2 => 'info-blocks',
+          3 => 'info-blocks-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Unlimited Blocks',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'content' => 'Any content, any page',
+        'button' => false,
+        'id' => '86-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          2 => 'info-blocks',
+          3 => 'info-blocks-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'shadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'itemBGHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'itemAutoWidth' => 'false',
+      'align' => '',
+      'text2FontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'imageDimensions' => 
+      array (
+        'tablet_height' => '',
+        'phone_resize' => 'fill',
+        'width' => '',
+        'height' => '',
+        'tablet_resize' => 'fill',
+        'tablet_width' => '',
+        'resize' => 'fill',
+        'phone_width' => '',
+        'phone_height' => '',
+      ),
+      'text1FontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'name' => 'Info Blocks Home',
+      'border' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'background' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'padding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'style' => '__VAR__Home Blocks',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'tablet',
+          1 => 'desktop',
+          2 => 'phone',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'text1Font' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'text2Font' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'gutter_multi' => 
+      array (
+      ),
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'itemBG' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'gutter' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'itemsPerRow' => 
+      array (
+        'variable' => '',
+        'c0' => 
+        array (
+          'items' => '4',
+          'spacing' => '',
+        ),
+        'c1' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'c2' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'sc' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'c0_multi' => 
+        array (
+          0 => 
+          array (
+            'min' => '',
+            'max' => '__VAR__Tablet',
+            'value' => 
+            array (
+              'items' => '2',
+              'spacing' => '',
+            ),
+          ),
+        ),
+        'c1_multi' => 
+        array (
+        ),
+        'c2_multi' => 
+        array (
+        ),
+      ),
+      'borderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'iconHover' => '',
+        'name' => 'Free shipping',
+        'buttonIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'border' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'Border' => 
+        array (
+          'border-left-width' => '1',
+          'border-color' => '__VAR__COLOR_15',
+          'border-style' => 'solid',
+        ),
+        'buttonType' => 'both',
+        'imageOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'borderHover' => '',
+        'style' => '',
+        'button' => 'false',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'icon_multi' => 
+        array (
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Free Shipping',
+          'lang_2' => '',
+        ),
+        'content' => 
+        array (
+          'lang_1' => 'Free delivery over $100',
+          'lang_2' => 'Create and open custom popups from any link or block.',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'eab9',
+            'name' => 'iconmonstr-delivery-5',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'type' => 'icon',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '3bc4546f-4173-44fd-88ed-7ac31eed02c3',
+        'image' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'itemStyle' => '',
+        'buttonStyle' => '',
+        'buttonText' => 
+        array (
+          'lang_1' => 'Send',
+          'lang_2' => 'Send',
+        ),
+      ),
+      1 => 
+      array (
+        'iconHover' => '',
+        'name' => 'Return',
+        'buttonIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'border' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'buttonType' => 'both',
+        'imageOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'borderHover' => '',
+        'style' => '',
+        'button' => 'false',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'icon_multi' => 
+        array (
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Free Returns',
+          'lang_2' => '',
+        ),
+        'content' => 
+        array (
+          'lang_1' => 'Hassle free returns',
+          'lang_2' => 'The page builder in Journal 3 allows for virtually any layout design.',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'f112',
+            'name' => 'mail-reply',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'type' => 'icon',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '788f964b-cbef-4e1a-97c7-fff0bce2f52f',
+        'image' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'itemStyle' => '',
+        'buttonStyle' => '',
+        'buttonText' => 
+        array (
+          'lang_1' => 'Send',
+          'lang_2' => 'Send',
+        ),
+      ),
+      2 => 
+      array (
+        'iconHover' => '',
+        'name' => 'Secure',
+        'buttonIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'border' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'buttonType' => 'both',
+        'imageOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'borderHover' => '',
+        'style' => '',
+        'button' => 'false',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'icon_multi' => 
+        array (
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Secure Shopping',
+          'lang_2' => '',
+        ),
+        'content' => 
+        array (
+          'lang_1' => 'Best security features',
+          'lang_2' => 'Journal 3 comes with the best multi-purpose modules already built in.',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'e980',
+            'name' => 'iconmonstr-police-10',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'type' => 'icon',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '3e95ed79-9490-4a17-a235-1d906268adda',
+        'image' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'itemStyle' => '',
+        'buttonStyle' => '',
+        'buttonText' => 
+        array (
+          'lang_1' => 'Send',
+          'lang_2' => 'Send',
+        ),
+      ),
+      3 => 
+      array (
+        'iconHover' => '',
+        'name' => 'Unlimited Blocks',
+        'buttonIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'border' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'buttonType' => 'both',
+        'imageOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'borderHover' => '',
+        'style' => '',
+        'button' => 'false',
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'icon_multi' => 
+        array (
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Unlimited Blocks',
+          'lang_2' => 'Best Rated Theme',
+        ),
+        'content' => 
+        array (
+          'lang_1' => 'Any content, any page',
+          'lang_2' => 'Journal is the best rated theme from more than 2000 reviews.',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'eb15',
+            'name' => 'box',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'type' => 'icon',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'a9fe4110-f774-4b7b-96ef-8a77c18287ea',
+        'image' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'itemStyle' => '',
+        'buttonStyle' => '',
+        'buttonText' => 
+        array (
+          'lang_1' => 'Send',
+          'lang_2' => 'Send',
+        ),
+      ),
+    ),
+  ),
+);

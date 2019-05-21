@@ -1,0 +1,71 @@
+<?php $val = array (
+  'category_id' => '59',
+  'parent_id' => '0',
+  'title' => 'Cellphone',
+  'items' => 
+  array (
+    60 => 
+    array (
+      'category_id' => '60',
+      'parent_id' => '59',
+      'title' => 'Accessories',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c60',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://local.shopoes/index.php?route=product/category&amp;path=59_60',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c59',
+    'dropdown' => 
+    array (
+      60 => 
+      array (
+        'category_id' => '60',
+        'parent_id' => '59',
+        'title' => 'Accessories',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c60',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://local.shopoes/index.php?route=product/category&amp;path=59_60',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'http://local.shopoes/index.php?route=product/category&amp;path=59',
+    'total' => '0',
+    'classes' => 
+    array (
+    ),
+  ),
+);

@@ -1,0 +1,8 @@
+{% if thumb %}
+{% if eboptioncolorpro_switch_addtional_image %}<li> {% endif %}<a class="thumbnail" href="{{ popup }}" title="{{ heading_title }}"><img src="{{ thumb }}" title="{{ heading_title }}" alt="{{ heading_title }}" /></a>{% if eboptioncolorpro_switch_addtional_image %} </li>{% endif %}
+{% endif %}
+{% if images and eboptioncolorpro_switch_addtional_image %}
+{% for image in  images %}
+<li class="image-additional"><a class="thumbnail" href="{{ image.popup }}" title="{{ heading_title }}"> <img src="{{ image.thumb }}" title="{{ heading_title }}" alt="{{ heading_title }}" /></a></li>
+{% endfor %}
+{% endif %}

@@ -1,0 +1,994 @@
+<?php $val = array (
+  'css' => '.top-menu-2 .j-menu li.top-menu-item-1 > a::before {
+	content: \'\\eb69\' !important; 
+	font-family: icomoon !important; 
+	top: -1px
+}
+.top-menu-2 > ul > .top-menu-item-1 > a {
+	text-align:left
+}
+.top-menu-2 > ul > .top-menu-item-1 > a > .links-text {
+	display:block
+}
+.top-menu-2 > ul > .top-menu-item-1 > a .count-badge {
+	position: relative;
+}
+.top-menu-2 .j-menu li.top-menu-item-2 > a::before {
+	content: \'\\e97e\' !important; 
+	font-family: icomoon !important; 
+	top: -1px
+}
+.top-menu-2 > ul > .top-menu-item-2 > a {
+	text-align:left
+}
+.top-menu-2 > ul > .top-menu-item-2 > a > .links-text {
+	display:block
+}
+.top-menu-2 > ul > .top-menu-item-2 > a .count-badge {
+	position: relative;
+}
+.top-menu-2 .j-menu li.top-menu-item-3 > a::before {
+	content: \'\\eb79\' !important; 
+	font-family: icomoon !important
+}
+.top-menu-2 > ul > .top-menu-item-3 > a {
+	text-align:left
+}
+.top-menu-2 > ul > .top-menu-item-3 > a > .links-text {
+	display:block
+}
+.top-menu-2 > ul > .top-menu-item-3 > a .count-badge {
+	position: relative;
+}
+.top-menu-2 .j-menu li.top-menu-item-4 > a::before {
+	content: \'\\f29c\' !important; 
+	font-family: icomoon !important; 
+	top: -1px
+}
+.top-menu-2 > ul > .top-menu-item-4 > a {
+	text-align:left
+}
+.top-menu-2 > ul > .top-menu-item-4 > a > .links-text {
+	display:block
+}
+.top-menu-2 > ul > .top-menu-item-4 > a .count-badge {
+	position: relative;
+}
+.top-menu-2 li.top-menu-item-5 > a::before {
+	content: \'\\e5c8\' !important; 
+	font-family: icomoon !important; 
+	margin-right: 5px
+}
+.top-menu-2 li.top-menu-item-6 > a::before {
+	content: \'\\e984\' !important; 
+	font-family: icomoon !important; 
+	margin-right: 5px
+}
+.top-menu-2 li.top-menu-item-7 > a::before {
+	content: \'\\e901\' !important; 
+	font-family: icomoon !important; 
+	margin-right: 5px
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'scheduledStatus' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'status' => true,
+    'id' => 'top-menu-5ce3d3ad09dfb',
+    'module_id' => 2,
+    'classes' => 
+    array (
+      0 => 'top-menu',
+      1 => 'top-menu-2',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Home',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://local.shopoes/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'top-menu-item',
+          2 => 'top-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          'icon-only' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'About Us',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '4',
+          'href' => 'http://local.shopoes/index.php?route=information/information&amp;information_id=4',
+          'name' => 'About Us',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'top-menu-item',
+          2 => 'top-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          'icon-only' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Contact',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://local.shopoes/index.php?route=information/contact',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'top-menu-item',
+          2 => 'top-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          'icon-only' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'FAQ',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '7',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'top-menu-item',
+          2 => 'top-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => true,
+          'drop-menu' => true,
+          'icon-only' => false,
+        ),
+        'items' => 
+        array (
+          5 => 
+          array (
+            'title' => 'Create',
+            'link' => 
+            array (
+              'type' => 'page',
+              'id' => '',
+              'href' => 'http://local.shopoes/index.php?route=product/compare',
+              'name' => '',
+              'total' => '{{ $compare }}',
+              'attrs' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'compare-badge',
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item',
+              1 => 'top-menu-item-5',
+              'dropdown' => false,
+              'icon-only' => NULL,
+            ),
+            'items' => 
+            array (
+            ),
+          ),
+          6 => 
+          array (
+            'title' => 'Unlimited',
+            'link' => 
+            array (
+              'type' => '',
+              'id' => '',
+              'href' => '',
+              'name' => '',
+              'total' => NULL,
+              'attrs' => 
+              array (
+              ),
+              'classes' => 
+              array (
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item',
+              1 => 'top-menu-item-6',
+              'dropdown' => false,
+              'icon-only' => NULL,
+            ),
+            'items' => 
+            array (
+            ),
+          ),
+          7 => 
+          array (
+            'title' => 'Menus',
+            'link' => 
+            array (
+              'type' => '',
+              'id' => '',
+              'href' => '',
+              'name' => '',
+              'total' => NULL,
+              'attrs' => 
+              array (
+              ),
+              'classes' => 
+              array (
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item',
+              1 => 'top-menu-item-7',
+              'dropdown' => false,
+              'icon-only' => NULL,
+            ),
+            'items' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'name' => 'Top Menu - Desktop',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'scheduledStatus' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'iconHover' => '',
+        'iconOnly' => 'false',
+        'name' => 'Home',
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Home',
+          'lang_2' => '',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '-1',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'name' => 'home3',
+            'code' => 'eb69',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'common/home',
+        ),
+        'id' => '37dbd35e-70da-4636-89ea-e3ad0cca8f90',
+      ),
+      1 => 
+      array (
+        'iconHover' => '',
+        'iconOnly' => 'false',
+        'name' => 'About Us',
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'About Us',
+          'lang_2' => 'About Us',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '-1',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'e97e',
+            'name' => 'iconmonstr-award-23-badge',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '4',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'product/catalog',
+        ),
+        'id' => 'f56aeef1-cf5e-4324-95cd-4d496fda4089',
+      ),
+      2 => 
+      array (
+        'iconHover' => '',
+        'iconOnly' => 'false',
+        'name' => 'Contact',
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'Contact',
+          'lang_2' => 'Contact',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'eb79',
+            'name' => 'mail',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'information/contact',
+        ),
+        'id' => 'd861760c-be9e-4e69-8fe1-00791918aad6',
+      ),
+      3 => 
+      array (
+        'items' => 
+        array (
+          0 => 
+          array (
+            'iconHover' => '',
+            'name' => 'Create',
+            'fontHover' => 
+            array (
+              'word-spacing' => '',
+              'line-height' => '',
+              'font-family' => '',
+              'color' => '',
+              'text-align' => '',
+              'text-transform' => '',
+              'text-decoration' => '',
+              'font-style' => '',
+              'textShadowBlur' => '',
+              'font-weight' => '',
+              'textShadowColor' => '',
+              'textShadowOffsetX' => '',
+              'textShadowOffsetY' => '',
+              'word-break' => '',
+              'letter-spacing' => '',
+              'font-size' => '',
+            ),
+            'font' => 
+            array (
+              'word-spacing' => '',
+              'line-height' => '',
+              'font-family' => '',
+              'color' => '',
+              'text-align' => '',
+              'text-transform' => '',
+              'text-decoration' => '',
+              'font-style' => '',
+              'textShadowBlur' => '',
+              'font-weight' => '',
+              'textShadowColor' => '',
+              'textShadowOffsetX' => '',
+              'textShadowOffsetY' => '',
+              'word-break' => '',
+              'letter-spacing' => '',
+              'font-size' => '',
+            ),
+            'status' => 
+            array (
+              'status' => 'true',
+              'device' => 
+              array (
+                0 => 'phone',
+                1 => 'tablet',
+                2 => 'desktop',
+              ),
+              'customer' => '',
+              'customer_groups' => 
+              array (
+                0 => '1',
+              ),
+              'admin' => 'false',
+            ),
+            'title' => 
+            array (
+              'lang_1' => 'Create',
+              'lang_2' => 'Create',
+            ),
+            'icon' => 
+            array (
+              'type' => '',
+              'icon' => 
+              array (
+                'name' => 'arrow_forward',
+                'code' => 'e5c8',
+              ),
+              'image' => '',
+              'color' => '',
+              'size' => '',
+              'offsetX' => '',
+              'offsetY' => '',
+              'margin' => 
+              array (
+                'margin-right' => '5',
+              ),
+            ),
+            'link' => 
+            array (
+              'type' => 'page',
+              'id' => '',
+              'url' => '',
+              'scroll' => '',
+              'target' => 'false',
+              'rel' => '',
+              'page' => 'product/compare',
+            ),
+            'id' => 'de588742-8f97-4182-900f-129bded9d952',
+          ),
+          1 => 
+          array (
+            'name' => 'Unlimited',
+            'status' => 
+            array (
+              'status' => 'true',
+              'device' => 
+              array (
+                0 => 'phone',
+                1 => 'tablet',
+                2 => 'desktop',
+              ),
+              'customer' => '',
+              'customer_groups' => 
+              array (
+                0 => '1',
+              ),
+              'admin' => 'false',
+            ),
+            'title' => 
+            array (
+              'lang_1' => 'Unlimited',
+              'lang_2' => 'Unlimited',
+            ),
+            'link' => 
+            array (
+              'type' => '',
+              'id' => '',
+              'url' => '',
+              'scroll' => '',
+              'target' => 'false',
+              'rel' => '',
+            ),
+            'icon' => 
+            array (
+              'type' => '',
+              'icon' => 
+              array (
+                'name' => 'iconmonstr-diamond-11-ring-jewel',
+                'code' => 'e984',
+              ),
+              'image' => '',
+              'color' => '',
+              'size' => '',
+              'offsetX' => '',
+              'offsetY' => '',
+              'margin' => 
+              array (
+                'margin-right' => '5',
+              ),
+            ),
+            'iconHover' => '',
+            'fontHover' => 
+            array (
+              'word-spacing' => '',
+              'line-height' => '',
+              'font-family' => '',
+              'color' => '',
+              'text-align' => '',
+              'text-transform' => '',
+              'text-decoration' => '',
+              'font-style' => '',
+              'textShadowBlur' => '',
+              'font-weight' => '',
+              'textShadowColor' => '',
+              'textShadowOffsetX' => '',
+              'textShadowOffsetY' => '',
+              'word-break' => '',
+              'letter-spacing' => '',
+              'font-size' => '',
+            ),
+            'id' => '2b16f99f-63a3-47cf-9aaf-d6fac3bf956b',
+          ),
+          2 => 
+          array (
+            'iconHover' => '',
+            'name' => 'Menus',
+            'fontHover' => 
+            array (
+              'word-spacing' => '',
+              'line-height' => '',
+              'font-family' => '',
+              'color' => '',
+              'text-align' => '',
+              'text-transform' => '',
+              'text-decoration' => '',
+              'font-style' => '',
+              'textShadowBlur' => '',
+              'font-weight' => '',
+              'textShadowColor' => '',
+              'textShadowOffsetX' => '',
+              'textShadowOffsetY' => '',
+              'word-break' => '',
+              'letter-spacing' => '',
+              'font-size' => '',
+            ),
+            'status' => 
+            array (
+              'status' => 'true',
+              'device' => 
+              array (
+                0 => 'phone',
+                1 => 'tablet',
+                2 => 'desktop',
+              ),
+              'customer' => '',
+              'customer_groups' => 
+              array (
+                0 => '1',
+              ),
+              'admin' => 'false',
+            ),
+            'title' => 
+            array (
+              'lang_1' => 'Menus',
+              'lang_2' => 'Menus',
+            ),
+            'icon' => 
+            array (
+              'type' => '',
+              'icon' => 
+              array (
+                'name' => 'ampersand-1',
+                'code' => 'e901',
+              ),
+              'image' => '',
+              'color' => '',
+              'size' => '',
+              'offsetX' => '',
+              'offsetY' => '',
+              'margin' => 
+              array (
+                'margin-right' => '5',
+              ),
+            ),
+            'link' => 
+            array (
+              'type' => '',
+              'id' => '',
+              'url' => '',
+              'scroll' => '',
+              'target' => 'false',
+              'rel' => '',
+            ),
+            'id' => 'ed77cc42-1aa5-4a13-9445-2b132f0f9595',
+          ),
+        ),
+        'iconHover' => '',
+        'iconOnly' => 'false',
+        'name' => 'FAQ',
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'FAQ',
+          'lang_2' => 'FAQ',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '-1',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'f29c',
+            'name' => 'question-circle-o',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '7',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'product/special',
+        ),
+        'id' => '25ecb2b4-2b45-4540-a06a-34ac84ce721c',
+      ),
+    ),
+  ),
+);

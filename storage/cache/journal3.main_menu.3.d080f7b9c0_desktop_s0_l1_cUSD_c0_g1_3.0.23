@@ -1,0 +1,3036 @@
+<?php $val = array (
+  'css' => 'div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-1 > a::before {
+	content: \'\\e8d2\' !important; 
+	font-family: icomoon !important; 
+	font-size: 20px; 
+	top: -1px; 
+	margin-right: 5px
+}
+div.main-menu.main-menu-3 > .j-menu li.main-menu-item-1 > a {
+	color: rgba(51, 51, 51, 1) !important; 
+	background: rgba(254, 212, 48, 1)
+}
+.desktop div.main-menu.main-menu-3 > .j-menu li.main-menu-item-1:hover > a {
+	background: rgba(240, 242, 245, 1)
+}
+div.main-menu.main-menu-3 > .j-menu > .main-menu-item-1 > a {
+	padding-left: 16px !important; 
+	min-width:230px
+}
+.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1 .mega-menu-content {
+	width:500px; 
+	position:relative; left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1 > .dropdown-menu::before {
+	 left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1:not(.mega-fullwidth) > .dropdown-menu::before {
+	display: none; 
+	margin-top:-10px
+}
+.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu {
+	left:100%
+}
+.main-menu-3 > .j-menu li.main-menu-item-1 > a > .menu-label {
+	color: rgba(255, 255, 255, 1); 
+	font-weight: 400; 
+	text-transform: none; 
+	background: rgba(233, 102, 49, 1); 
+	padding: 1px; 
+	padding-right: 5px; 
+	padding-left: 5px
+}
+.desktop-main-menu-wrapper .main-menu-3 .main-menu-item-1 > a > .menu-label {
+	margin-right:calc(0px - (-7px)); 
+	margin-top:-7px
+}
+
+@media (max-width: 1024px) {
+	div.main-menu.main-menu-3 > .j-menu li.main-menu-item-1 > a {
+	background: none
+	}	div.main-menu.main-menu-3 > .j-menu > .main-menu-item-1 > a {
+	padding-left: 0px !important
+	}
+}
+.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-2 .mega-menu-content {
+	width:500px; 
+	position:relative; left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-2 > .dropdown-menu::before {
+	 left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-2:not(.mega-fullwidth) > .dropdown-menu::before {
+	display: none; 
+	margin-top:-10px
+}
+.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-2.multi-level .dropdown-menu ul li .dropdown-menu {
+	left:100%
+}
+.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3 .mega-menu-content {
+	width:500px; 
+	position:relative; left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3 > .dropdown-menu::before {
+	 left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3:not(.mega-fullwidth) > .dropdown-menu::before {
+	display: block; 
+	margin-top:-10px
+}
+.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3.multi-level .dropdown-menu ul li .dropdown-menu {
+	left:100%
+}
+.main-menu-3 > .j-menu li.main-menu-item-3 > a > .menu-label {
+	color: rgba(51, 51, 51, 1); 
+	background: rgba(254, 212, 48, 1); 
+	padding: 1px; 
+	padding-right: 5px; 
+	padding-left: 5px
+}
+.desktop-main-menu-wrapper .main-menu-3 .main-menu-item-3 > a > .menu-label {
+	margin-right:calc(0px - (-7px)); 
+	margin-top:-7px
+}
+.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 {
+	padding: 10px
+}
+.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1::before {
+	display: block; 
+	left: 0; width:100vw
+}
+
+@media (max-width: 1024px) {
+	.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 {
+	padding: 0px
+	}
+}
+.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1 {
+	width: 80%; 
+	padding: 10px
+}
+.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1 .grid-items {
+	justify-content: flex-start
+}
+
+@media (max-width: 1024px) {
+	.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1 {
+	width: 100%; 
+	padding: 0px; 
+	padding-bottom: 20px
+	}
+}
+.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2 {
+	width: 20%; 
+	border-width: 0; 
+	border-left-width: 1px; 
+	border-style: solid; 
+	border-color: rgba(226, 226, 226, 1); 
+	padding: 20px; 
+	padding-right: 10px
+}
+.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2 .grid-items {
+	justify-content: flex-start
+}
+
+@media (max-width: 1024px) {
+	.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2 {
+	width: 100%; 
+	border-style: none; 
+	padding: 0px
+	}
+}
+.desktop-main-menu-wrapper .menu-fullwidth > .j-dropdown {
+	width: 100vw;left: 50%; margin-left: -50vw;
+}
+.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4 .mega-menu-content {
+	width:500px; 
+	position:relative; left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4 > .dropdown-menu::before {
+	 left:0; transform: none
+}
+.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4:not(.mega-fullwidth) > .dropdown-menu::before {
+	display: block; 
+	margin-top:-10px
+}
+.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4.multi-level .dropdown-menu ul li .dropdown-menu {
+	left:100%
+}
+.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 {
+	padding: 10px
+}
+.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1::before {
+	display: block; 
+	left: 0; width:100vw
+}
+
+@media (max-width: 1024px) {
+	.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 {
+	padding: 0px
+	}
+}
+.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-1 {
+	width: 66.66666666666666%; 
+	padding: 20px; 
+	padding-left: 0px
+}
+
+@media (max-width: 1024px) {
+	.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-1 {
+	width: 100%; 
+	padding: 0px; 
+	padding-bottom: 20px
+	}
+}
+.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2 {
+	width: 33.33333333333333%; 
+	padding: 20px
+}
+.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2 .grid-items {
+	justify-content: flex-start
+}
+
+@media (max-width: 1024px) {
+	.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2 {
+	width: 100%; 
+	padding: 0px
+	}
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu',
+    'module_id' => 3,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-3',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'All Departments',
+        'label' => 'Sale',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'flyout',
+        'mobileOpen' => true,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          3 => 'dropdown',
+          4 => 'flyout',
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+          'drop-menu' => true,
+        ),
+        'items' => '7',
+        'isOpen' => true,
+      ),
+      2 => 
+      array (
+        'title' => 'Multilevel',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => 'http://local.shopoes/index.php?route=product/category&amp;path=59',
+          'name' => 'Cellphone',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-2',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => true,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+          60 => 
+          array (
+            'category_id' => '60',
+            'parent_id' => '59',
+            'title' => 'Accessories',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c60',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://local.shopoes/index.php?route=product/category&amp;path=59_60',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      3 => 
+      array (
+        'title' => 'Mega Menu',
+        'label' => 'New',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-3',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '210',
+                      'name' => 'Fashion',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '98',
+                      'name' => 'Promo Banner',
+                      'type' => 'banners',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      4 => 
+      array (
+        'title' => 'Fullwidth',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-4',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => true,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '264',
+                      'name' => 'Catalog Categories Image',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '186',
+                      'name' => 'Top Sellers',
+                      'type' => 'products',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'name' => 'Main Menu - Desktop',
+      'status' => 
+      array (
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'customer_group_2' => 'true',
+        'store_0' => 'true',
+        'status' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'items' => 
+        array (
+          0 => 
+          array (
+            'iconHover' => '',
+            'bg' => 
+            array (
+              'backgroundPositionX' => '',
+              'backgroundPositionY' => '',
+              'background-attachment' => '',
+              'background-color' => '',
+              'background-origin' => '',
+              'background-position' => '',
+              'backgroundSizeW' => '',
+              'gradient' => '',
+              'backgroundSizeUnit' => 'px',
+              'backgroundSizeH' => '',
+              'background-repeat' => '',
+              'backgroundPositionUnit' => 'px',
+              'background-image' => '',
+            ),
+            'position' => 'left',
+            'name' => 'Menu Item',
+            'flyoutMegaMenuShadow' => 
+            array (
+              'offsetX' => '',
+              'offsetY' => '',
+              'blur' => '',
+              'spread' => '',
+              'color' => '',
+              'inner' => 'false',
+            ),
+            'fontHover' => 
+            array (
+              'word-spacing' => '',
+              'line-height' => '',
+              'font-family' => '',
+              'color' => '',
+              'text-align' => '',
+              'text-transform' => '',
+              'text-decoration' => '',
+              'font-style' => '',
+              'textShadowBlur' => '',
+              'font-weight' => '',
+              'textShadowColor' => '',
+              'textShadowOffsetX' => '',
+              'textShadowOffsetY' => '',
+              'word-break' => '',
+              'letter-spacing' => '',
+              'font-size' => '',
+            ),
+            'font' => 
+            array (
+              'type' => '',
+              'icon' => 
+              array (
+                'code' => '',
+                'name' => '',
+              ),
+              'image' => '',
+              'color' => '',
+              'size' => '',
+              'offsetX' => '',
+              'offsetY' => '',
+            ),
+            'flyoutMultiLevelPosition' => 'right',
+            'flyoutMultiLevelDropdownWidth' => '',
+            'flyoutMegaMenuBG' => 
+            array (
+              'backgroundPositionX' => '',
+              'backgroundPositionY' => '',
+              'background-attachment' => '',
+              'background-color' => '',
+              'background-origin' => '',
+              'background-position' => '',
+              'backgroundSizeW' => '',
+              'gradient' => '',
+              'backgroundSizeUnit' => 'px',
+              'backgroundSizeH' => '',
+              'background-repeat' => '',
+              'backgroundPositionUnit' => 'px',
+              'background-image' => '',
+            ),
+            'status' => 
+            array (
+              'status' => 'true',
+              'device' => 
+              array (
+                0 => 'phone',
+                1 => 'tablet',
+                2 => 'desktop',
+              ),
+              'customer' => '',
+              'customer_groups' => 
+              array (
+                0 => '1',
+              ),
+              'admin' => 'false',
+            ),
+            'bgHover' => 
+            array (
+              'backgroundPositionX' => '',
+              'backgroundPositionY' => '',
+              'background-attachment' => '',
+              'background-color' => '',
+              'background-origin' => '',
+              'background-position' => '',
+              'backgroundSizeW' => '',
+              'gradient' => '',
+              'backgroundSizeUnit' => 'px',
+              'backgroundSizeH' => '',
+              'background-repeat' => '',
+              'backgroundPositionUnit' => 'px',
+              'background-image' => '',
+            ),
+            'title' => 
+            array (
+              'lang_1' => 'Sub Menu Item',
+              'lang_2' => 'Sub Menu Item',
+            ),
+            'flyoutMegaMenuBorder' => 
+            array (
+              'border-width' => '',
+              'border-top-width' => '',
+              'border-right-width' => '',
+              'border-bottom-width' => '',
+              'border-left-width' => '',
+              'border-style' => '',
+              'border-color' => '',
+            ),
+            'icon' => 
+            array (
+              'type' => '',
+              'icon' => 
+              array (
+                'code' => '',
+                'name' => '',
+              ),
+              'image' => '',
+              'color' => '',
+              'size' => '',
+              'offsetX' => '',
+              'offsetY' => '',
+            ),
+            'flyoutMultiLevelOffset' => '',
+            'flyoutMegaMenuWidth' => '800',
+            'type' => 'multilevel',
+            'link' => 
+            array (
+              'type' => '',
+              'id' => '',
+              'url' => '',
+              'scroll' => '',
+              'target' => 'false',
+              'rel' => '',
+            ),
+            'id' => 'a88bdaa7-e6b7-4d83-8fc8-89749d983636',
+            'flyout' => '',
+            'subcategories' => 'true',
+          ),
+        ),
+        'mainMenuItemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'textPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'megaMenuBGFull' => 'false',
+        'iconOnly' => 'false',
+        'labelOffset' => 
+        array (
+          'first' => '-7',
+          'second' => '-7',
+        ),
+        'itemMinWidth' => '230',
+        'background_multi' => 
+        array (
+          0 => 
+          array (
+            'min' => '',
+            'max' => '__VAR__Tablet',
+            'value' => 
+            array (
+              'backgroundPositionX' => '',
+              'backgroundPositionY' => '',
+              'background-attachment' => '',
+              'background-color' => '',
+              'background-origin' => '',
+              'background-position' => '',
+              'backgroundSizeW' => '',
+              'gradient' => '',
+              'backgroundSizeUnit' => 'px',
+              'none' => 'true',
+              'backgroundSizeH' => '',
+              'background-repeat' => '',
+              'backgroundPositionUnit' => 'px',
+              'background-image' => '',
+            ),
+          ),
+        ),
+        'font_multi' => 
+        array (
+        ),
+        'homeOpen' => 'false',
+        'multiLevelDropdownWidth' => '',
+        'megaMenuTriangleColor' => '',
+        'name' => 'All Departments',
+        'padding_multi' => 
+        array (
+          0 => 
+          array (
+            'min' => '',
+            'max' => '__VAR__Tablet',
+            'value' => 
+            array (
+              'padding' => '',
+              'padding-top' => '',
+              'padding-right' => '',
+              'padding-bottom' => '',
+              'padding-left' => '0',
+            ),
+          ),
+        ),
+        'border' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'mobileOpen' => 'true',
+        'mainMenuItemBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '__VAR__Background Shade',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '__VAR__Gold',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '__VAR__Foreground',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'borderHover' => '',
+        'customWidthAlign' => 'default',
+        'mainMenuItemBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'padding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '16',
+        ),
+        'status' => 
+        array (
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'customer_group_2' => 'true',
+          'store_0' => 'true',
+          'status' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+        ),
+        'multiLevelPosition' => 'right',
+        'minWidth' => '',
+        'label' => 
+        array (
+          'lang_1' => 'Sale',
+          'lang_2' => 'Sale',
+        ),
+        'dropdownWidth' => '',
+        'megaMenuWidth' => '500',
+        'megaMenuHeight' => '',
+        'megaMenuCustomTriangleMargin' => '-10',
+        'title' => 
+        array (
+          'lang_1' => 'All Departments',
+          'lang_2' => 'All Departments',
+        ),
+        'icon' => 
+        array (
+          'size' => '20',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '-1',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '5',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'e8d2',
+            'name' => 'subject',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'megaMenuCustomTriangleColor' => '',
+        'rows' => 
+        array (
+          0 => 
+          array (
+            'id' => 'c26de514-acef-4a14-8448-c6ad6295e755',
+            'options' => 
+            array (
+              'name' => 'New Menu Item',
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'padding' => 
+              array (
+                'padding' => '',
+                'padding-top' => '',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'type' => 'multilevel',
+            ),
+            'columns' => 
+            array (
+              0 => 
+              array (
+                'id' => 'a0cd5d4b-15c5-48d7-be36-ab5a1bf8e283',
+                'options' => 
+                array (
+                  'width' => '25',
+                  'name' => 
+                  array (
+                    'lang_1' => '',
+                    'lang_2' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'padding' => 
+                  array (
+                    'padding' => '',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => 'b09a5291-52f0-48cc-87e1-43ea60f83793',
+                    'item' => 
+                    array (
+                      'id' => '6',
+                      'name' => 'Footer Links',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              1 => 
+              array (
+                'id' => 'a823c290-c17d-4994-8563-24cb1124f51d',
+                'options' => 
+                array (
+                  'width' => '25',
+                  'name' => 
+                  array (
+                    'lang_1' => '',
+                    'lang_2' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'padding' => 
+                  array (
+                    'padding' => '',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => '5d4f2d4e-5e5a-4f46-a8c6-d486a9300e31',
+                    'item' => 
+                    array (
+                      'id' => '6',
+                      'name' => 'Footer Links',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'id' => 'f538d2c4-8d4c-4112-bc65-788fbb4ae170',
+                'options' => 
+                array (
+                  'width' => '25',
+                  'name' => 
+                  array (
+                    'lang_1' => '',
+                    'lang_2' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'padding' => 
+                  array (
+                    'padding' => '',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => 'f571e265-0d83-4280-a7b2-50fa0778db13',
+                    'item' => 
+                    array (
+                      'id' => '6',
+                      'name' => 'Footer Links',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              3 => 
+              array (
+                'id' => 'c0957865-0bc6-4e57-8f0b-052fa176790f',
+                'options' => 
+                array (
+                  'width' => '25',
+                  'name' => 
+                  array (
+                    'lang_1' => '',
+                    'lang_2' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'padding' => 
+                  array (
+                    'padding' => '',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => '8e47581e-adb2-4adc-916a-b30f2767a4e4',
+                    'item' => 
+                    array (
+                      'id' => '6',
+                      'name' => 'Footer Links',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'megaMenuTriangle' => 'true',
+        'mainMenuItemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'type' => 'flyout',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'product/compare',
+        ),
+        'id' => 'a3716c90-e1a3-4188-96d1-95339103bd3d',
+        'megaMenuCustomTriangleAlign' => '',
+        'flyout' => '7',
+        'megaMenuLayout' => 'full',
+        'subcategories' => 'true',
+        'megaMenuCustomTriangleStatus' => 'false',
+        'megaMenuBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'megaMenuCustomTriangleOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'labelStyle' => '__VAR__DEFAULT',
+        'multiLevelOffset' => '',
+        'borderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'megaStyle' => '',
+      ),
+      1 => 
+      array (
+        'items' => 
+        array (
+        ),
+        'mainMenuItemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'textPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'megaMenuBGFull' => 'false',
+        'iconOnly' => 'false',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'itemMinWidth' => '',
+        'homeOpen' => 'false',
+        'multiLevelDropdownWidth' => '',
+        'megaMenuTriangleColor' => '',
+        'name' => 'Multilevel',
+        'padding_multi' => 
+        array (
+        ),
+        'border' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'mobileOpen' => 'false',
+        'mainMenuItemBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'borderHover' => '',
+        'customWidthAlign' => 'default',
+        'mainMenuItemBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'padding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'status' => 
+        array (
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'customer_group_2' => 'true',
+          'store_0' => 'true',
+          'status' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+          'device' => 
+          array (
+            0 => 'desktop',
+            1 => 'phone',
+            2 => 'tablet',
+          ),
+          'customer' => '',
+        ),
+        'multiLevelPosition' => 'right',
+        'minWidth' => '',
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'dropdownWidth' => '',
+        'subcategoriesIcon' => 
+        array (
+          'icon' => 
+          array (
+            'name' => 'arrow2',
+            'code' => 'e93f',
+          ),
+        ),
+        'megaMenuWidth' => '500',
+        'megaMenuHeight' => '',
+        'megaMenuCustomTriangleMargin' => '-10',
+        'title' => 
+        array (
+          'lang_1' => 'Multilevel',
+          'lang_2' => 'Multilevel',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'megaMenuCustomTriangleColor' => '',
+        'rows' => 
+        array (
+          0 => 
+          array (
+            'id' => 'c26de514-acef-4a14-8448-c6ad6295e755',
+            'options' => 
+            array (
+              'name' => 'New Menu Item',
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'padding' => 
+              array (
+                'padding' => '',
+                'padding-top' => '',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'type' => 'multilevel',
+            ),
+            'columns' => 
+            array (
+              0 => 
+              array (
+                'id' => 'a0cd5d4b-15c5-48d7-be36-ab5a1bf8e283',
+                'options' => 
+                array (
+                  'width' => '25',
+                  'name' => 
+                  array (
+                    'lang_1' => '',
+                    'lang_2' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'padding' => 
+                  array (
+                    'padding' => '',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => 'b09a5291-52f0-48cc-87e1-43ea60f83793',
+                    'item' => 
+                    array (
+                      'id' => '6',
+                      'name' => 'Footer Links',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              1 => 
+              array (
+                'id' => 'a823c290-c17d-4994-8563-24cb1124f51d',
+                'options' => 
+                array (
+                  'width' => '25',
+                  'name' => 
+                  array (
+                    'lang_1' => '',
+                    'lang_2' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'padding' => 
+                  array (
+                    'padding' => '',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => '5d4f2d4e-5e5a-4f46-a8c6-d486a9300e31',
+                    'item' => 
+                    array (
+                      'id' => '6',
+                      'name' => 'Footer Links',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'id' => 'f538d2c4-8d4c-4112-bc65-788fbb4ae170',
+                'options' => 
+                array (
+                  'width' => '25',
+                  'name' => 
+                  array (
+                    'lang_1' => '',
+                    'lang_2' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'padding' => 
+                  array (
+                    'padding' => '',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => 'f571e265-0d83-4280-a7b2-50fa0778db13',
+                    'item' => 
+                    array (
+                      'id' => '6',
+                      'name' => 'Footer Links',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              3 => 
+              array (
+                'id' => 'c0957865-0bc6-4e57-8f0b-052fa176790f',
+                'options' => 
+                array (
+                  'width' => '25',
+                  'name' => 
+                  array (
+                    'lang_1' => '',
+                    'lang_2' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'padding' => 
+                  array (
+                    'padding' => '',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => '8e47581e-adb2-4adc-916a-b30f2767a4e4',
+                    'item' => 
+                    array (
+                      'id' => '6',
+                      'name' => 'Footer Links',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'megaMenuTriangle' => 'true',
+        'mainMenuItemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'type' => 'multilevel',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+          'page' => 'product/compare',
+        ),
+        'id' => '22efcb1d-6240-4c3f-bcb2-448ea09c7410',
+        'megaMenuCustomTriangleAlign' => '',
+        'flyout' => '',
+        'megaMenuLayout' => 'full',
+        'subcategories' => 'true',
+        'megaMenuCustomTriangleStatus' => 'false',
+        'megaMenuBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'megaMenuCustomTriangleOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'labelStyle' => '',
+        'multiLevelOffset' => '',
+        'borderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'megaStyle' => '',
+      ),
+      2 => 
+      array (
+        'items' => 
+        array (
+        ),
+        'mainMenuItemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'textPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'megaMenuBGFull' => 'false',
+        'iconOnly' => 'false',
+        'labelOffset' => 
+        array (
+          'first' => '-7',
+          'second' => '-7',
+        ),
+        'itemMinWidth' => '',
+        'homeOpen' => 'false',
+        'multiLevelDropdownWidth' => '',
+        'megaMenuTriangleColor' => '',
+        'name' => 'Mega Menu',
+        'border' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'mobileOpen' => 'false',
+        'mainMenuItemBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'borderHover' => '',
+        'customWidthAlign' => 'default',
+        'mainMenuItemBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'padding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'status' => 
+        array (
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'customer_group_2' => 'true',
+          'store_0' => 'true',
+          'status' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+          'device' => 
+          array (
+            0 => 'desktop',
+            1 => 'phone',
+            2 => 'tablet',
+          ),
+          'customer' => '',
+        ),
+        'multiLevelPosition' => 'right',
+        'minWidth' => '',
+        'label' => 
+        array (
+          'lang_1' => 'New',
+          'lang_2' => '',
+        ),
+        'dropdownWidth' => '',
+        'megaMenuWidth' => '500',
+        'megaMenuHeight' => '',
+        'megaMenuCustomTriangleMargin' => '-10',
+        'title' => 
+        array (
+          'lang_1' => 'Mega Menu',
+          'lang_2' => 'Mega Menu',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'megaMenuCustomTriangleColor' => '',
+        'rows' => 
+        array (
+          0 => 
+          array (
+            'id' => 'fbb29168-fe29-4aa8-b00d-66b961555be1',
+            'options' => 
+            array (
+              'shadow' => 
+              array (
+                'offsetX' => '',
+                'offsetY' => '',
+                'blur' => '',
+                'spread' => '',
+                'color' => '',
+                'inner' => 'false',
+                'none' => 'false',
+              ),
+              'overlayStatus' => 'false',
+              'overlayVisibility' => 'true',
+              'background_multi' => 
+              array (
+              ),
+              'overlay_multi' => 
+              array (
+              ),
+              'padding_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Tablet',
+                  'value' => 
+                  array (
+                    'padding' => '0',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                ),
+              ),
+              'border' => 
+              array (
+                'border-width' => '',
+                'border-top-width' => '',
+                'border-right-width' => '',
+                'border-bottom-width' => '',
+                'border-left-width' => '',
+                'border-style' => '',
+                'border-color' => '',
+              ),
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'margin' => '',
+              'overlay' => 'rgba(10, 55, 143, 0.92)',
+              'padding' => 
+              array (
+                'padding' => '10',
+                'padding-top' => '',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'status' => 
+              array (
+                'status' => 'true',
+                'device' => 
+                array (
+                  0 => 'phone',
+                  1 => 'tablet',
+                  2 => 'desktop',
+                ),
+              ),
+              'overlayAlign' => 'center',
+              'fullwidth' => 'false',
+              'overlayBackground' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+            ),
+            'columns' => 
+            array (
+              0 => 
+              array (
+                'id' => 'cba781dd-5af8-4cde-bb20-48f457b35c96',
+                'options' => 
+                array (
+                  'width_multi' => 
+                  array (
+                    0 => 
+                    array (
+                      'min' => '',
+                      'max' => '__VAR__Tablet',
+                      'value' => '100',
+                    ),
+                  ),
+                  'align' => 'top',
+                  'width' => '80',
+                  'padding_multi' => 
+                  array (
+                    0 => 
+                    array (
+                      'min' => '',
+                      'max' => '__VAR__Tablet',
+                      'value' => 
+                      array (
+                        'padding' => '0',
+                        'padding-top' => '',
+                        'padding-right' => '',
+                        'padding-bottom' => '20',
+                        'padding-left' => '',
+                      ),
+                    ),
+                  ),
+                  'border' => 
+                  array (
+                    'border-width' => '',
+                    'border-top-width' => '',
+                    'border-right-width' => '',
+                    'border-bottom-width' => '',
+                    'border-left-width' => '',
+                    'border-style' => '',
+                    'border-color' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'none' => 'false',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'margin' => '',
+                  'padding' => 
+                  array (
+                    'padding' => '10',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                  'status' => 
+                  array (
+                    'status' => 'true',
+                    'device' => 
+                    array (
+                      0 => 'phone',
+                      1 => 'tablet',
+                      2 => 'desktop',
+                    ),
+                    'admin' => 'false',
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => 'e24f91b5-306f-4493-811b-b9ee28fa22b5',
+                    'item' => 
+                    array (
+                      'id' => '210',
+                      'name' => 'Fashion',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              1 => 
+              array (
+                'id' => '0a818dc2-b8ed-4b63-b66e-5519e27a9674',
+                'options' => 
+                array (
+                  'width_multi' => 
+                  array (
+                    0 => 
+                    array (
+                      'min' => '',
+                      'max' => '__VAR__Tablet',
+                      'value' => '100',
+                    ),
+                  ),
+                  'align' => 'top',
+                  'width' => '20',
+                  'border_multi' => 
+                  array (
+                    0 => 
+                    array (
+                      'min' => '',
+                      'max' => '__VAR__Tablet',
+                      'value' => 
+                      array (
+                        'border-width' => '',
+                        'border-top-width' => '',
+                        'border-right-width' => '',
+                        'border-bottom-width' => '',
+                        'border-left-width' => '',
+                        'border-style' => 'none',
+                        'border-color' => '',
+                      ),
+                    ),
+                  ),
+                  'padding_multi' => 
+                  array (
+                    0 => 
+                    array (
+                      'min' => '',
+                      'max' => '__VAR__Tablet',
+                      'value' => 
+                      array (
+                        'padding' => '0',
+                        'padding-top' => '',
+                        'padding-right' => '',
+                        'padding-bottom' => '',
+                        'padding-left' => '',
+                      ),
+                    ),
+                  ),
+                  'border' => 
+                  array (
+                    'border-width' => '',
+                    'border-top-width' => '',
+                    'border-right-width' => '',
+                    'border-bottom-width' => '',
+                    'border-left-width' => '1',
+                    'border-style' => 'solid',
+                    'border-color' => '__VAR__Border',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'none' => 'false',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'margin' => '',
+                  'padding' => 
+                  array (
+                    'padding' => '20',
+                    'padding-top' => '',
+                    'padding-right' => '10',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                  'status' => 
+                  array (
+                    'status' => 'true',
+                    'device' => 
+                    array (
+                      0 => 'tablet',
+                      1 => 'desktop',
+                    ),
+                    'admin' => 'false',
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => '51d4f0b9-acd5-49f9-a5d0-07a2cfe8312b',
+                    'item' => 
+                    array (
+                      'id' => '98',
+                      'name' => 'Promo Banner',
+                      'type' => 'banners',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'megaMenuTriangle' => 'true',
+        'mainMenuItemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'type' => 'megamenu',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => 'f56afa20-66e0-4e90-bb09-dfecdd8bced2',
+        'megaMenuCustomTriangleAlign' => '',
+        'flyout' => '',
+        'megaMenuLayout' => 'full',
+        'subcategories' => 'false',
+        'megaMenuCustomTriangleStatus' => 'true',
+        'megaMenuBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'megaMenuCustomTriangleOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'labelStyle' => '__VAR__Gold',
+        'multiLevelOffset' => '',
+        'borderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'megaStyle' => '',
+      ),
+      3 => 
+      array (
+        'mainMenuItemFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'iconHover' => '',
+        'textPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'megaMenuBGFull' => 'true',
+        'iconOnly' => 'false',
+        'labelOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'itemMinWidth' => '',
+        'homeOpen' => 'false',
+        'multiLevelDropdownWidth' => '',
+        'megaMenuTriangleColor' => '',
+        'name' => 'Fullwidth',
+        'border' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'mobileOpen' => 'false',
+        'mainMenuItemBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'fontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'backgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'background' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'font' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'borderHover' => '',
+        'customWidthAlign' => 'default',
+        'mainMenuItemBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'padding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'status' => 
+        array (
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'customer_group_2' => 'true',
+          'store_0' => 'true',
+          'status' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'desktop',
+            2 => 'tablet',
+          ),
+          'customer' => '',
+        ),
+        'multiLevelPosition' => 'right',
+        'minWidth' => '',
+        'label' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'dropdownWidth' => '',
+        'megaMenuWidth' => '500',
+        'megaMenuHeight' => '',
+        'megaMenuCustomTriangleMargin' => '-10',
+        'title' => 
+        array (
+          'lang_1' => 'Fullwidth',
+          'lang_2' => 'Fullwidth',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'megaMenuCustomTriangleColor' => '',
+        'rows' => 
+        array (
+          0 => 
+          array (
+            'id' => 'd7edbb96-df88-4f11-9c4b-a89b82efb1e0',
+            'options' => 
+            array (
+              'overlayStatus' => 'false',
+              'overlayVisibility' => 'true',
+              'name' => 'New Menu Item',
+              'padding_multi' => 
+              array (
+                0 => 
+                array (
+                  'min' => '',
+                  'max' => '__VAR__Tablet',
+                  'value' => 
+                  array (
+                    'padding' => '0',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                ),
+              ),
+              'background' => 
+              array (
+                'backgroundPositionX' => '',
+                'backgroundPositionY' => '',
+                'background-attachment' => '',
+                'background-color' => '',
+                'background-origin' => '',
+                'background-position' => '',
+                'backgroundSizeW' => '',
+                'gradient' => '',
+                'backgroundSizeUnit' => 'px',
+                'none' => 'false',
+                'backgroundSizeH' => '',
+                'background-repeat' => '',
+                'backgroundPositionUnit' => 'px',
+                'background-image' => '',
+              ),
+              'padding' => 
+              array (
+                'padding' => '10',
+                'padding-top' => '',
+                'padding-right' => '',
+                'padding-bottom' => '',
+                'padding-left' => '',
+              ),
+              'status' => 
+              array (
+                'status' => 'true',
+                'device' => 
+                array (
+                  0 => 'phone',
+                  1 => 'tablet',
+                  2 => 'desktop',
+                ),
+                'customer_group_1' => 'true',
+                'store_0' => 'true',
+                'store_1' => 'true',
+                'admin' => 'false',
+              ),
+              'overlayAlign' => 'center',
+              'type' => 'multilevel',
+            ),
+            'columns' => 
+            array (
+              0 => 
+              array (
+                'id' => '3b1443b6-f275-4883-bfeb-5fde6af588ae',
+                'options' => 
+                array (
+                  'width_multi' => 
+                  array (
+                    0 => 
+                    array (
+                      'min' => '',
+                      'max' => '__VAR__Tablet',
+                      'value' => '100',
+                    ),
+                  ),
+                  'align' => '',
+                  'width' => '66.66666666666666',
+                  'name' => 
+                  array (
+                    'lang_1' => '',
+                    'lang_2' => '',
+                  ),
+                  'padding_multi' => 
+                  array (
+                    0 => 
+                    array (
+                      'min' => '',
+                      'max' => '__VAR__Tablet',
+                      'value' => 
+                      array (
+                        'padding' => '0',
+                        'padding-top' => '',
+                        'padding-right' => '',
+                        'padding-bottom' => '20',
+                        'padding-left' => '',
+                      ),
+                    ),
+                  ),
+                  'border' => 
+                  array (
+                    'border-width' => '',
+                    'border-top-width' => '',
+                    'border-right-width' => '',
+                    'border-bottom-width' => '',
+                    'border-left-width' => '',
+                    'border-style' => '',
+                    'border-color' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'none' => 'false',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'padding' => 
+                  array (
+                    'padding' => '20',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '0',
+                  ),
+                  'status' => 
+                  array (
+                    'status' => 'true',
+                    'device' => 
+                    array (
+                      0 => 'phone',
+                      1 => 'tablet',
+                      2 => 'desktop',
+                    ),
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => 'c94b80ff-c509-4162-98c6-6deb4423cf95',
+                    'item' => 
+                    array (
+                      'id' => '264',
+                      'name' => 'Catalog Categories Image',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+              1 => 
+              array (
+                'id' => 'd0adaaef-8a00-4717-b126-8a87b4d2dcc6',
+                'options' => 
+                array (
+                  'width_multi' => 
+                  array (
+                    0 => 
+                    array (
+                      'min' => '',
+                      'max' => '__VAR__Tablet',
+                      'value' => '100',
+                    ),
+                  ),
+                  'align' => 'top',
+                  'width' => '33.33333333333333',
+                  'padding_multi' => 
+                  array (
+                    0 => 
+                    array (
+                      'min' => '',
+                      'max' => '__VAR__Tablet',
+                      'value' => 
+                      array (
+                        'padding' => '0',
+                        'padding-top' => '',
+                        'padding-right' => '',
+                        'padding-bottom' => '',
+                        'padding-left' => '',
+                      ),
+                    ),
+                  ),
+                  'border' => 
+                  array (
+                    'border-width' => '',
+                    'border-top-width' => '',
+                    'border-right-width' => '',
+                    'border-bottom-width' => '',
+                    'border-left-width' => '',
+                    'border-style' => '',
+                    'border-color' => '',
+                  ),
+                  'background' => 
+                  array (
+                    'backgroundPositionX' => '',
+                    'backgroundPositionY' => '',
+                    'background-attachment' => '',
+                    'background-color' => '',
+                    'background-origin' => '',
+                    'background-position' => '',
+                    'backgroundSizeW' => '',
+                    'gradient' => '',
+                    'backgroundSizeUnit' => 'px',
+                    'none' => 'false',
+                    'backgroundSizeH' => '',
+                    'background-repeat' => '',
+                    'backgroundPositionUnit' => 'px',
+                    'background-image' => '',
+                  ),
+                  'margin' => '',
+                  'padding' => 
+                  array (
+                    'padding' => '20',
+                    'padding-top' => '',
+                    'padding-right' => '',
+                    'padding-bottom' => '',
+                    'padding-left' => '',
+                  ),
+                  'status' => 
+                  array (
+                    'status' => 'true',
+                    'device' => 
+                    array (
+                      0 => 'phone',
+                      1 => 'desktop',
+                      2 => 'tablet',
+                    ),
+                  ),
+                ),
+                'items' => 
+                array (
+                  0 => 
+                  array (
+                    'id' => 'af03c8fd-6d1d-493f-ae8d-40b5ba8ecdd2',
+                    'item' => 
+                    array (
+                      'id' => '186',
+                      'name' => 'Top Sellers',
+                      'type' => 'products',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'megaMenuTriangle' => 'true',
+        'mainMenuItemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'type' => 'megamenu',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'id' => '5b78521b-6925-4ba7-a9e1-3ca0844a34f5',
+        'megaMenuCustomTriangleAlign' => '',
+        'flyout' => '',
+        'megaMenuLayout' => 'full',
+        'subcategories' => 'true',
+        'megaMenuCustomTriangleStatus' => 'true',
+        'megaMenuBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'megaMenuCustomTriangleOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'labelStyle' => '',
+        'multiLevelOffset' => '',
+        'borderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'megaStyle' => '',
+      ),
+    ),
+  ),
+);

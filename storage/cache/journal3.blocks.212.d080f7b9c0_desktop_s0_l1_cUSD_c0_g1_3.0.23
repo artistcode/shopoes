@@ -1,0 +1,1658 @@
+<?php $val = array (
+  'css' => '.module-blocks-212 .swiper-container {
+	overflow: hidden
+}
+.module-blocks-212 .swiper-buttons {
+	display:none; 
+	top:50%; 
+	width:calc(100% - (-15px * 2)); 
+	margin-top:-10px
+}
+.module-blocks-212:hover .swiper-buttons {
+	display:block
+}
+.module-blocks-212 .swiper-button-prev {
+	left:0; right:auto; transform: translate(0, -50%)
+}
+.module-blocks-212 .swiper-button-next {
+	left:auto; right:0; transform: translate(0, -50%)
+}
+.module-blocks-212 .swiper-buttons div {
+	width:35px; 
+	height:35px; 
+	background: rgba(44, 54, 64, 1); 
+	border-width: 4px; 
+	border-style: solid; 
+	border-color: rgba(255, 255, 255, 1); 
+	border-radius: 50%
+}
+.module-blocks-212 .swiper-button-disabled {
+	opacity:0
+}
+.module-blocks-212 .swiper-buttons div::before {
+	content: \'\\e408\' !important; 
+	font-family: icomoon !important; 
+	color: rgba(255, 255, 255, 1)
+}
+.module-blocks-212 .swiper-buttons .swiper-button-next::before {
+	content: \'\\e409\' !important; 
+	font-family: icomoon !important; 
+	color: rgba(255, 255, 255, 1)
+}
+.module-blocks-212 .swiper-buttons div:not(.swiper-button-disabled):hover {
+	background: rgba(221, 14, 28, 1)
+}
+.module-blocks-212 .swiper-pagination {
+	display:block; 
+	margin-bottom:-10px; 
+	left:50%; right:auto; transform: translateX(-50%);
+}
+.module-blocks-212 .swiper {
+	padding-bottom:15px
+}
+.module-blocks-212 .swiper-pagination-bullet {
+	width:8px; 
+	height:8px; 
+	background-color: rgba(226, 226, 226, 1)
+}
+.module-blocks-212 .swiper-pagination > span + span {
+	margin-left:8px
+}
+.desktop .module-blocks-212 .swiper-pagination-bullet:hover {
+	background-color: rgba(219, 232, 240, 1)
+}
+.module-blocks-212 .swiper-pagination-bullet.swiper-pagination-bullet-active {
+	background-color: rgba(233, 102, 49, 1)
+}
+.module-blocks-212 .swiper-pagination > span {
+	border-radius: 50px
+}
+.module-blocks-212.blocks-grid .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.module-blocks-212.blocks-grid .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.one-column #content .module-blocks-212.blocks-grid .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.one-column #content .module-blocks-212.blocks-grid .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.two-column #content .module-blocks-212.blocks-grid .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.two-column #content .module-blocks-212.blocks-grid .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.side-column .module-blocks-212.blocks-grid .module-item.swiper-slide {
+	margin-right: 0px; 
+	width: calc((100% - 0 * 0px) / 1 - 0.01px)
+}
+.side-column .module-blocks-212.blocks-grid .module-item:not(.swiper-slide) {
+	padding: 0px; 
+	width: calc(100% / 1 - 0.01px)
+}
+.module-blocks-212 .title.block-title {
+	font-family: \'Montserrat\'; 
+	font-weight: 700; 
+	font-size: 17px; 
+	margin-bottom: 15px; 
+	white-space: normal; overflow: visible; text-overflow: initial
+}
+.module-blocks-212 .title.block-title::after {
+	content:\'\'; display:block; position:relative; 
+	margin-top:10px
+}
+.module-blocks-212 .title.block-title.page-title > span::after {
+	content:\'\'; display:block; position:relative; 
+	margin-top:10px
+}
+.module-blocks-212 .title.block-title::after, .module-blocks-212 .title.block-title.page-title > span::after {
+	width:50px; 
+	height:1px; 
+	background: rgba(233, 102, 49, 1)
+}
+.module-blocks-212 .nav-tabs > li > a, .module-blocks-212 .nav-tabs > li.active > a, .module-blocks-212 .nav-tabs > li.active > a:hover, .module-blocks-212 .nav-tabs > li.active > a:focus {
+	font-family: \'Montserrat\'; 
+	font-weight: 700; 
+	font-size: 14px; 
+	color: rgba(139, 145, 152, 1); 
+	text-transform: uppercase
+}
+.desktop .module-blocks-212 .nav-tabs > li:hover > a, .module-blocks-212 .nav-tabs > li.active > a {
+	color: rgba(51, 51, 51, 1)
+}
+.module-blocks-212 .nav-tabs > li.active > a, .module-blocks-212 .nav-tabs > li.active > a:hover, .module-blocks-212 .nav-tabs > li.active > a:focus {
+	color: rgba(51, 51, 51, 1)
+}
+.module-blocks-212 .nav-tabs > li {
+	border-width: 0; 
+	border-bottom-width: 1px; 
+	border-style: solid; 
+	border-color: rgba(0, 0, 0, 0); 
+	flex-grow:0
+}
+.module-blocks-212 .nav-tabs > li.active {
+	border-color: rgba(233, 102, 49, 1)
+}
+.module-blocks-212 .nav-tabs > li.active::after {
+	display: none; 
+	border-top-width:10px
+}
+.module-blocks-212 .nav-tabs > li > a {
+	justify-content:center; 
+	white-space:nowrap; 
+	padding: 0px; 
+	padding-bottom: 8px
+}
+.module-blocks-212 .nav-tabs > li > a::before {
+	font-size:18px
+}
+.module-blocks-212 .nav-tabs {
+	display:flex; justify-content:flex-start; 
+	flex-wrap: nowrap; overflow-x: auto; overflow-y: hidden; 
+	-webkit-overflow-scrolling:touch;; 
+	min-width:50px
+}
+.module-blocks-212 .mobile .nav-tabs {
+	overflow-x: scroll
+}
+.module-blocks-212 .nav-tabs::-webkit-scrollbar {
+	-webkit-appearance: none; height: 3px; 
+	height:1px; width: 1px
+}
+.module-blocks-212 .nav-tabs::-webkit-scrollbar-track {
+	background-color: white; 
+	background-color: rgba(238, 238, 238, 1)
+}
+.module-blocks-212 .nav-tabs::-webkit-scrollbar-thumb {
+	background-color: #999; 
+	background-color: rgba(139, 145, 152, 1)
+}
+.module-blocks-212 .nav-tabs > li:not(:last-child) {
+	margin-right:20px
+}
+.module-blocks-212 .tab-container::before {
+	display: none
+}
+.module-blocks-212 .tab-content {
+	padding-top: 20px
+}
+.module-blocks-212 .tab-container {
+	display:block
+}
+.module-blocks-212 .tab-container .nav-tabs {
+	flex-direction:row;
+}
+.module-blocks-212 .block-title {
+	order:-2
+}
+.module-blocks-212 .block-header {
+	display: flex; float:none; order:-1; 
+	justify-content:flex-start; align-items:flex-start
+}
+.module-blocks-212 .block-header img {
+	display: flex
+}
+.module-blocks-212 .block-wrapper {
+	display: flex
+}
+.module-blocks-212 .block-header i {
+	float:none; display: flex
+}
+.module-blocks-212 .block-body {
+	display:flex; flex-direction: column
+}
+
+@media (max-width: 1024px) {
+	.module-blocks-212 .swiper-buttons {
+	display:none !important
+	}
+}
+
+@media (max-width: 760px) {
+	.module-blocks-212 .swiper-container {
+	overflow: visible
+	}
+}
+.module-blocks-212 .module-item-1 .module-title {
+	font-size: 15px
+}
+.module-blocks-212 .module-item-1 .block-header {
+	display: flex; float:none; order:-1; 
+	justify-content:flex-start; align-items:flex-start; 
+	margin-bottom: 10px
+}
+.module-blocks-212 .module-item-1 .block-header img {
+	display: flex
+}
+.module-blocks-212 .module-item-1 .block-wrapper {
+	display: flex
+}
+.module-blocks-212 .module-item-1 .block-header i {
+	float:none; display: flex
+}
+.module-blocks-212 .module-item-1 .block-body {
+	display:flex; flex-direction: column
+}
+.module-blocks-212 .module-item-1 .block-content {
+	text-align:left; 
+	column-count:initial; 
+	column-gap:20px; 
+	column-rule-width:1px; 
+	column-rule-style: solid
+}
+.module-blocks-212 .module-item-1 .expand-content {
+	max-height:100%; overflow:visible
+}
+.module-blocks-212 .module-item-1 .block-footer {
+	margin-top:auto; 
+	padding-top: 10px; 
+	margin-top: 10px; 
+	border-width: 0; 
+	border-top-width: 1px; 
+	border-style: solid; 
+	border-color: rgba(226, 226, 226, 1); 
+	text-align:left
+}
+.module-blocks-212 .module-item-1 .block-footer .btn {
+	width:auto; 
+	transform: scale(calc(80 / 100)); 
+	transform-origin: top left
+}
+.module-blocks-212 .module-item-1 .block-footer .btn::after {
+	content: \'\\e5c8\' !important; 
+	font-family: icomoon !important; 
+	margin-left: 5px
+}
+',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Montserrat' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => '',
+    'imageDimensions' => 
+    array (
+      'width' => 200,
+      'height' => 120,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'blocks-5ce3d3ac8460d',
+    'module_id' => 212,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blocks',
+      2 => 'module-blocks-212',
+      3 => 'blocks-grid',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'header' => 'image',
+        'contentType' => 'html',
+        'shortDescriptionLimit' => '150',
+        'dynamic' => 'journal3/blocks_example',
+        'expandButton' => false,
+        'footer' => 'button',
+        'footerText' => '',
+        'footerButton' => 'Shop Now',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '212-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://local.shopoes/image/cache/catalog/journal3/banners/ban4-200x120w.jpg',
+        'image2x' => 'http://local.shopoes/image/cache/catalog/journal3/banners/ban4-400x240w.jpg',
+        'title' => 'CMS Blocks',
+        'content' => '<p>The mega menus use the page builder interface and this means you can add any layout module in your menus to build the desired layout in any rows and columns combination.</p>',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'carousel' => 'false',
+      'itemsBoxStylesFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'itemsBoxStylesBackgroundHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'default' => '',
+      'imageShadowHover' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'titlePosition' => 'before',
+      'display' => 'grid',
+      'typographyStyle' => '',
+      'iconHover' => '',
+      'iconShadowHover' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'itemsBoxStylesBorderHover' => '',
+      'itemsBoxStylesPadding' => 
+      array (
+        'padding' => '',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'imagePosition' => 'top',
+      'iconBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'itemTitle' => '__VAR__MEDIUM',
+      'titleMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'imageBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'iconMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'imageDimensions' => 
+      array (
+        'tablet_height' => '',
+        'phone_resize' => 'fill',
+        'width' => '200',
+        'height' => '120',
+        'tablet_resize' => 'fill',
+        'tablet_width' => '',
+        'resize' => 'fill',
+        'phone_width' => '',
+        'phone_height' => '',
+      ),
+      'accordionStyle' => '',
+      'imageMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'imageAlign' => 'left',
+      'contentAlignV' => '',
+      'name' => 'CMS Blocks - Flyout Mega Menu',
+      'itemsBoxStylesBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'contentAlign' => '',
+      'moduleTitle' => '',
+      'itemsContentWidth' => '',
+      'itemsBoxStylesShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'containerMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'itemsBoxStylesShadowHover' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'carouselStyle' => '__VAR__SIDE_ARROWS',
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'tabsStyle' => '__VAR__SIMPLE',
+      'blocksTitleAlign' => '',
+      'imageBorderHover' => '',
+      'iconBorderHover' => '',
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'iconBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'title' => 
+      array (
+        'lang_1' => '',
+        'lang_2' => '',
+      ),
+      'icon' => 
+      array (
+        'size' => '',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'false',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'imageBorderRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'itemsBoxStylesBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'iconShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'iconSize' => 
+      array (
+        'first' => '',
+        'second' => '',
+      ),
+      'moduleBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'moduleBackground_removed' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'imageShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'itemsBoxStylesMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'itemsBoxStylesBackground' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'itemsBoxStylesFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'containerGutter' => '',
+      'itemsPerRow' => 
+      array (
+        'c0' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'c1' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'c2' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+        'sc' => 
+        array (
+          'items' => '1',
+          'spacing' => '',
+        ),
+      ),
+      'iconBGHover' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'iconBG' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => '',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'footerBoxStylesBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'footerBoxStylesMargin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '10',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'itemContentWidth' => '',
+        'expandHeight' => '',
+        'footerBoxStylesFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'imageShadowHover' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'itemFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'itemBoxStylesShadowHover' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'iconHover' => '',
+        'iconShadowHover' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'contentShadowHover' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'itemTypographyStyles' => '',
+        'footerButtonStyle' => '',
+        'tabIconHover2' => '',
+        'expandIconHoverUp' => '',
+        'imagePosition' => 'top',
+        'contentWidgetHeight' => '',
+        'footerTextFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'contentBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'iconBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'footerBoxStylesOffset' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'expandButtonStyle' => '',
+        'itemBoxStylesBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'blocksColumnDividerColor' => '',
+        'imageBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => '',
+          'border-color' => '',
+        ),
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'titleFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '__VAR__Medium 1',
+        ),
+        'iconMargin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'footerText' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'itemBoxStylesBackground' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'contentTypography' => '',
+        'itemBoxStylesMargin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'itemBoxStylesFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'blocksColumnDividerWidth' => '1',
+        'expandIconHover' => '',
+        'imageMargin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '10',
+          'margin-left' => '',
+        ),
+        'scale' => '80',
+        'imageAlign' => 'left',
+        'name' => 'Block 1',
+        'buttonIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'buttonIconHoverRight' => '',
+        'contentAlign' => 'left',
+        'expandButton' => 'false',
+        'expandOverlayColor' => '',
+        'footerButton' => 
+        array (
+          'lang_1' => 'Shop Now',
+          'lang_2' => 'Shop Now',
+        ),
+        'header' => 'image',
+        'expandIconUp' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'tabIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'tabType' => 'content',
+        'footerBoxStylesBorderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'scaleOrigin' => 'tl',
+        'footerBoxStylesDisplay' => '',
+        'buttonIconHover' => '',
+        'buttonIconRight' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '5',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => 'e5c8',
+            'name' => 'arrow_forward',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'expandButtonTextLess' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'footerBoxStylesShadow' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'status' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'customer' => '',
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+          'store_1' => 'true',
+          'customer_groups' => 
+          array (
+            0 => '1',
+          ),
+        ),
+        'expandIcon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'footerBoxStylesSize' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'itemBoxStylesFontHover' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'contentType' => 'html',
+        'itemBoxStylesBackgroundHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'blocksColumnDividerStyle' => 'solid',
+        'imageBorderHover' => '',
+        'itemBoxStylesBorderHover' => '',
+        'footerTextFont' => 
+        array (
+          'word-spacing' => '',
+          'line-height' => '',
+          'font-family' => '',
+          'color' => '',
+          'text-align' => '',
+          'text-transform' => '',
+          'text-decoration' => '',
+          'font-style' => '',
+          'textShadowBlur' => '',
+          'font-weight' => '',
+          'textShadowColor' => '',
+          'textShadowOffsetX' => '',
+          'textShadowOffsetY' => '',
+          'word-break' => '',
+          'letter-spacing' => '',
+          'font-size' => '',
+        ),
+        'itemBoxStylesPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'iconBorderHover' => '',
+        'contentBorderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'iconBorderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'blocksColumns' => 'initial',
+        'contentPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+        'itemBoxStylesBorderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'title' => 
+        array (
+          'lang_1' => 'CMS Blocks',
+          'lang_2' => '',
+        ),
+        'content' => 
+        array (
+          'lang_1' => '<p>The mega menus use the page builder interface and this means you can add any layout module in your menus to build the desired layout in any rows and columns combination.</p>',
+          'lang_2' => 'code',
+        ),
+        'icon' => 
+        array (
+          'size' => '',
+          'color' => '',
+          'offsetX' => '',
+          'offsetY' => '',
+          'flip' => '',
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+          'type' => '',
+          'image' => '',
+        ),
+        'imageBorderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'footerButtonWidth' => 'auto',
+        'expandButtonText' => 
+        array (
+          'lang_1' => '',
+          'lang_2' => '',
+        ),
+        'itemFormStyles' => '',
+        'contentShadow' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'iconShadow' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'iconSize' => 
+        array (
+          'first' => '',
+          'second' => '',
+        ),
+        'blocksColumnGap' => '20',
+        'itemBoxStylesShadow' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'url' => '',
+          'scroll' => '',
+          'target' => 'false',
+          'rel' => '',
+        ),
+        'contentBorderHover2' => '',
+        'id' => '1d601389-0e70-4d5d-a75f-e4d618a8c175',
+        'image' => 'catalog/journal3/banners/ban4.jpg',
+        'footer' => 'button',
+        'shortDescriptionLimit' => '150',
+        'imageShadow' => 
+        array (
+          'offsetX' => '',
+          'offsetY' => '',
+          'blur' => '',
+          'spread' => '',
+          'color' => '',
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'itemTableStyles' => '',
+        'footerTextAlign' => 'left',
+        'iconBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'contentBGHover' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'footerBoxStylesBorder' => 
+        array (
+          'border-width' => '',
+          'border-top-width' => '1',
+          'border-right-width' => '',
+          'border-bottom-width' => '',
+          'border-left-width' => '',
+          'border-style' => 'solid',
+          'border-color' => '__VAR__Border',
+        ),
+        'contentBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'iconBG' => 
+        array (
+          'backgroundPositionX' => '',
+          'backgroundPositionY' => '',
+          'background-attachment' => '',
+          'background-color' => '',
+          'background-origin' => '',
+          'background-position' => '',
+          'backgroundSizeW' => '',
+          'overlay' => '',
+          'gradient' => '',
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundSizeH' => '',
+          'background-repeat' => '',
+          'backgroundPositionUnit' => 'px',
+          'background-image' => '',
+        ),
+        'borderRadius' => 
+        array (
+          'border-radius' => '',
+          'border-top-left-radius' => '',
+          'border-top-right-radius' => '',
+          'border-bottom-right-radius' => '',
+          'border-bottom-left-radius' => '',
+          'borderRadiusUnit' => 'px',
+          'custom' => '',
+        ),
+        'dynamic' => 'journal3/blocks_example',
+        'footerBoxStylesPadding' => 
+        array (
+          'padding' => '',
+          'padding-top' => '10',
+          'padding-right' => '',
+          'padding-bottom' => '',
+          'padding-left' => '',
+        ),
+      ),
+    ),
+  ),
+);

@@ -1,0 +1,318 @@
+<?php $val = array (
+  'css' => '.module-notification-137 {
+	color: rgba(255, 255, 255, 1); 
+	padding: 20px; 
+	padding-top: 15px; 
+	padding-right: 50px; 
+	background: rgba(0, 0, 0, 0.9); 
+	border-radius: 7px
+}
+.module-notification-137 a {
+	text-decoration: underline
+}
+.module-notification-137.notification {
+	max-width:1280px
+}
+.module-notification-137 .notification-close {
+	padding: 0px !important; 
+	display: flex; 
+	width:35px; 
+	height:35px; 
+	margin-left:10px; margin-right:10px; 
+	margin-top:10px; margin-bottom:10px; 
+	top:0; bottom:initial; left:initial; right:0; transform:none
+}
+.module-notification-137 .notification-close::before {
+	content: none !important
+}
+.module-notification-137 .notification-close.btn {
+	background: rgba(80, 173, 85, 1)
+}
+.module-notification-137 .notification-close.btn:hover {
+	background: rgba(13, 82, 214, 1) !important
+}
+',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'cookie' => '017df752',
+    'closeButton' => true,
+    'title' => '',
+    'text' => 'We use cookies and other similar technologies to improve your browsing experience and the functionality of our site. <a href="#">Privacy Policy</a>.',
+    'notificationCloseText' => 'OK',
+    'status' => true,
+    'id' => 'notification-5ce3d3ac287d5',
+    'module_id' => 137,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-notification',
+      2 => 'module-notification-137',
+      3 => 'notification',
+    ),
+    'options' => 
+    array (
+      'position' => NULL,
+      'title' => '',
+      'cookie' => '017df752',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+  'module_data' => 
+  array (
+    'general' => 
+    array (
+      'notificationCloseOffset' => 
+      array (
+        'first' => '10',
+        'second' => '10',
+      ),
+      'notificationCloseStyle' => '__VAR__Success',
+      'cookie' => '017df752',
+      'notificationClosePadding' => 
+      array (
+        'padding' => '0',
+        'padding-top' => '',
+        'padding-right' => '',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'notificationPadding' => 
+      array (
+        'padding' => '20',
+        'padding-top' => '15',
+        'padding-right' => '50',
+        'padding-bottom' => '',
+        'padding-left' => '',
+      ),
+      'notificationCloseIcon' => 
+      array (
+        'size' => '17',
+        'color' => '',
+        'offsetX' => '',
+        'offsetY' => '',
+        'flip' => '',
+        'margin' => 
+        array (
+          'margin' => '',
+          'margin-top' => '',
+          'margin-right' => '',
+          'margin-bottom' => '',
+          'margin-left' => '',
+        ),
+        'none' => 'true',
+        'icon' => 
+        array (
+          'code' => '',
+          'name' => '',
+        ),
+        'type' => '',
+        'image' => '',
+      ),
+      'notificationBorderRadius' => 
+      array (
+        'border-radius' => '__VAR__Medium',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+      'linkFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '__VAR__COLOR_5',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => 'underline',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'closeButton' => 'true',
+      'notificationShadow' => 
+      array (
+        'offsetX' => '',
+        'offsetY' => '',
+        'blur' => '',
+        'spread' => '',
+        'color' => '',
+        'inner' => 'false',
+        'none' => 'false',
+      ),
+      'name' => 'Notification Module',
+      'text' => 
+      array (
+        'lang_1' => 'We use cookies and other similar technologies to improve your browsing experience and the functionality of our site. <a href="#">Privacy Policy</a>.',
+        'lang_2' => 'Notification...',
+      ),
+      'notificationCloseSize' => 
+      array (
+        'first' => '35',
+        'second' => '35',
+      ),
+      'notificationBG' => 
+      array (
+        'backgroundPositionX' => '',
+        'backgroundPositionY' => '',
+        'background-attachment' => '',
+        'background-color' => 'rgba(0, 0, 0, 0.9)',
+        'background-origin' => '',
+        'background-position' => '',
+        'backgroundSizeW' => '',
+        'overlay' => '',
+        'gradient' => '',
+        'backgroundSizeUnit' => 'px',
+        'none' => 'false',
+        'backgroundSizeH' => '',
+        'background-repeat' => '',
+        'backgroundPositionUnit' => 'px',
+        'background-image' => '',
+      ),
+      'status' => 
+      array (
+        'status' => 'true',
+        'device' => 
+        array (
+          0 => 'phone',
+          1 => 'tablet',
+          2 => 'desktop',
+        ),
+        'customer' => '',
+        'admin' => 'false',
+        'customer_group_1' => 'true',
+        'store_0' => 'true',
+        'store_1' => 'true',
+        'customer_groups' => 
+        array (
+          0 => '1',
+        ),
+      ),
+      'linkFontHover' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '__VAR__COLOR_14',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'notificationClosePosition' => 'right',
+      'notificationCloseIconHover' => '',
+      'notificationBorder' => 
+      array (
+        'border-width' => '',
+        'border-top-width' => '',
+        'border-right-width' => '',
+        'border-bottom-width' => '',
+        'border-left-width' => '',
+        'border-style' => '',
+        'border-color' => '',
+      ),
+      'schedule' => 
+      array (
+        'from' => '',
+        'to' => '',
+        'between' => 'true',
+      ),
+      'title' => 
+      array (
+        'lang_1' => '',
+        'lang_2' => '',
+      ),
+      'bottomSpacing' => '20',
+      'notificationMargin' => 
+      array (
+        'margin' => '',
+        'margin-top' => '',
+        'margin-right' => '',
+        'margin-bottom' => '',
+        'margin-left' => '',
+      ),
+      'notificationCloseText' => 
+      array (
+        'lang_1' => 'OK',
+        'lang_2' => '',
+      ),
+      'notificationFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '__VAR__Foreground Lighter',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'notificationWidth' => '1280',
+      'notificationCloseFont' => 
+      array (
+        'word-spacing' => '',
+        'line-height' => '',
+        'font-family' => '',
+        'color' => '',
+        'text-align' => '',
+        'text-transform' => '',
+        'text-decoration' => '',
+        'font-style' => '',
+        'textShadowBlur' => '',
+        'font-weight' => '',
+        'textShadowColor' => '',
+        'textShadowOffsetX' => '',
+        'textShadowOffsetY' => '',
+        'word-break' => '',
+        'letter-spacing' => '',
+        'font-size' => '',
+      ),
+      'notificationCloseStatus' => 'true',
+      'notificationCloseRadius' => 
+      array (
+        'border-radius' => '',
+        'border-top-left-radius' => '',
+        'border-top-right-radius' => '',
+        'border-bottom-right-radius' => '',
+        'border-bottom-left-radius' => '',
+        'borderRadiusUnit' => 'px',
+        'custom' => '',
+      ),
+    ),
+  ),
+);

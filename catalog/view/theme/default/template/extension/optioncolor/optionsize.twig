@@ -1,0 +1,42 @@
+{% if option.type == 'select' %}
+<div class="form-group {{ module_eb_color_size_option_required ? 'required' : ''}}">
+  <label class="control-label" for="input-option5248">{{ option['name'] }}</label>
+  <select name="option[size]" id="input-option5248" class="form-control">
+	<option value="">{{ text_select }}</option>
+	{% for size in sizeoptionvalue %}
+	<option value="{{ size.option_value_id }}-{{ product_option_value_id }}">{{ size['name'] }}</option>
+    {% endfor %}
+	</option>
+  </select>
+</div>
+ {% endif %}
+ {% if option.type == 'radio' %}
+	<div class="form-group {{ module_eb_color_size_option_required ? 'required' : ''}}">
+	  <label class="control-label">{{ option['name'] }}</label>
+	  <div id="input-option5248">
+		{% for size in sizeoptionvalue %}
+		<div class="radio">
+		  <label>
+			<input type="radio" name="option[size]" value="{{ size['option_value_id'] }}-{{ product_option_value_id }}" />
+			{{ size['name'] }}
+		  </label>
+		</div>
+		 {% endfor %}
+	  </div>
+	</div>
+{% endif %}
+{% if option.type == 'checkbox' %}
+<div class="form-group {{ module_eb_color_size_option_required ? 'required' : ''}}">
+  <label class="control-label">{{ option['name'] }}</label>
+  <div id="input-option5248">
+	{% for size in sizeoptionvalue %}
+	<div class="checkbox">
+	  <label>
+		<input type="checkbox" name="option[size][]" value="{{ size['option_value_id'] }}-{{ product_option_value_id }}" />
+		{{ size['name'] }}
+	  </label>
+	</div>
+	{% endfor %}
+  </div>
+</div>
+{% endif %}

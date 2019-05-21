@@ -44,3 +44,4 @@
 2019-05-21 10:10:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\Users\ar\Documents\PHP\shopoes\system\library\db\mysqli.php on line 10
 2019-05-21 10:32:12 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\ar\Documents\PHP\shopoes\system\library\template\Twig\Node\Module.php on line 346
 2019-05-21 10:43:25 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\ar\Documents\PHP\shopoes\system\library\template\Twig\Node\Module.php on line 346
+2019-05-21 11:27:06 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\ar\Documents\PHP\shopoes\system\library\template\Twig\Node\Module.php on line 346
